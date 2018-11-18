@@ -1,0 +1,3660 @@
+1's complement	complemento a 1	
+2.5G	2.5G	
+3.5'' disk	dischetto da 3,5"  	
+32 kai	32 kai	japanese character system
+32 kai large	32 kai grande	japanese character system
+3D	3D	
+3D 	visualizzazione 3D	
+3D attributes	attributi 3D	
+3D controller	controller 3D	
+3D view	rappresentazione 3D	
+3D view	vista 3D	
+3GPP	3GPP	
+3GPP2	3GPP2	
+4 (low)	4 (bassa)	(screen resolution)
+5 (lowest)	5 (bassissima)	(screen resolution)
+ABCD wheel	selettore ABCD	OLH
+abort	interrompere	
+absolute record	numero record dati	
+absolute value	valore assoluto	
+accent	accento	
+accept	accettare	
+access control list (ACL)	elenco di controllo di accesso (ACL - Access Control List)	Please do not use the term “lista di controllo di accesso” any longer. Starting from Feb 2006 the right translation is "elenco di controllo di accesso"
+accessibility	accesso facilitato	
+account	account	
+action	azione	
+action canceled	azione interrotta	
+action not supported	operazione non supportata	
+actions	operazioni	
+activate	attivare	
+activate document	attivare documento	
+activate test mode	attivare modo testo	
+activation order	sequenza di attivazione	
+active	attivo	
+active folders	gruppi attivi	It refers to the folders of a Newsgroup for a subscription
+active link	link attivo	
+active node	nodo attivo	
+active window	finestra attiva	
+Activex control	controllo Activex	
+acute accent	accento acuto	
+Adabas	Adabas	
+adapt	adattare	
+adapt array area	adattare l'area di matrice	
+Add Commands	Aggiungi comandi	Voce UI - fin. dialogo
+add-in	addin	
+add-ons	add-on	
+addition	addizione	
+additional formats	ulteriori formati	
+additional gallery themes	temi opzionali per la Gallery	
+additional information	ulteriori informazioni	
+additional language modules	moduli linguistici supplementari	
+additional scale factor	fattore distanza di quotatura	
+additional styles	altri modelli	
+additonal information	informazione aggiuntiva	In a text document insert a table form then open the context menu and choose “control field”-- Sun
+address	indirizzo	
+address book	rubrica	
+address book source	fonte rubrica	
+address field	campo indirizzo	
+address form	inizio lettera	
+addressee	destinatario	
+addressee data	dati del destinatario	
+adjust	adattare	
+adjust column width	cambiare larghezza colonna	
+administrate	amministrare	
+administrator	amministratore	
+advance slides	cambio pagina	
+advanced filter	filtro speciale	
+agenda	agenda	
+agenda title	titolo agenda	
+agenda topic	punto all'ordine del giorno	
+aging	invecchiamento	
+aging degree	grado di invecchiamento	
+AIX	AIX	
+alarm event	evento di allarme	
+alias	alias	
+align bottom	disponi in basso	
+align center	allinea al centro	
+align center horizontally	allinea al centro in orizzontale	
+align center vertically	allinea al centro in verticale	
+align centered	centrato	
+align data source	allinea sorgente dati	
+align left	allinea a sinistra	menu item
+align left	allineato a sinistra	toolbox item
+align middle	centrato	
+align right	allinea a destra	
+align to bottom	allinea in basso	
+align to top	allinea in alto	
+align top	allinea in alto	
+align vertical center	disponi al centro in verticale	
+alignment	allineamento	
+All control points in Bézier editor	Tutti i punti di controllo nell'editor Bézier	Voce UI
+allow	permettere	
+Allow quick editing	Permetti modifica rapida	
+alpha	alfa	
+alphabetic presentation forms	forme di presentazione alfabetiche	
+alphabetical delimiter	separatori alfabetici	
+alphabetical index	indice analitico	
+alphanumeric	alfanumerico	
+alternating	alternativamente	
+alternative (text only)	testo alternativo	
+Always with current page	Sempre con la pagina corrente	Voce UI
+ambient light	luce ambientale	
+anchor	ancoraggio	
+anchor	ancorare	
+angle	angolo	
+angle brackets	parentesi uncinate	
+angle control	controllo angolo	
+angled connector line	linea angolata una volta	
+angled line	linea angolata	
+animation	animazione	
+animation cycles	passaggi animazione	
+animation effects	effetti di animazione	
+animation group	gruppo animazione	
+animation order	sequenza di animazione	
+animation parameters	parametri animazione	
+animations	animazioni	
+animations allowed	permettere animazioni	
+annotation	annotazione	
+anonymous user	utente anonimo	
+another complex number	ulteriore numero complesso	
+ansi text	testo ansi	
+antialiasing	antialiasing	
+any record	qualsiasi record di dati	
+APOP	APOP	authenticated post office protocol 
+aportisdoc (palm)	aportisdoc (palm)	
+appear	scoprire	
+appearance	rappresentazione	
+appearance	aspetto	
+Appearance	Vista	Voce UI
+append libraries	libreria	allegare una 
+append sheet	allegare una tabella	
+append space	allegare spazi	
+apple/sgi audio	apple/sgi audio	
+applet	applet (la/l')	
+applet object	oggetto applet	
+applets	applet (le)	
+application	applicazione	
+application background	sfondo delle applicazioni	
+application component	componente di applicazione	
+application provisioning	provisioning di applicazione	
+application/document	applicazione/documento	
+applications	Applicazioni	
+applied	applicato	
+applied paragraph styles	modello di paragrafo impostato	
+applied styles	modelli usati	
+apply	applicare	“activate” a function or a formatting
+apply	assegnare	(a layout – a style) 
+apply 3D favorite	applicare 3D preferito	
+apply attributes	applicare attributi	
+apply autoformat options	applicare le opzioni di formattazione automatica	
+apply border	applicare bordo	
+apply cell style	applicare modello di cella	
+apply column name	importare nomi colonne	
+apply columns	applicare colonne	
+apply field format	usare formattazioni di campo	
+apply filter	applicare filtro	
+apply form-based filter	applicare filtro basato sul formulario	
+apply frame style	applicare modello di cornice	
+apply names	applicare nomi	
+apply page style	applicare modello di pagina	assegnare modello di pagina 
+apply presentation layout	assegnare layout di presentazione	
+apply replacement table	applicare tabella di sostituzione	
+apply style	applicare modello	
+apply styles	applicare stili	
+apply user data	usare i dati utente	
+arabic presentation forms	forme di presentazione arabe	
+arc	arco	
+arccosine	arcocoseno	
+arccotangent	arcocotangente	
+archive file	file di archivio	
+archives	archivi	
+arcsine	arcoseno	
+arctangent	arcotangente	
+area	area	
+area hyperbolic cosine	inversa del coseno iperbolico	
+area hyperbolic cotangent	inversa della cotangente iperbolica	
+area hyperbolic sine	inversa del seno iperbolico	
+area hyperbolic tangent	inversa della tangente iperbolica	
+areas	aree	
+arrange	disporre	
+arrange icons	disporre simboli	
+arrange object	disporre oggetti	
+arrange object	disporre oggetti	
+array	matrice	
+arrow	freccia	
+arrow concave	freccia concava	
+arrow cursor	cursore a freccia ricurva	
+arrowheads	estremità linea	
+article	articolo	
+artificial turf	prato artificiale	
+as button	come pulsante	
+as character	come carattere	
+as data sheet	tabellare	
+ascending	crescente	
+ascii filter options	opzioni filtro ascii	
+asian font	caratteri asiatici	
+asian languages support	supporto lingue asiatiche	
+asian layout	layout asiatico	
+asian text font	carattere asiatico	
+asian text:	testo asiatico:	
+asian typography	tipografia asiatica	
+asinh	arcsenh	
+assign	assegnare	
+assign design	assegnare disegno	
+assign macro	assegnare macro	
+assign names	assegnare nomi	
+assign styles	assegnare modello	
+assigned macro	macro assegnata	
+assigned to	riferito a	
+assignment	assegnazione	
+Assistive Technology tools (AT)	funzioni di accesso facilitato	
+ATM (Asynchronous Transfer Mode)	ATM (Asynchronous Transfer Mode)	
+attach	collegare	
+attach data	allegare i dati	
+attach file	allegare file	
+attachments	allegati	
+audit trail	traccia di riferimento per la revisione	
+auditing	revisione	
+authentication method	metodo di autenticazione	
+authentication, authorization, and accounting (AAA)	autenticazione, autorizzazione e accounting (AAA)	
+author	mittente	
+auto line length	lunghezza automatica linea	
+auto-abstract	abstract automatico	Voce UI
+auto-increment statement	espressione incremento automatico	
+AutoAbstract	Abstract automatico	
+autoabstract to presentation	abstract automatico alla presentazione	
+autocad import	importazione autocad	
+autocad import filter	filtro d'importazione autocad	
+autocalculate	calcolo automatico	
+autocalculation on/off	calcolo automatico on/off	
+autocheck	controllo automatico	
+autocontour	contorno automatico	
+autocorrect/autoformat	correzione/formattazione automatica	
+autofill	riempimento automaticamente	
+autofilter	filtro automatico	
+autofit frame height	adattamento automatico dell'altezza cornice	
+autofit frame width	adattamento automatico della larghezza cornice	
+autofit height	adattamento altezza automatico	
+autofit width	adattamento automatico larghezza	
+autoformat	formattazione automatica	
+autoformat while typing	formattazione automatica durante la digitazione	
+AutoHide	AutoHide	
+autoinput	digitazione automatica	
+autoinput on/off	digitazione automatica on/off	
+automail	mail automatica	
+automatic	automatico	
+automatic control focus	punto focale automatico di controllo	
+automatic detection	riconoscimento automatico	
+automatic layout 	layout automatico	
+automatic line break	testo a capo automatico	
+automatic page breaks	interruzioni pagina automatiche	
+automatic positioning	posizionamento automatico	
+automatic row break	a capo automatico	
+automatic scrolling	scorrimento automatico	
+automatic sort	ordine autom.	
+automatic text alignment	allineamento automatico testo	
+automatic type recognition	riconoscimento autom. tipo	
+automatically	in modo automatico	
+autonumbering	numerazione automatica	
+autooutline	struttura automatica	
+autopilot	Pilota automatico	
+autopilot agenda	Pilota automatico agenda	
+autopilot combo box	Pilota automatico casella combinata	
+autopilot fax	Pilota automatico fax	
+autopilot group element	Pilota automatico - elemento di gruppo	
+autopilot letter	Pilota automatico lettera	
+autopilot list box	Pilota automatico casella di riepilogo	
+autopilot memo	Pilota automatico memo	
+autopilot menu	menu Pilota automatico	
+autopilot presentation	Pilota automatico presentazione	
+autopilot query	Pilota automatico - ricerca	
+autopilot table	Pilota automatico - tabella	
+autopilot table element	Pilota automatico - elemento tabella	
+autopilot web page	Pilota automatico pagina Web	
+autopilot: functions	Pilota automatico di funzione	
+autopilots	Pilota automatico	
+autopilots on/off	Pilota automatico on/off	
+autorefresh	aggiornare automaticamente	
+autosave	salvare automaticamente	
+AutoShow	AutoShow	
+autosize text	dimensione testo automatico	
+autospellcheck	controllo ortografico automatico	
+AutoText	Testo automatico	
+autoupdate	aggiornamento automaticamente	
+autoupdate display	aggiornamento automatico della vista	
+autoupdate traces	aggiornare automaticamente le tracce	
+autovalue	valore automatico	
+available buttons	pulsanti disponibili	
+available databases	database disponibili	
+available language modules	moduli linguistici disponibili	
+available tables/ranges	sezioni/tabelle disponibili	
+available updates	Aggiornamenti disponibili	
+average	media	
+axes	asse	
+axestitle on/off	mostra/nascondi il titolo degli assi	
+axial	assiale	
+axial light red/white	assiale rosso chiaro/bianco	
+b-spline with symbols	b-spline con simboli	
+b&w preview	anteprima in bianco e nero	
+ba/va, ha/fa	ba/va, ha/fa	
+back	indietro	
+back to message	ritorna al messaggio	
+back to webtop	ritorna al webtop	
+back up	eseguire il backup	
+background	sfondo	
+background color	colore di sfondo	
+background fill	riempimento sfondo	
+background image	immagine di sfondo	
+background objects	oggetti di sfondo	
+background pattern	motivo sfondo	
+backgrounds	sfondi	
+backspace	(Backspace)	
+backup file	file di backup	
+backups	backup	
+backwards	indietro	
+balloons	vignetta	
+bar width	larghezza barre	
+bar/column shape	forma barre/colonne	
+bars	barre	
+base	base	
+base at bottom	base in basso	
+base at top	base in alto	
+base format	formato di base	
+base in middle	base al centro	
+base line	linea di base	
+base line centered	linea di base centrata	
+base point	punto base	
+base text	testo base	
+basic runtime error	errore di runtime basic	
+basis	base	
+batch file	file di batch	
+beamer	beamer	
+before commencing	prima dell'esecuzione	
+before current sheet	prima della tabella corrente	
+before deletion	prima di eliminare	
+before insert	prima di inserire	
+before inserting autotext	prima d'inserire il testo automatico	
+before paragraph	precede il testo	
+before unloading	prima di scaricare	
+before updating	prima di aggiornare	
+begin horizontal	inizio orizzontale	
+begin vertical	inizio verticale	
+Berkeley DB	Berkeley DB	
+Bézier	Bézier	
+Bézier curve	curva di Bézier	
+Bézier mode	Modo Bézier	
+Bézier object bar	barra degli oggetti di Bézier	
+bibliography	bibliografia	
+bibliography database	database bibliografico	
+bibliography entry	voce bibliografia	
+binary	binario	
+binary file	file binario	
+binary operator expected	operatore binario atteso	
+birth day	giorno nascita	
+birth month	mese nascita	
+birth year	anno nascita	
+bitmap	bitmap	
+bitmap object	oggetto bitmap	
+bitmap scaling	estensione bitmap	
+bitmap with transparency	bitmap con trasparenza	
+bitmapped graphic	grafica bitmap	
+black	nero	
+black & white	bianco e nero	
+blank	vuoto	
+blank document	nuovo documento	
+blank graphic object	oggetto grafico vuoto	
+blank group object	gruppo di oggetti vuoto	
+blank group objects	gruppi di oggetti vuoti	
+blank lines	righe vuote	
+blank linked graphic	oggetto grafico vuoto collegato	
+blank page	pagina vuota	
+blank slide	diapositiva vuota	
+blank template	modello vuoto	
+blind copy	bcc	
+blind copy to	bcc a	
+blink	lampeggio	
+blinking	lampeggiante	
+block elements	blocchi	
+block increment	incremento blocco	
+blue	blu	
+Bluetooth	Bluetooth	
+bold	grassetto	
+bold (thickness)	grassetto (spessore carattere)	
+bold italic	grassetto corsivo	
+bold off	grassetto off	
+bold on	grassetto on	
+book	libro	
+book excerpt	brano	
+book title	titolo del libro	
+bookmark	bookmark	browser
+bookmark	segnalibro	text document 
+bookmark file	file di bookmark	
+bookmark folder	cartella dei bookmark	
+bookmark subscription	sottoscrizione bookmark	
+bookmarks	segnalibri	
+boolean and	e logico	
+boolean not	no logico	
+boolean or	o logico	
+boolean value	valore booleano	
+boolean xor	logica o esclusiva	
+bopomofo	bopomofo	
+bordeaux	bordeaux	
+border	bordo	
+border / background	bordo / sfondo	
+bottom	in basso	
+bottom border line	bordo inferiore	
+bottom left	a sinistra in basso	
+bottom margin	margine inferiore	
+bottom middle	al centro in basso	
+bottom of baseline	base in basso	
+bottom of character	carattere in basso	
+bottom of line	riga in basso	
+bottom paragraph border	margine inferiore paragrafo	
+bottom right	a destra/in basso	
+bottom row	riga inferiore	
+bottom to top	dal basso in alto	
+bound field	campo collegato	
+box drawing	disegno caselle	
+braces	parentesi graffe	
+braces (scalable)	parentesi graffe (in scala)	
+braces bottom (scalable)	parentesi tonda in basso (in scala)	
+braces top (scalable)	parentesi tonda in alto (in scala)	
+brackets	parentesi	
+brand	marca	
+break	(Inter)	
+break	interruzione	
+break link	interruzione	
+breakpoint	punto di interruzione	
+brightness	luminosità	
+bring along	portare	
+bring forward	portare più avanti	
+bring to front	portare in primo piano	
+brochure	dépliant	
+broken line	linea interrotta	
+brown	marrone	
+brownstone	mattoni	
+browse	sfogliare	when it refers to a button for the search of a file or a folder 
+browser options	opzioni browser	
+browsing	navigazione, spostamento	
+brush	pennello	
+build from bottom	forma dal basso	
+build from left	modella da sinistra	
+build from right	modella da destra	
+build from top	forma dall'alto	
+build up	modellare	
+build-in compatibility	compatibilità integrata	
+built-in	integrare	integrato
+bullet	punti	
+business correspondence	corrispondenza commerciale	
+business data	dati lavoro	
+business letter	lettera commerciale	
+busy	sovraccarico	
+button	pulsante	
+button type	tipo di pulsante	
+buttons in use	pulsanti utilizzati	
+byte	byte	
+cache	cache	
+calculate	calcolare	
+calendar	calendario	
+callout	legenda	
+callout attributes	attributi legenda	
+callout type	tipo di legenda	
+callouts	legenda	
+camera	punto di osservazione	
+camera position	posizione focale	
+canadan aboriginal syllables	sillabe delle lingue autoctone canadesi	
+cancel	annullare	
+cancel AutoPilot	interrompere Pilota automatico	
+cancel recording	annullare la registrazione	
+canceled by user	interruzione dell'utente	
+capital words	parole maiuscole	
+capitalization error	errore relativo alle lettere maiuscole	
+capitals	maiuscolo	
+caps lock	(Bloc maiusc)	
+caption	didascalia	a meno che non stia a significare -intestazione-  (Paolo)
+caption 	intestazione	(heading)
+caption characters	carattere per dicitura	
+caption text	dicitura	
+cascade	sovrapporre	
+case match	stile carattere	
+case sensitive	maiuscole/minuscole	
+case/characters	maiuscole/minuscole	
+catalog	catalogo	
+categories	categorie	
+category and number	numero e categoria	
+cd-rom drive	lettore di CD	drive CD-ROM 
+cde integration	integrazione CDE	
+CDMA (Code-Division Multiple Access)	CDMA (Code-Division Multiple Access)	
+cell	cella	
+cell pop-up menu	menu a comparsa per celle	
+cell protection	protezione celle	
+cell style	modello di cella	
+center	al centro	
+center area	area centrale	
+center of character	carattere centrato	
+center of line	riga centrata	
+centered	centrato	
+centimeter	centimetro	
+central configuration tool	strumento per la configurazione centrale	
+change anchor	cambiare ancoraggio	
+change database	cambiare database	
+change database range	modificare aree database	
+change font	cambiare font	
+Change Icon	Cambia icona	Voce UI
+change name	cambiare nome	
+change page number	cambiare numero pagina	
+change password	cambiare password	
+change password protection	cambia protezione password	
+change position	cambiare posizione	
+change scale	modificare scala	
+change slides manually	avanzamento manuale	
+change tracking	annotazione delle modifiche	
+changed	modificato	
+changed attributes	cambiare attributi	
+changed contents	modificare contenuto	
+changes	modifiche	
+changes rejected	modifiche non salvate	
+channel subscription	sottoscrizione channel	
+chapter	capitolo	
+chapter entry	voce capitolo	
+chapter info	informazioni capitolo	
+chapter name	nome capitolo	
+chapter no.	capitolo no.	
+chapter number	numero capitolo	
+chapter styles	modelli di capitolo	
+chapters	capitoli	
+character	carattere	
+character background	sfondo carattere	
+character code	codice carattere	
+character set	set di caratteri	
+character set color	colore set di caratteri	
+character spacing	spazio tra caratteri	
+character style	modello di carattere	
+character type	tipo di carattere	
+characters after break	caratteri dopo la sillabazione	
+characters before break	caratteri prima della sillabazione	
+characters per line	caratteri per riga	
+characters scaled	scala carattere	
+charcoal sketch	carboncino	
+chart	diagramma	
+chart area	area del diagramma	
+chart bar	barra dei diagrammi	
+chart category	categoria diagramma	
+chart colors	colori diagramma	
+chart data	dati del diagramma	
+chart floor	pavimento del diagramma	
+chart mode	modo diagramma	
+chart type	tipo di diagramma	
+chart wall	pareti del diagramma	
+chat	conversare in linea	
+check	verifica	
+check box	casella di controllo	
+check capitalization	maiuscole e minuscole	
+check special regions	controllare aree speciali	
+check uppercase words	controllare parole maiuscole	
+checkboxes	caselle di controllo	
+checkered	a quadretti	
+checkered diagonal	a quadretti diagonali	
+Checking for Updates	Ricerca aggiornamenti	
+checksum	somma di controllo	
+chi	chi	
+choose	scegliere	
+choose a driver	selezionare un driver	
+choose a name	indicare un nome	
+choose a variant	scegliere una variante	
+choose data source	selezionare sorgente dati	
+choose database	scelta database	
+choose themes	scelta argomento	
+chrome	cromato	
+cHTML	cHTML	simplified version of HTML suitable for mobile devices
+circle	cerchio	
+circle arc	arco di cerchio	
+circle attributes	attributi cerchio	
+circle pie	settore di cerchio	
+circle pie, unfilled	settore di cerchio vuoto	
+circle sector	settore di cerchio	
+circle segment	segmento di cerchio	
+circle segment, unfilled	segmento di cerchio vuoto	
+circle, unfilled	cerchio vuoto	
+circular reference	riferimento circolare	
+circumflex	accento circonflesso	
+city	località	
+cjk compatibility	compatibilità cjk	
+cjk compatibility forms	forme compatibili cjk	
+cjk compatibility ideographs	ideogrammi compatibili cjk	
+cjk miscellaneous	caratteri cjk	
+cjk unified ideographs	ideogramma cjk unificato	
+Claris Works import	importazione Claris Works	
+class	classe	
+class id	indice di classe	
+classic	classico	
+classpath	classpath	
+clear disk cache	eliminare cache del disco rigido	
+clear memory cache	cancellare la cache della memoria	
+clear outline	eliminare struttura	
+clear print range	rimuovere area di stampa	
+clear query	eliminare ricerca	
+click	fare clic	
+Click	Fate clic	
+client-side image map	image map dalla parte del client	
+cliparts	clipart	
+close	chiudere	
+close all files	chiudere tutti i file	
+close all windows	chiudere tutte le finestre	
+close application	chiudere applicazione	
+CMYK	CMYK	
+coarse grained	grana grossa	
+code	codice	
+code-set independent	indipendente da un set di codici	
+coding standard	standard di codifica	
+coefficients	coefficienti	
+collate	ordinare	
+color	colore	
+color bar	barra dei colori	
+color depth	profondità cromatica	
+color format	formato colore	
+color palette	tavola dei colori	
+color preview	colore di anteprima	
+color required	atteso colore	
+color resolution	profondità cromatica	
+color scheme	schema colori	
+color scheme deletion	conferma eliminazione dello schema	
+color setting	impostazione colori	
+color table	tavola dei colori	
+color table	tabella colori	
+colored tab controls	schede colorate	
+Colors	Colori	
+column	colonna	
+column arrangement	assegnazione colonne	
+column break	interruzione colonna	
+column deleted	colonna cancellata	
+column labels	intestazioni colonne	
+column marker	separatore	
+column names	nomi colonna	
+column spacing	distanza colonne	
+column type	tipo colonna	
+column wrap	scorrimento a colonne	
+column/row headers on/off	mostrare/nascondere intestazioni righe/colonne	
+columns to repeat	colonna da ripetere	
+combination	combinazione	
+combine	combinare	
+combine characters	combinare caratteri	
+combine identical entries	riunire voci uguali	
+combine paragraphs	mantenere assieme i paragrafi	
+combining diacritical marks	caratteri diacritici di combinazione	
+combining diacritical symbols	simboli diacritici di combinazione	
+combo box	casella combinata	
+comma	virgola	
+command	comando	
+command mode	modo comando	
+command successfully executed	comando eseguito con successo	
+command to execute	comando da eseguire	
+comment	commento	
+commentator information system	informazioni per i commentatori	
+commercial-grade (adj.)	di qualità commerciale	
+communication	comunicazione	
+company	azienda	
+compare	confrontare	
+compare document	confronto documento	
+comparison aborted	confronto interrotto	
+compatibility	compatibilità	
+compile	compilare	
+compile error	errore di compilazione	
+compile installation profiles	raccogliere i profili di installazione	
+complete directory	tutte le cartelle	
+complete words only	solo parole intere	
+complex	complesso	
+complex data model	modello di dati complesso	
+complex number	numero complesso	
+complex numbers set	insieme dei numeri complessi	
+complex text layout	disposizione testo complesso	
+complimentary close	formula di saluto	formula di apertura 
+component	componente [il]	
+component resized	dimensione cambiata	
+components	componenti [i]	
+compress punctuation only	comprimere solo le interpunzioni	
+compression	compressione	
+compute-intensive application	applicazioni complesse	
+compute-intensive modeling	elaborazione di modelli complessi	
+computing infrastructure	infrastruttura informatica	
+concatenate	concatenazione	
+concordance file	file di concordanza	
+condensed	compatto	
+condition	condizione	
+conditional formatting	formattazione condizionata	
+conditional paths	percorsi condizionati	
+conditional styles	modelli condizionati	
+conditional text	testo condizionale	
+cone	cono	
+conference proceedings	rapporto sulla conferenza	
+confidence	riservatezza	
+confidential	riservato	
+confidentiality level	livello di riservatezza	
+configuration	configurazione	
+configuration file	file di configurazione	
+configuration management feature	funzione di gestione della configurazione	
+configure	adattare	configurare 
+confirm	confermare	
+confirm delete	confermare 'elimina'	
+confirm deletion	confermare 'elimina'	
+confirm file replacement	confermare sostituzione dati	
+confirm master password	confermare password principale	
+confirm overwrite	domanda di controllo	
+connect	collegare	
+connection	collegamento	
+connection failed	impossibile creare il collegamento	
+connection lines	linee di collegamento	
+connection lost	il collegamento è stato interrotto	
+connection mode	modo collegamento	
+connection pool	insieme di collegamenti	
+connector	connettore	
+connector attributes	attributi connettore	
+connector reserved	riservato per connettore	
+connector with arrows	connettore con frecce	
+connector with circles	connettore con cerchi	
+consecutive numbering	numerazione continua	
+consolidate	consolidare	
+consolidate by	consolidare per	
+consolidate data	consolidare i dati	
+consolidation ranges	aree di consolidamento	
+constant value	valore costante	
+constraints	limitazioni	
+contains	contiene	
+contains column labels	contiene intestazioni colonne	
+contains row labels	include intestazioni righe	
+content	contenuto	
+content type	tipo di contenuto	
+content view	commuta la vista del contenuto	
+contents	indice	
+contents heading	intestazione indice	
+contents not protected	contenuto non protetto	
+contents protected	contenuto protetto	
+context	contesto	
+context menu	menu contestuale	
+context-aware services	servizi sensibili al contesto	
+continuation notice	avvertenza che la nota continua	
+continuation page	pagina successiva	
+continue search backwards	cercare all'indietro	
+continue search forward	cercare in avanti	
+continuous	continuo	piena 
+contour	contorno	
+contour control	controllo contorno	
+contour dialog	dialogo contorno	
+contour editor	editor contorno	
+contour line	profilo	
+contour mode	modo profilo	
+contractions (yo-on, sokuon)	contrazioni (yo-on, sokuon)	(japanese writing system) 
+contrast	contrasto	
+control	campo di controllo	
+control bar	barra dei campi di controllo	
+control focus	campo di controllo focus	
+control password	verifica password	
+control pictures	simboli tastiera	
+control properties	proprietà campo di controllo	
+controls toolbar	barra dei campi di controllo	
+convert	convertire	
+convert polygon segment	convertire segmento poligono	
+convert table/text	convertire tabella/testo	
+convert to bitmap	convertire in bitmap	
+convert to contour	convertire in contorno	
+convert to curve	convertire in curva	
+convert to metafile	convertire in metafile	
+convert to polygon	convertire in poligono	
+converting the documents	conversione dei documenti	
+cookie reception	ricevimento cookie	
+cookies	cookie	
+coproduct	coprodotto	
+copy	copia	
+copy back	ricopiare all'indietro	
+copy column description	copiare la descrizione della colonna	
+copy entire sheet	copiare intera tabella	
+copy graphics	copiare immagine	
+copy heading	copiare intestazione	
+copy HTML table	copiare tabella HTML	
+copy link	copiare link	
+copy list	copiare elenco	
+copy page	copiare pagina	
+copy results to	risultato a partire da	scrivere il risultato del filtro in 
+copy rtf table	copia tabella rtf	
+copy sheet	copia tabella	
+copy table	copia tabella	
+copy to	copia a	
+copy user files	copia dei file dell'utente	
+copy values only	copiare solo i valori	
+copy when moving	copia nello spostare	
+Copy when moving	Copia durante lo spostamento	Voce UI
+copy-back error	errore di copy-back	
+copy/move to	copia/sposta a	
+copying in progress	copia in corso	
+core OS	sistema operativo principale	
+corner	angoloso	
+corner control	controllo spigolo	
+corner point	imposta angolo	
+corner radius	raggio d'angolo	
+correl	correlazione	
+cosine	coseno	
+cost	costo	
+cost of operations	costo di gestione	
+cotangent	cotangente	
+count	contare	
+count	numero	
+count lines	contare le righe	
+counting	conteggio	
+country	paese	
+country/region	paese/regione	
+country/state	provincia/paese	
+cover	copertura	
+crash	crash	
+create autoabstract	creare un sommario automatico 	
+create control	creare controllo	
+create datapilot table	creare tabella di datapilot	
+create directory	creare cartella	
+create document	creare documento	
+create extrusion object	creare un oggetto di estrusione	
+create fontwork object	creare un oggetto fontwork	
+create from file	creare da file	
+create group	creare gruppo	
+create HTML document	creare documento HTML	
+create log file	creare file di log	
+create master document	creare documento master	
+create names	creare nomi	
+create new	creare nuovo	
+create new folder	creare nuova cartella	
+create option group	creare gruppo di opzioni	
+create primary key	creare chiave primaria	
+create rotation object	creare un oggetto di rotazione	
+create row only	creare solo righe	
+create scenario	creare scenario	
+create separate file	creare file distinto	
+create slides	creare pagine	
+create style	creare modello	
+create summary	creare sommario	
+create table	creare tabella	
+create table element	creare elemento tabelle	
+create template	creazione modelli	
+create title page	creare pagina sommario	
+created	creato	
+creating abstract	creare sommario	
+creating database files	creare file database	
+creating directories	creazione delle cartelle	
+creating local settings	creare impostazioni locali	impostazioni locali in corso 
+criteria	criteri	
+cronjob	cronjob	(UNIX only) A task that is executed automatically by the cron daemon at a configured time. See also crontab file. 
+crontab	crontab	
+crop	taglia	
+cross-fade from bottom	dissolvere dal basso	
+cross-fade from left	dissolvere da sinistra	
+cross-fade from right	dissolvere da destra	
+cross-fade from top	dissolvere dall'alto	
+cross-fading	dissolvi  	
+cross-fading	morphing	
+cross-fading	sfogliare	quando si riferisce a un pulsante per la ricerca di un file o una cartella
+cross-platform software	software indipendente dalla piattaforma	
+cross-platform support	supporto di piattaforme diverse 	
+cross-reference	   riferimento incrociato 	
+Cross-referencing	   riferimento incrociato 	
+CRS (Central Repository System)	Sistema di archiviazione centrale (CRS)	
+ctl	script complessi	
+ctl font	carattere per script complessi	
+CTRL	(Ctrl)	
+cube	cubo	
+cubic spline	spline cubico	
+currency	valuta	
+currency field	campo valuta	
+currency ranges	aree valuta	
+currency symbol	simbolo valuta	
+current	attuale, attivo, corrente	
+current basic module	modulo basic attuale	
+current context	contesto corrente	
+current date	data attuale	
+current document only	solo per il documento attivo	
+current driver	driver attuale	
+current index	indice attuale	
+current library	libreria attuale	
+current location	posizione attuale	
+current printer	stampante attuale	
+current section	sezione attuale	[sezione attiva] 
+current selection	selezione attuale	[selezione attiva] 
+current selection only	solo nella selezione	
+current time	orario corrente	
+current value	valori attuali	[valori attivi] 
+current version	versione attuale	
+currently selected item	oggetto selezionato	
+currently used memory	memoria attualmente in uso	
+cursor control	controllo cursore	
+cursor type	tipo di cursore	
+curve	curva	
+curve integral	integrale curvilineo	
+curve objects	oggetti curva	
+curve, filled	curva piena	
+curved connector	connettore curvo	
+custom fonts	caratteri personalizzati	
+custom format	formato personalizzato	
+custom heading	intestazione personalizzata	
+custom hyphens	sillabazione manuale	
+custom installation	installazione personalizzata	
+custom quotes	virgolette tipografiche	
+custom slide show	presentazione personalizzata	
+custom sort order	sequenza personalizzata	
+custom styles	modelli personalizzati	
+customer support	supporto tecnico	
+Customize	Personalizza	Voce UI - Finestra dialogo
+customize buttons	modifica pulsante	
+Customize Toolbar	Personalizza barra degli strumenti	Voce UI
+customize toolbars	adatta barra dei simboli	
+customize toolbars	personalizzare barre dei simboli	
+customizing	personalizzare	
+cut	tagliare	
+cyan	ciano	
+cylinder	cilindro	
+cylinder	colonne rotonde	
+Cylinder, deep	colonne rontonde, in basso	
+cylinder, percent	colonne rotonde, percentuale	
+cylinder, stacked	colonne rotonde sovrapposte	
+dark violet	lilla scuro	
+dash	tratto	
+dash (bold)	tratto grassetto	
+dashed	a tratti	
+dashes and dots	trattini e punti	
+data	dati	
+data column symbol	simbolo dati colonna	
+data columns label	dicitura colonne di dati	
+data field	campo di dati	
+data in columns	dati nelle colonne	
+data in rows	dati nelle righe	
+data increment (mb)	dimensione di incremento (mb)	
+data labels	dicitura dati	
+data point	punto dati	
+data points order	ordine dei punti di appoggio	
+data range	area dati	
+data rows label	dicitura righe di dati	
+data schema	schema dati	
+data series	serie di dati	
+data series symbol	simbolo serie di dati	
+data source	sorgente dati	
+data source administration	gestione delle sorgenti di dati	
+data source name	nome sorgente dati	
+data source object	oggetto sorgente dati	
+data source table	tabella sorgente dati	
+data source URL	URL sorgente dati	
+data storage system	sistema di memorizzazione di dati	
+data swapping	trasferimento dei dati	
+data type mismatch	tipo di dati non compatibili	
+data visualization program	programma di visualizzazione di dati	
+database	database	
+database columns	colonne database	
+database connection	connessione al database, connessione del database	
+database field	campo database	
+database import terminated	importazione database interrotta	
+database name	nome database	
+database ranges	aree database	
+database selection	scelta database	
+database size (mb)	dimensioni database (mb)	
+database statistics	statistiche database	
+database table	tabella database	
+database type	tipo di database	
+databases in use	database utilizzati	
+datapilot	datapilot	
+datapilot filter	filtro datapilot	
+datapilot pop-up menu	menu a comparsa datapilot	
+date	data	
+date and time	data e ora	
+date field	campo data	
+date format	formato data	
+date modified	data di modifica	
+dbase	dbase	
+dbase export	esportazione dbase	
+dde	DDE	
+DDE automatic	DDE automatico	
+DDE channel locked	canale DDE bloccato	
+DDE command	comando DDE	
+deactivate	disattivare	
+deactivate document	disattivare documento	
+deactivate for	disattivare per	
+decimal	decimale	
+decimal accuracy	posizioni decimali	
+decimal places	posizioni decimali	
+decimal separator	carattere di separazione decimali	
+decimal symbol	carattere decimale	
+decrease indent	ridurre rientro	
+decrease spacing	ridurre spaziatura paragrafi	
+decrement indent value	ridurre valore rientro	
+default 	predefinito	
+default button	pulsante standard	
+default colors	colori di base	
+default control	elemento di controllo standard	
+default currency	valuta standard	
+default e-mail program	programma standard eMail	
+default field selection	selezione campi standard	
+default filter	filtro standard	
+default fonts	carattere standard	
+default HTML editor	HTML editor standard	
+default layout	layout standard	
+default orientation	orientamento standard	
+default paths	percorsi standard	
+default printer	stampante predefinita	
+default selection	selezione standard	
+default value	valore standard	
+defective Java installation	installazione Java difettosa	
+define	definire	
+definition	definizione	
+definition and data	definizione e dati	
+degrees	grado	
+degrees freedom	gradi libertà	
+deinstall	disinstallazione	
+delay	ritardo	
+delete	(Canc)	Keyboard 
+delete	eliminare	
+delete all files	cancellare tutti i file	
+delete autoformat	cancellare formattazione automatica	
+delete autotext	eliminare inserimento testo automatico	
+delete bitmap	cancellare bitmap	eliminare bitmap 
+delete bookmark	eliminare segnalibro	
+delete cascade	eliminare cascata	
+delete cells	eliminare celle	
+delete column	eliminare colonna	
+delete column break	eliminare interruzione colonna	
+delete contents	eliminare contenuti	
+delete current index	eliminare l'indice attuale	
+delete data source	eliminare sorgente dati	
+delete datapilot table	eliminare tabella datapilot	
+delete drawing objects	eliminare oggetti di disegno	
+delete driver	eliminare driver	
+delete entire column(s)	cancellare colonne	
+delete entire row(s)	cancellare righe	
+delete entry	cancellare voce	
+delete event entries	eliminare gli eventi	
+delete frame	eliminare cornice	
+delete gradient	eliminare sfumatura	
+delete graphics	eliminare immagine	
+delete hatching	eliminare tratteggio	
+delete history	eliminare cronologia	
+delete icon	eliminare simbolo	
+delete index	rimuovi indice	
+delete join	termina collegamento	
+delete layer	eliminare livello	
+delete line style	eliminare stile riga	
+delete link	eliminare collegamento	
+delete message	elimina messaggio	
+delete numbering	eliminare numerazione	
+delete object	eliminare oggetto	
+delete page	eliminare pagina	
+delete page breaks	eliminare interruzioni di pagina	
+delete partnership	eliminare la partnership	
+delete points	eliminare punti	
+delete record	eliminare record di dati	
+delete row	eliminare riga	
+delete row break	eliminare interruzione riga	
+delete section	eliminare area	eliminare sezione 
+delete selected design	eliminare design selezionato	
+delete sheet	eliminare tabella	
+delete slide	eliminare pagina	
+Delete Slide	Elimina diapositiva	Voce UI
+delete snap line	eliminare linea di cattura	
+delete snap point	eliminare punto di cattura	
+delete table	eliminare tabella	
+delete table window	eliminare finestra di tabella	
+delete unused backgrounds	eliminare pagine di sfondo non utilizzate	
+delete user	cancellare utente	
+deleting directories	eliminare le cartelle	
+deleting files	eliminare i file	
+deleting local settings	eliminare le impostazioni locali	
+deletion	eliminare	
+demote	inferiore	
+Demote	Un livello più basso	Voce UI
+demote chapter	capitolo inferiore	
+demote level	livello inferiore	
+denominator	denominatore	
+department	reparto	
+depth	profondità	
+description	descrizione	
+desktop	desktop	
+desktop toolbar	barra degli strumenti del desktop	
+destination	destinazione	
+detailed view	vista dettagli	
+details	dettagli	
+detective	detective	
+detective error	errore detective	
+detective fill mode	modo di riempimento detective	
+device	apparecchio	
+Device Emulator Registry	Registro di sistema dell'emulatore di periferica (Device Emulator Registry)	
+device i/o error	errore di i/o	
+device not available	apparecchio non disponibile	
+device used	apparecchiatura usata	
+diagonal down	diagonale in basso	
+diagonal line	linea diagonale	
+diagonal up	diagonale in alto	
+dialer	aiuto selezione	
+dialog	finestra di dialogo	
+dialog box	finestra di dialogo 	
+dialog center	centro del dialogo	
+Diameter	Diameter	
+diamond	losanga	carattere speciale
+dictate	dettare	
+dictionary	dizionario	
+dictionary error	errore nel dizionario	
+dif export	esportare dif	
+difference	differenza	
+digital signal processing	elaborazione del segnale digitale	Acronym DSP 
+dimension line	linea di quotatura	
+dimension line overhang	sporgenza linee di quotatura	
+dimension line space	distanza linea di quotatura	
+dimension value format	formato testo di quotatura	
+dimensioning	quotatura	
+dimensioning attributes	attributi di quotatura	
+dimensioning objects	oggetti di quotatura	
+dimensions	dimensioni	
+dimensions	quotatura	
+direct column break	interruzione di colonna fissa	
+direct cursor	cursore diretto	
+direct cursor on/off	cursore diretto on/off	
+direct page break	interruzione di pagina fissa	
+direction	direzione	
+directory	cartella	
+directory path	percorso cartella	
+directory server	directory server (il)	
+directory system agent	agente di sistema di directory	Acronym DSA 
+disable commands	disattiva comandi	
+disc	disco	
+discard	Non salvare	esci 
+discard changes	annullare modifiche	
+disconnect	chiudere collegamento	
+disconnected	collegamento interrotto	
+discount	sconto	
+disk drive	floppy disk	
+disk not ready	dischetto non pronto	
+display	mostrare	
+display	visualizzazione	
+display all	mostrare tutto	
+display black&white	visualizzare in bianco e nero	
+display bullets	mostrare caratteri per la numerazione	
+display colors	visualizzare a colori	
+display dialog box	visualizzare la finestra di dialogo	
+display drop caps	mostrare capolettera	
+display duration	durata visualizzazione	
+display field	campo di visualizzazione	
+display grayscale	visualizzare toni di grigio	
+display grid	mostrare griglia	
+display inactive records	mostrare record non attivi	
+display plug-ins	mostrare i plugins	
+display properties	mostrare proprietà	
+display quality	qualità di visualizzazione	
+display report	visualizzare rapporto	
+display warning	mostrare avviso	
+displaywrite import	importazione displaywrite	
+dissertation	dottorato di ricerca	
+dissolve	risolvi	
+distance	distanza	
+distinct values	valori univoci	
+distort	distorcere	
+distribute	distribuire	
+distribute selected objects	distribuire gli oggetti della selezione	
+distribution	distribuzione	
+divide	dividere	
+dividend	dividendo	
+division (slash)	divisione (barra)	
+division by zero	diviso zero	
+divisor	divisore	
+DN	DN	Distinguished Name 
+dns server	server dns	
+do not delete	non eliminare	
+do not import	non importare	
+do not invert	non invertire	
+do not run	non eseguire	
+do not save	Non salvare	
+do not split	non separare	
+doc information	info documento	
+dock/undock windows	ancorare/sganciare finestra	
+docked toolbar	barra strumenti agganciata	
+docking/floating	aggancio/separazione	
+document	documento	
+document already open	documento già aperto ed attivato	
+document as e-mail	documento come eMail	
+document background	colore di sfondo documento	
+document boundaries	margini documento	
+document contents	contenuto dei documenti	
+document converter	convertitore di documenti	
+document converter	convertitore di documenti	
+document count	numero di documenti	
+document from abstract	crea documento dal sunto	
+document is read-only	il documento è protetto	
+document language	lingua del documento	
+document link	collegamento al documento	
+document manager	gestione documento	
+document mode	modo documento	
+document number	numero revisioni	In the menu File – Properties 
+document options	opzioni di documento	
+document position	posizione documento	
+document properties	proprietà documento	
+document statistics	statistiche documento	
+document status	stato del documento	
+document type	tipo documento	
+document view	vista documento	
+does not divide	non divide	
+domain	area	
+domain user	dominio utente	
+don't count lines	non contare le righe	
+don't display tips	non mostrare più i suggerimenti	
+don't hide	non nascondere	
+don't mirror	non rispecchiare	
+don't print	non stampare	
+don't split paragraph	non dividere paragrafo	
+don't split table	non separare la tabella	
+dos text	testo dos	
+dot	punto	
+dot dash	punto tratto	
+dot dash (bold)	punto tratto grassetto	
+dot dot dash	punto punto tratto	
+dots	punti	
+dots at bottom	punti in basso	
+dots in middle	punti al centro	
+dots to bottom	punti in basso	
+dots to top	punti in alto	
+dots vertically	punti verticali	
+dotted	punto	
+dotted (bold)	punto grassetto	
+dotted underline	sottolineatura punteggiata	
+dotted underline (bold)	sottolineato grassetto punteggiato	
+double	doppia	
+double arrow	freccia doppia	
+double arrow left	freccia doppia a sinistra	
+double arrow right	freccia doppia a destra	
+double curve integral	integrale curvilineo doppio	
+double dot	due punti	
+double integral	integrale doppio	
+double lines	linee doppie	
+double lines (scalable)	linee doppie (in scala)	
+double quotes	virgolette doppie	
+double square brackets	parentesi quadre doppie	
+double strikethrough	barrato doppio	
+double underlne	sottolineatura doppia	
+double wave	ondulato doppio	
+double-angled line	linea angolata due volte	
+Double-click to edit Text	Modifica testo con doppio clic	Voce UI
+double-lined	due righe	
+double-sided	due pagine	
+down	in basso	
+down arrow	(Freccia Su)	Keyboard 
+down arrow	freccia in basso	graphic arrow 
+down arrow	freccia a discesa	
+down one level	un livello più in alto	
+download	download	
+download	scaricare	
+downwards	in basso	
+drag and drop	Drag&Drop	
+drag mode	trascinamento	
+Draw	Draw	
+draw functions	funzioni di disegno	
+draw object	oggetto di disegno	
+draw object bar	barra degli oggetti per disegno	
+draw object bar/graphics	barra degli oggetti disegno/immagine	
+draw object text	oggetto di disegno testo	
+draw object(s)	oggetto(i) di disegno	
+draw text	testo di disegno	
+draw toolbar/graphics	barra degli oggetti disegno/immagine	
+drawing	disegno	
+drawing format	formato disegno	
+drawing object bar	barra degli oggetti per disegno	
+drawing objects	oggetti di disegno	
+drawing scale	scala di disegno	
+Drawing toolbar	barra degli strumenti Disegno	Voce UI
+drawing view	modo disegno	vista disegno
+Drawing/Presentation	Disegno/Presentazione	
+drawings and controls	disegni e controlli	
+drawings toolbar	barra degli oggetti per disegno	
+drive	drive	
+driver	driver	
+driver directory	cartella driver	
+driver installation	installazione driver	
+driver name	nome driver	
+driver settings	impostazioni drive	
+drop caps	capolettera	
+drop down	mostra	
+drop down menu	menu a discesa	Voce UI
+dropdown	apribile	
+droplets	gocce	
+DTD	DTD	document type definition 
+DTLB	DTLB	
+duplex	duplex	
+duplicate	duplicare	
+duplicate definition	definizione doppia	
+duplicate section name	nome area doppio	
+duplicate slide	duplicare pagina	
+duration	durata	
+dynamic report template	modello dinamico per rapporto	
+dynamic-bidding system	sistema dinamico per le offerte	
+e-mail	eMail	
+e-mail & news	eMail & News	
+e-mail address	indirizzo eMail	
+e-procurement	e-procurement	
+e-procurement program	programma di e-procurement	
+e-tail	e-tail, vendita al dettaglio elettronica	ISV: Independent Software Vendor 
+early-access	accesso iniziale	in contesti come 'accesso iniziale del software xyz' 
+ECC-protected	protetto con algoritmo ECC	
+ECC-protected	protetto con algoritmo ECC	
+EDGE (Enhanced Data GSM Environment)	EDGE (Enhanced Data GSM Environment)	
+edge server	edge server	
+edge service	servizio "marginale" emergente	
+edit	modificare	
+Edit	Modifica	Voce UI
+edit 3D view	modificare vista 3D	
+edit all axes	modificare tutti gli assi	
+edit all titles	modificare tutti i titoli	
+edit applet	modificare applet	
+edit autotext	modificare testo automatico	
+edit axis	modificare asse	
+edit bibliography entry	modificare voce bibliografica	
+edit categories	modificare categorie	
+edit cell style	modificare modello di cella	
+edit changes	modificare cambiamenti	
+edit chart area	modificare area diagramma	
+edit chart data	modificare dati di diagramma	
+edit chart floor	modificare pavimento del diagramma	
+edit chart type	modificare tipo di diagramma	
+edit chart wall	modificare parete del diagramma	
+edit column description	cambia descrizione colonna	
+edit comment	modificare commento	
+edit concordance file	modificare file di concordanza	
+edit contour	modificare contorno	
+edit custom dictionary	modificare dizionario	
+edit data	modificare dati	
+edit data point	modificare punto dati	
+edit data series	modificare serie di dati	
+edit data series/points	modificare punto/serie di dati	
+edit datapilot table	modificare tabella di datapilot	
+edit document	modificare documento	
+Edit Field dialog	Finestra di dialogo Modifica comando di campo	Voce UI
+edit field names	modificare informazioni nomi	
+edit file	modificare file	
+edit filter settings	modificare impostazioni filtro	
+edit footnote	modificare nota a piè pagina	
+edit footnote/endnote	modificare note a piè pagina/di chiusura	
+edit frameset	modificare frameset	
+edit function	modificare funzione	
+edit glue points	modificare punti di incollaggio	
+edit graphics	modificare immagine	
+edit grid	modificare griglia	
+edit hyperlink	modificare hyperlink	
+edit index	modificare indice	
+edit index entry	modificare voce di indice	
+edit legend	modificare legenda	
+edit link	modificare collegamento	
+edit macros	modificare macro	
+edit maintitle	modificare titolo principale	
+edit mask	maschera di digitazione	
+edit modules	modificare moduli	
+edit negative deviation	modificare deviazione negativa	
+edit note	modificare nota	
+edit now	modificare subito	
+edit number format	modificare formato numero	
+edit numbering	modificare numerazione	
+edit object	modificare oggetto	
+edit page style	modificare modello di pagina	
+edit paragraph style	modificare modello paragrafo	
+edit points	modificare punti	
+edit positive deviation	modificare deviazione positiva	
+edit print range	modificare area di stampa	
+edit properties	modificare le proprietà	
+edit query	modificare ricerca	
+edit range names	modificare nomi	
+edit scenario	modificare scenario	
+edit script	modificare script	
+edit sections	modificare sezioni	
+edit snap line	modificare linea di cattura	
+edit snap point	modificare punto di cattura	
+edit subtitle	modificare sottotitolo	
+edit symbols	modificare simboli	
+edit table	modificare tabella	
+edit template	modificare modello	
+edit the link	modificare il collegamento	
+edit title	modificare titolo	
+edit X axis	modificare asse X	
+edit Y axis	modificare asse Y	
+edit Z axis	modificare asse Z	
+editing time	tempo di modifica	
+editing view	vista modifica	
+edition	edizione	
+editor	editore	
+education	formazione	
+effect	effettivo	
+eighth outline level	ottavo livello struttura	
+electronic gate	cancelletto elettronico	
+element	elemento	
+element inserted	elemento inserito	
+element removed	elemento rimosso	
+element replaced	elemento sostituito	
+eliminate points	ridurre i punti	
+ellipse	ellisse	
+ellipse pie	settore di ellisse	
+ellipse pie, unfilled	settore di ellisse vuota	
+ellipse segment	segmento di ellisse	
+ellipse segment, unfilled	segmento di ellisse vuota	
+ellipse, unfilled	ellisse vuota	
+ellipses	ellissi	
+ellipsoid	ellissoidale	
+elliptical arc	arco ellittico	
+elliptical arcs	archi ellittici	
+embedded and emerging edge services opportunities	settori dei sistemi embedded e dei servizi marginali emergenti	
+embedded object (OLE)	oggetto incorporato (OLE)	
+embedding	incorporare	incorporamento
+embossed	in rilievo	
+emoticons	emoticons	
+emphasis	enfasi	
+emphasis mark	carattere di accentuazione	
+empty	vuoto	
+enable	permettere	abilitare - a function / a device 
+enable font replacement	attivare la sostituzione dei font	
+enable plug-ins	attivazione plugin	
+enable watch	attiva controllo 	(prima era "Controllo sì/no", non adeguato,perché nella finestra "Controllo" ("Watch") esiste poi un comando "Rimuovi controllo")(VM)
+enable word completion	attivare completamento parole	
+enabled	abilitato	 
+enclosed alphanumerics	alfanumerici inclusi	
+enclosing character	carattere di inclusione	
+enclosure(s)	allegato/i	
+End	(Fine)	
+end angle	angolo fine	
+end horizontal	fine orizzontale	
+end of document	fine documento	
+end of footnote	alla fine del piè pagina	
+end of page	fine pagina	
+end value	valore finale	
+end vertical	fine verticale	
+end-to-end capabilities	funzionalità end-to-end	
+endless	continuo	Keyboard
+endnote	nota di chiusura	
+endnote anchor	richiamo di nota di chiusura	
+endnote area	area note di chiusura	
+endnote characters	carattere nota di chiusura	
+endnotes	note di chiusura	
+engraved	incavato	incisione
+enhance edges	evidenzia gli angoli	
+enlargement	ingrandimento	
+Enter	(Invio)	
+enter	indicare	
+enterprise portal platform	piattaforma per portale aziendale	
+enterprise service provider	provider di servizi aziendali	
+enterprise-class application	applicazione per le imprese	
+entire cells	celle intere	
+entire document	intero documento	
+entire frame	intera cornice	
+entire page	pagina intera	
+entry	voce	
+entry required	digitazione necessaria	
+envelope orientation	caricamento busta	
+environment	ambiente	
+eps export options	opzioni d'esportazione eps	
+eps import/export filter	filtro d'importazione/esportazione eps	
+equal	uguale	
+equal to	uguale a	
+equivalent to	corrisponde a	
+error	errore	
+error accessing [...]	impossibile accedere a [...]	
+error alert	messaggio di errore	
+error handler	gestore di errori	
+Error Report Tool	programma di notifica errori	
+Escape	(Esc)	Keyboard 
+ESMTP	ESMTP	Extended Simple Mail Transfer Protocol 
+euro converter	convertitore euro	
+evaluation minutes	protocollo dello svolgimento	
+even	pari	
+event	evento	
+every	ogni	
+exact	identico	
+example	esempio	
+exceptions	eccezioni	
+excess length	lunghezza in eccesso	
+excess size	sovradimensionato	
+exchange background page	scambiare pagina di sfondo	
+exchange characters	scambiare i caratteri	
+exchange databases	scambiare database	
+exchange source:	cambiare sorgente a:	
+execute	eseguire	
+execute macro	eseguire macro	
+execute query immediately	avviare subito la ricerca	
+execute sql statement	eseguire il comando sql	
+existence quantor	quantificatore di esistenza	OLH 
+existing columns	colonne disponibili	
+existing fields	campi disponibili	
+existing slides	pagine della presentazione	
+exit	uscire	
+exit direction	direzione di uscita	
+exit direction bottom	direzione di uscita in basso	
+exit direction left	direzione di uscita a sinistra	
+exit direction right	direzione di uscita a destra	
+exit direction top	direzione di uscita in alto	
+exit fill mode	termina modo riempimento	
+exit group	uscire dal gruppo	
+exit position	posizione di uscita	
+exiting the AutoPilot	chiusura del Pilota automatico.	
+expand formatting	espandere formattazione	
+expand single word	giustificazione forzata	
+expandable memory	memoria espandibile	
+expanded	esteso	
+expansion marker	indicatore di espansione	
+expiration date	data di scadenza	
+Explorer	Explorer	
+Explorer on/off	Explorer on/off	
+exponential increasing	esponenziale crescente	
+exponential regression	regressione esponenziale	
+export	esportare	
+Export as PDF	Esporta nel formato PDF	Voce UI
+Export notes pages	Esporta annotazioni	Voce UI
+extend edges	bordo più lungo	
+extended help	guida ampliata	
+extended selection on	attivare selezione ampliata	
+extended tips	guida attiva	
+extensible environment	ambiente estensibile	
+extensible markup language	extensible markup language	XML 
+extensible style language	extensible style language	XSLT 
+extensible style language transformation	extensible style language transformation	XSLT 
+extension	estensione	
+extent	volume	
+external application busy	l'applicazione esterna non è pronta	
+external browser	browser esterno	
+external data	dati esterni	
+external programs	programmi ausiliari	
+external source	sorgente dati esterna	
+external source/interface	sorgente esterna/interfaccia	
+extracondensed	extra compatto	
+extracting	estrazione	
+extraexpanded	extra espanso	
+extras	strumenti	
+extrusion object	oggetto di estrusione	
+eyedropper	contagocce	
+facility	origine	In a Messaging Server log-file entry, a designation of the software subsystem (such as Network or Account) that generated the log entry
+factdouble	fattore doppio	
+factor	fattore	
+factorial	fattoriale	
+fade	espandere	
+fade clockwise	espandere in senso orario	
+fade counter-clockwise	espandere in senso antiorario	
+fade from center	espandere all'esterno	
+fade horizontally	espandere in orizzontale	
+fade object	nascondere oggetto	
+fade to center	espandere verso l'interno	
+fade vertically	espandere in verticale	
+fade with sound	sfumare con suono	
+failover resource	risorsa di failover	
+fast	veloce	
+faulty Java installation	installazione corrotta di Java	
+faulty password confirmation	conferma errata della password	
+favorite	preferito	
+fax	fax	
+fax cover	copertina fax	
+fax letter	lettera fax	
+fax message	messaggio fax	
+fax number	numero fax	
+fax printer	stampante fax	
+fibre channel disk drive	unità disco in fibra ottica	
+field	campo	
+field assignment	assegnazione campo	
+field border	bordo campo	
+field codes	nome di campo	
+field delimiter	separatore di campo	
+field format	formattazione di campo	
+field length	lunghezza di campo	
+field link	collegamento campo	
+field name	nome di campo	
+field names on/off	nomi di campo on/off	
+field options	opzioni campo	
+field properties	proprietà di campo	
+field selection	selezione campo	
+field separator	separatore di campo	
+field shadings	contrassegni	selezioni 
+field type	tipo di campo	
+field values	valore campi	
+fields	comandi di campo	
+fields dialog	dialogo comando di campo	
+fields in form	campi nel formulario	
+fields in query	campi nella ricerca	
+fields in report	campi nel rapporto	
+fields involved	campi considerati	
+fiery	fiamma	
+fifth outline level	quinto livello struttura	
+Figure	Figura	
+file	file	
+file already exists	il file esiste già	
+file already open	file già aperto	
+file attachment	file allegato	
+file browser	finestra di esplorazione file	
+file cache	cache di file	
+file format	formato file	
+file locking	file locking	
+file manager	file manager	
+file menu	menu File	
+file name	nome file	
+file not found	file non trovato	
+file selection	selezione file	
+file system	file system (il)	
+file type	tipo di file	
+file-based permission	autorizzazione in base ai file	
+fill character	carattere di riempimento	
+fill color	colore di riempimento	
+fill data series	compilare serie di dati	
+fill down	compilare verso il basso	
+fill format mode	modo riempimento	
+fill mode	modo riempimento	
+fill parameters	compilare parametri	
+fill right	compilare verso destra	
+fill sheet	compilare tabella	
+fill sheets	riempire tabella	
+fill style	stile riempimento	
+fill up	compilare verso l'alto	
+fillbitmap	bitmap di riempimento	
+fillbitmap position	posizione bitmap di riempimento	
+fillbitmap width	larghezza bitmap di riempimento	
+fillcolor	colore di riempimento	
+filled circle	cerchio pieno	
+filter	filtro	
+filter bar	barra dei filtri	
+filter criteria	criteri filtro	
+filter for	filtra per	
+filter navigator	navigatore filtro	
+filter not found.	filtro non trovato.	
+filter proposal	filtro proposto	
+filter selection	scelta filtro	
+filter settings	impostazioni filtro	
+final angle	angolo finale	
+final character	ultimo carattere	
+financial	finanza	
+find	cercare	trovare 
+find & replace	Cerca & sostituisci	
+find address	cerca indirizzo	
+find all	cerca tutto	
+find files	cerca file	
+find graphics	cerca immagine	
+find on/off	cerca on/off	
+Find on/off	ricerca	
+find parenthesis	cercare parentesi	
+find record	cercare record di dati	
+find_text	cercare testo	
+fine dashed	a tratti fini	
+fine dotted	a punti fini	
+firewall	firewall (il)	(UNIX only) A task that is executed automatically by the cron daemon at a configured time. See also crontab file. 
+firing	lancio	
+first convert	prima conversione	
+first interest	primo interesse	
+first level	primo livello	
+first line indent	rientro corpo del testo	
+first page	prima pagina	
+first page number	primo numero di pagina	
+first paragraph	primo paragrafo	
+first record	primo record di dati	
+first slide	prima pagina	
+fit to frame	adattare alla cornice	
+fit to line	adattare alla riga	
+fit to page	adattare alla pagina	
+fit to size	altezza automatica	
+fit to window	adattare alla finestra	
+fit-to-size text object	oggetto di testo adattato	
+fixed	fisso	
+fixed column width	ampiezza colonna fissa	
+fixed content	fissare il contenuto	
+fixed height	altezza fissa	
+fixed horizontal center	allineato al centro fissato in orizzontale	
+fixed horizontal left	allineato a sinistra fissato in orizzontale	
+fixed horizontal right	allineato a destra fissato in orizzontale	
+fixed vertical center	allineato al centro fissato in verticale	
+fixed width	larghezza fissa	
+flags	bandiere	
+flagship system	fiore all'occhiello (sistema più rappresentativo dell'azienda)	
+flash	lampeggia	
+flat	piano	
+flat buttons	pulsanti piatti	
+flat xml	flat xml	
+flat-panel monitor	monitor a schermo piatto	
+flip	rispecchiare	
+flip diagonal	rispecchiare in diagonale	
+flip freehand	rispecchiare liberamente	
+flip horizontally	rispecchiare in orizzontale	
+flip vertically	rispecchiare in verticale	
+floating	mobile	fluttuante
+floating frame	frame	
+floating frame properties	proprietà frame	
+floating point performance	prestazioni in virgola mobile	
+floating point pipeline	pipeline in virgola mobile	
+floating point register	registro in virgola mobile	
+floating toolbar	barra strumenti mobile	
+floating toolbars	barre strumenti mobili	
+floating window	barra mobile	
+flow charts	diagramma di flusso	
+fly in	sovrapporre	
+fly out bottom	uscita verso il basso	
+fly out left	uscita a sinistra	
+fly out right	uscita a destra	
+fly out top	uscita in alto	
+focal length	ampiezza focale	
+folder	cartella	
+folder bookmarks	bookmark della cartella	
+follow-up	valutazione	
+following page	pagina successiva	
+font	carattere	tipo di carattere 
+font attributes	attributi carattere	
+font color	colore carattere	
+font color fill	colore riempimento carattere	
+font effect	effetto carattere	
+font history	tipi di carattere selezionati	
+font metrics conversion	conversione dei font di metrica	
+font name	nome del carattere	
+font position	posizione carattere	
+font replacement	sostituzione carattere	
+font shadow	ombra carattere	
+font size	dimensioni carattere	
+font weight	spessore del carattere	
+font width	larghezza carattere	
+fontwork	fontwork	
+fontwork alignment	allineamento fontwork	
+fontwork attributes	attributi fontwork	
+fontwork default form	forma standard fontwork	
+fontwork font begin	inizio carattere fontwork	
+fontwork mirror	carattere rispecchiato fontwork	
+fontwork outline	carattere contorno fontwork	
+fontwork shadow	ombra fontwork	
+fontwork shadow color	colore ombra fontwork	
+fontwork shadow transparency	trasparenza ombra fontwork	
+fontwork style	stile fontwork	
+footer	piè di pagina	
+footer left	piè di pagina a sinistra	
+footer on	attiva piè di pagina	
+footer right	piè di pagina a destra	
+footers	piè di pagina	
+footnote	nota a piè pagina	
+footnote anchor	richiamo di nota	
+footnote area	area note a piè pagina	
+footnote characters	carattere della nota	
+footnote settings	impostazioni note a piè pagina	
+for all	per tutti	
+for data range	per l'area dati	
+for your information	per conoscenza	
+forbidden characters	caratteri non ammessi	
+forecast	previsione	
+foreground color	colore in primo piano	
+form	formulario	forma
+Form Controls	Controlli per formulario	Voce UI
+form letter	stampa in serie	
+form name	nome del formulario	
+form navigator	navigatore formulario	
+form objects	oggetti per formulario	
+form of address	formula di apertura	
+form properties	proprietà formulario	
+form-based filters	filtro basato su formula	
+format	formato	formattazione 
+format	formattare	verb
+format cell	formattare cella	
+Format Cells dialog	finestra di dialogo Formato celle	Voce UI
+format code	codice del formato	
+format example	esempio di formato	
+format menu	menu di formattazione	
+formatted	formattato	
+formatted field	campo formattato	
+formatted text [rtf]	testo formattato [rtf]	
+formatting	formattazione	
+formatting on/off	formattazione on/off	
+forms and contracts	formulari e contratti	
+forms to import:	formulari da importare:	
+formula	formula	
+formula bar	barra di calcolo	
+formula cell	cella formula	
+formula cursor	cursore di formula	
+formula fonts	carattere formule	
+formula options	opzioni formule	
+formula overflow	formula troppo lunga	
+formulas	formule	
+Forte development tools suite	suite di sviluppo Forte	
+Forte Tools software	Software Forte Tools	
+forward	in avanti	
+forward message	inoltrare il messaggio	
+Fourth Generation (4G)	Quarta generazione (4G)	
+fourth outline level	quarto livello struttura	
+fraction	frazione	divisore
+fraction bar	linee di frazione	
+frame	frame	cornice (in a text document)
+frame contents	contenuto cornice	
+frame element	elemento di cornice	
+frame object bar	barra degli oggetti per cornice	
+frame properties	proprietà cornice	
+frame style	modello di cornice	
+frame text area	area del testo della cornice	
+frames	cornici	
+frameset	frameset	
+frameset document	documento di frameset	
+frameset spacing	spaziatura frameset	
+free indexes	indici liberi	
+Free Standards Group	Free Standards Group	
+freeform line	linea a mano libera	curva a mano libera 
+freeform line, filled	linea a mano libera, piena	
+freeform polygon	poligono a mano libera	
+freeze	fissare	cells in a spreadsheet 
+freeze window	fissare finestre	
+frequency	frequenza	
+from beginning	dall'inizio	
+from bibliography database	dal database bibliografico	
+from bottom	dal basso	
+from database	dal database	
+from document content	dal contenuto del documento	
+from driver	dal driver	
+from inside	dall'interno	
+from left	da sinistra	
+from right	da destra	
+from row	dalla riga	
+from template	da modello	
+from unit	da misura	
+front matter	prologo 	
+front panel	pannello principale	
+ftp folder	cartella ftp	
+ftp link	collegamento ftp	
+ftp proxy	proxy ftp	
+full (outer) join	relazione completa	
+full circle	cerchio pieno	
+full screen	schermo intero	
+full width	a tutta larghezza	
+fully qualified domain	dominio completo	
+fully qualified name	nome completo	
+function	funzione	
+function bar	barra delle funzioni	
+function bar on/off	barra delle funzioni on/off	
+function expected	attesa funzione	
+function list	lista funzioni	
+function not known	funzione sconosciuta	
+function result	subtotale	
+function_type	tipo funzione	
+functional unit	unità funzionale	
+functions for cells	funzione delle celle	
+functions list	elenco funzioni	
+further information	ulteriori informazioni	
+further objects	altri oggetti	
+further OLE objects	ulteriori oggetti OLE	
+further settings	ulteriori impostazioni	
+future cookie handling	gestione futura dei cookies	
+Gallery	Gallery	
+Gallery theme	argomento Gallery	
+gamma	gamma	
+Gauss	Gauss	
+GDI metafile	metafile GDI	
+general	generale	
+general error	errore generale	
+general help modules	moduli generali della guida	
+general input/output error	errore generale di i/o	
+general layout	layout generale	
+general network error	errore generale di rete	
+general OLE error	errore generale OLE	
+general options	opzioni generali	
+general punctuation	punteggiatura generale	
+general StarOffice settings	impostazioni generali per StarOffice	
+general-purpose Linux server	server generici per Linux	
+generating source	creazione del testo sorgente	
+generic	generico	
+generic configuration editor	editor di configurazione generico	
+geometric shapes	simboli geometrici	
+geometry	geometria	
+GIF	GIF	
+GIF export	esportazione GIF	
+GIF options	opzioni GIF	
+given angle	angolo dato	
+globalization architecture	architettura di globalizzazione	
+glue point relative	posizione relativa punto di incollaggio	
+glue points	punti di incollaggio	
+glue points mode	modo punti incollaggio	
+Gnome integration	integrazione Gnome	Gnome= desktop program for Unix/Solaris 
+go right	carattere a destra	
+go to page	andare alla pagina	
+go to record	andare al record di dati	
+goal seek	ricerca valore destinazione	
+gold	oro	
+Gouraud	Gouraud	
+gradient	sfumatura	
+gradient stripes	bande sfumate	
+graphic	immagine	
+graphic refreshing	aggiornamento delle immagini 	
+graphic rendering	rendering delle immagini 	
+Graphic Styles dialog	finestra di dialogo Stile oggetti grafici	voce UI
+Graphic Styles dialog 	Stile oggetti grafici	Voce UI
+graphics and objects	immagini e oggetti	
+graphics attributes	attributi grafici	
+graphics cache	cache grafica	
+graphics export	esportare immagine	
+graphics file name	nome file immagine	
+graphics filter	filtro grafico	
+graphics load faulty	caricamento immagine errato	
+graphics load successful	caricamento immagine riuscito	
+graphics load terminated	caricamento immagine interrotto	
+graphics mode	modo immagine	
+graphics object bar	barra degli oggetti grafici	
+graphics objects	oggetti grafici	
+graphics properties	proprietà immagine	
+graphics styles	modelli di oggetti grafici	
+graphics styles dialog	finestra di dialogo Stile oggetti grafici	Voce UI
+grave accent	accento grave	
+gravel	ghiaia	
+gray	grigio	
+grayscale	toni di grigio	
+grayscale preview	anteprima toni di grigio	
+greater	maggiore	
+greater than	maggiore di	
+greatest common divisor	massimo comune divisore	
+green	verde	
+grid	griglia	
+grid color	colore griglia	
+grid display	vista griglia	
+grid layout	layout griglia	
+grid lines	linee della griglia	
+Grid points	Punti griglia	
+grid to front	griglia davanti	
+group	gruppo	
+group	raggruppare	
+group box	casella di gruppo	
+group brackets	parentesi di raggruppamento	
+group draw objects	raggruppare oggetti di disegno	
+group object	oggetto di gruppo	
+growth	crescita	finance 
+growth	esponenziale	mathematics 
+GSM (Global System for Mobile Communications)	GSM (Global System for Mobile Communications)	
+guess	ipotesi	mathematics 
+guests	ospite(i)	
+guide distance	distanza linee guida	
+guide overhang	sporgenza linee guida	
+guides	linee guida	
+guides to front	linee guida davanti	
+guides when moving	linee guida durante lo spostamento	
+half-sphere	semisfera	
+half-width	metà larghezza	
+handheld computer	computer portatile	
+handle	maniglia	
+handout	stampati	
+handout background	sfondo stampato	
+Handout Page	Pagina stampato	Voce UI
+handout view	vista stampato	
+hang	stallo	
+hanging punctuation	punteggiatura sospesa	
+hard disk	disco rigido	
+hardware redundancy	ridondanza hardware	
+hatching	tratteggio	
+header	intestazione	the header of a document (opposite to the footer)
+header	riga d'intestazione	in spreadsheets and tables it is the first raw with the headings of the columns
+headers & footers	intestazioni e piè di pagina	Sun
+heading	intestazione	the header of a document (opposite to the footer) 
+height	altezza	Sun
+height of fillbitmap	altezza bitmap di riempimento	Sun
+Help	?	
+Help	Guida	
+Help Agent	Help Agent	
+help bar	barra della Guida	
+Help file	file della Guida	
+Help file name	nome file della Guida	
+Help id	identifica la Guida	
+Help index	indice della Guida	
+Help information	informazioni sulla Guida	
+Help menu	menu della Guida	
+Help on help	aiuto sulla Guida	
+help set	argomenti della guida	
+Help text	testo della Guida	
+Help URL	URL della Guida	
+Helplines When Moving	Linee guida durante lo spostamento	Tooltip pulsante
+hidden	nascosto	
+hidden control	campo di controllo nascosto	
+hidden pages	pagine nascoste	
+hidden paragraph	paragrafo vuoto	
+hidden sheets	tabelle nascoste	
+hidden text	testo nascosto	
+hide author	nascondere l'autore	
+hide autofilter	nascondere filtro automatico	
+hide column	nascondere colonna	
+hide navigation pane	nascondere area di navigazione	
+hide sheet	nascondere la tabella	
+hide thread	nascondere discussione	
+hierarchical	gerarchico	
+high contrast	contrasto	
+high contrast black	nero a contrasto	
+high contrast preview	anteprima a contrasto elevato	
+high contrast white	bianco a contrasto	
+high print quality	qualità ottima	
+high-end graphics visualisation capability	funzionalità di visualizzazione grafica innovative	innovative funzionalità di visualizzazione grafica
+higher version	versione più recente	
+Highground Systems	Highground Systems	
+highlight	evidenziare	
+highlight	evidenziazione	when it refers to syntax
+highlight	rilievo	
+highlight changes	mostrare revisione	
+highlight fill	colore sfondo caratteri	
+highlighting	sfondo caratteri	
+hint	suggerimento	OLH 
+hiragana	hiragana	japanese character system 
+hiragana/katakana	hiragana/katakana	japanese character system 
+holidays	vacanze	
+Home	(Home)	
+homepage	homepage	
+horizontal	orizzontale	
+horizontal alignment default	allineamento orizzontale standard	
+horizontal checkerboard	scacchiera orizzontale	
+horizontal cones	coni orizzontali	
+horizontal cones, deep	coni orizzontali, in basso	
+horizontal line	linea orizzontale	
+horizontal pyramids	piramidi orizzontali	
+horizontal pyramids, deep	piramidi orizzontali, in basso	
+horizontal pyramids, percent	piramidi orizzontali, percentuale	
+horizontal pyramids, stacked	piramidi orizzontali sovrapposte	
+horizontal ruler	righello orizzontale	
+horizontal scroll bar	barra di scorrimento orizzontale	
+horizontal shadow outline	spostamento orizzontale ombra	
+horizontal text anchor	ancoraggio testo orizzontale	
+horizontal, stacked cones	coni orizzontali sovrapposti	
+horizontally	in orizzontale	
+host	host	
+host name	nome host	
+hot spot	area attiva	
+hour	ora	
+HP-UX	HP-UX	
+HTML	HTML	
+HTML compatibility	compatibilità HTML	
+HTML document	documento HTML	
+HTML document options	opzioni documento HTML	
+HTML export	esportazione HTML	
+HTML source	testo sorgente HTML	
+HTML styles	modelli HTML	
+http engine	motore http	
+hyperbolic cosine	coseno iperbolico	
+hyperbolic cotangent	cotangente iperbolica	
+hyperbolic sine	seno iperbolico	
+hyperbolic tangent	tangente iperbolica	
+HyperLAN	HyperLAN	
+hyperlink	hyperlink	
+hyperlink bar	barra degli hyperlink	
+hyperlink dialog	dialogo hyperlink	
+hyperlink end	fine hyperlink	
+hyperlink start	inizio hyperlink	
+hyperlink type	tipo di hyperlink	
+hyperlinks active	hyperlink attivi	
+hyphenate	sillabazione	
+hyphenate special regions	sillabazione aree speciali	
+hyphenate without inquiry	sillabazione senza conferma	
+hyphenation	sillabazione	
+hyphenation active	funzione di sillabazione attiva	
+hyphenation completed	sillabazione conclusa	
+hyphenation not available	sillabazione non disponibile	
+i/o active	i/o attivo	
+I/O board	scheda I/O	
+icalendar-file	file icalendar	
+icon	simbolo	
+icon view	vista simboli	
+identical	identico	
+identifier	identificatore	
+identifier expected	atteso identificatore	
+identify	individuare	
+identity	identità	
+identity management	gestione dell'identità	
+IEEE	IEEE	
+IETF SIGTRAN working group	Gruppo di lavoro IETF SIGTRAN	
+if	se	
+ignore	ignorare	
+illumination	illuminazione	
+illustration	illustrazione	
+illustration index	indice delle illustrazioni	
+illustration index heading	intestazione indice illustrazioni	
+image	immagine	
+image bullet	carattere per elenchi puntati	
+image button	pulsante immagine	
+image control	campo di controllo immagine	
+image editor	editor di immagini	
+image options	opzioni immagine	
+image preview	anteprima immagine	
+ImageMap editor	editor Imagemap	
+imaginary part	coefficiente immaginario	
+IMAP account	account IMAP	
+import	importare	
+important accessibility notes	avvertenze importanti per l'accessibilità	
+important information	informazioni importanti	
+important note	avvertenza importante	
+imported	importato	
+Impress	Impress	
+in the directory	nella cartella	
+inactive	non attivo	
+inactive menu items	voci menu non attive	
+inadmissable path	percorso incorretto	
+inbox	posta in arrivo	
+inch	pollice	
+include formats	includere formati	
+include transparent objects	includere oggetti trasparenti	
+included outline levels	livelli di capitolo inclusi	
+including styles	includi modelli	
+including subdirectories	incluse sottocartelle	
+including subfolders	comprese le sottocartelle	
+incorrect file mode	modo file errato	
+incorrect format	formato errato	
+incorrect password	password errata	
+incorrect record length	lunghezza record di dati errata	
+incorrect record number	numero record errato	
+increase font	ingrandire carattere	
+increase indent	aumentare rientro	
+increase spacing	aumentare spaziatura paragrafo	
+increment indent value	aumentare rientro valore	
+increments	incremento	when it refers to a gradient 
+increments	passaggi	in the cross-fading function [StarOffice Draw] it indicates the number of steps to transform an object into another. 
+indent	rientro	
+indents and spacing	rientri e interlinee	
+index	indice	indice analitico 
+index design	struttura indice	
+index details	dettagli indice	
+index entry	voce di indice	
+index field	campo indice	
+index heading	intestazione indice analitico	
+index identifier:	identificatore indice	
+index markings	contrassegni indice	
+index marks	contrassegni indice	
+index of tables	indice delle tabelle	
+index separator	separatore indice analitico	
+index styles	modelli di indice	
+indirect	indiretto	
+Info2002	Info2002	
+information	informazione	
+information and setup	informazione e setup	
+information distribution application	applicazione per la distribuzione delle informazioni	
+infrastructure software application	applicazione software dell'infrastruttura	
+initial character	carattere iniziale	
+initial value	valore iniziale	
+initialize	inizializzare	
+initials	iniziali	
+inner	interno	
+inner frame border	margine cornice interno	
+inner margin	bordo interno	
+inner page border	margine pagina interno	
+inner paragraph border	margine paragrafo interno	
+inner wrap	scorrimento interno	
+input	digitazione	
+input field	campo di digitazione	
+input field (user)	campo di digitazione (utente)	
+input field (variable)	campo di digitazione (variabile)	
+input file error	errore nel file di input	
+input help	aiuto per la digitazione	
+input in tables	digitazione in tabelle	
+input line	riga di digitazione	
+input options	opzioni di digitazione	
+input required	digitazione necessaria	
+input settings	impostazioni di digitazione	
+Ins	(Ins)	
+insert	inserire	a file, a chart, a table in a document – a row, a column in a spreadsheet 
+Insert > Duplicate Slide	Inserisci > Duplica_diapositiva	Voce UI
+insert applet	inserire applet	
+insertion	inserimento	
+inside	all'interno	
+install	installare	
+installation	installazione	
+installation complete	installazione terminata	
+installation directory	cartella d'installazione	
+installation instructions	istruzioni per l'installazione	
+installation profiles	profilo d'installazione	
+installation program	programma di installazione	
+installation set	kit di installazione	
+installed printers	stampanti installate	
+installs PGP support	PGP	
+institution	istituzione	
+insufficient memory	memoria disponibile insufficiente	memoria insufficiente 
+integer	numero intero	
+integers set	insieme dei numeri interi	
+integral	integrale	
+integrated desktop	desktop integrato	
+intended recipient	destinatario previsto	
+intensity	intensità	
+interaction	interazione	
+intercept	intercettare	
+interface not supported	interfaccia non supportata	
+intermediate color	colore intermedio	
+Internet	Internet	
+Internet bar	barra di Internet	
+Internet document	documento Internet	
+Internet link	link Internet	
+Internet options	opzioni Internet	
+interoffice memo	memo interno azienda	
+interrupt macro	arrestare l'esecuzione macro	
+intersect	intersecare	
+intersection	intersezione	
+interval	intervallo	
+into equal proportions	in proporzioni uguali	
+invalid	non valido	a number, a value 
+invert	invertire	
+investment	investimento	
+investment protection story	salvaguardia degli investimenti	
+invisible	invisibile	
+invisible separator	separatore invisibile	
+invite	invito	
+IP RAN	RAN IP	
+ISDN	ISDN	
+ISDN number	numero ISDN	
+IT staff	personale (del reparto) IT	
+italic	corsivo	
+item status changed	stato modificato	
+iterations	iterazioni	
+iterative references	riferimenti circolari	
+ITU	ITU	
+J2EE application server	server applicazioni J2EE	
+Java	Java	
+Java development kit	Java development kit	
+Java environment installation	installazione dell'ambiente Java	
+Java Runtime Environment	Java Runtime Environment	
+Java setup	installazione Java	setup Java 
+Java support disabled	supporto Java disattivato	
+Javascript	Javascript	
+Javascript runtime error	errore di runtime Javascript	
+JDBC	JDBC	
+JDBC driver class	classe di driver JDBC	
+JDK 1.0 Native Method Interface	Interfaccia di metodo nativo JDK 1.0	
+job title	titolo	
+join properties	proprietà relazioni	
+journal	rivista	
+JPEG options	opzioni JPEG	
+jpg	jpg	
+justified	giustificato	
+Katakana	Katagana	japanese character system 
+keep filter criteria	mantenere criteri	
+keep formatting	mantenere formattazione	
+keep image size	mantenere dimensione	
+keep ratio	proporzionale	
+keep spacing interval	brevi distanze non consentite	
+kerning	crenatura	kerning 
+key	chiave	sort function
+key	criterio	index
+key	legenda	    grafico
+key pressed	tasto premuto	
+key released	dopo aver premuto il tasto	
+key type	tipo chiave	
+key words	parole chiave	
+keyboard	tastiera	
+keyboard accelerators	mnemonici	
+keyboard handling	uso della tastiera	
+keys	tasti	
+kilometer	chilometro	
+kodak photo-cd import	importazione kodak photo-cd	
+label	etichetta	(come per le ricerche interne, i filtri ecc.) 
+label	scheda	(come nei casi delle schede relative alle finestre di dialogo Es.: CALC > Formatta celle > scheda Numeri, scheda Carattere, scheda Effetto carattere, scheda Allineamento, ecc) 
+label field	testo fisso	
+label field selection	selezione testo fisso	
+label placement	allineamento del campo di testo fisso	
+label text	testo etichetta	
+labels	etichette	
+landscape	orizzontale	
+language	lingua	
+language modules	moduli linguistici	
+language settings	impostazioni lingua	
+large buttons	pulsanti grandi	
+large circumflex	accento circonflesso ampio	
+large handles	maniglie grandi	
+large vector arrow	freccia vettoriale ampia	
+last line	ultima riga	
+last name	cognome	
+last page	ultima pagina	
+last printed	ultima stampa	
+last record	ultimo record	
+last slide	ultima pagina	
+last used	usate più di recente	
+Launch	Apri	
+layer	livello	
+layer indicator	contrassegno livello	
+layer view	vista livello	
+layout	stile	layout (il) 
+layout	layout	
+layout of data	layout dati	
+layout settings	impostazioni layout	
+lcm	mcm	
+LDAP	LDAP	
+LDAP address book	rubrica LDAP	
+LDAP address data	dati rubrica LDAP	
+LDAP server	server LDAP	
+leading	iniziale	
+leading zeroes	zeri iniziali	
+leading-edge display	schermo innovativo	Dual Translation Lookaside Buffer (CPU) 
+leave full-screen mode	ripristinare vista schermo standard	
+leaves	foglie	
+LED system	sistema di spie LED	
+left	a sinistra	
+left arc	arco sinistro	
+left area	area sinistra	
+left arrow	(Freccia Sinistra)	
+left arrow	freccia a sinistra	
+left border line	bordo sinistro	
+left center	in centro a sinistra	
+left column	colonna sinistra	
+left guide	linea ausiliaria sinistra	
+left limit expected	atteso limite sinistro	mathematics 
+left margin	margine sinistro	
+left outside	a sinistra all'esterno	
+left page	pagina sinistra	
+left page border	margine paragrafo sinistro	
+left pages	pagine sinistre	
+left paragraph border	margine paragrafo sinistro	
+left paragraph margin	margine paragrafo sinistro	
+left semicircle	semicerchio sinistro	
+left wrap	scorrimento a sinistra	
+left-to-right	da sinistra a destra	
+left-to-right (horizontal)	da sinistra a destra (orizzontale)	
+left-to-right (vertical)	da sinistra a destra (verticale)	
+left/top	a sinistra/in alto	
+legal	legal	paper format 
+legend	legenda	
+legend angle	angolo legenda	
+legend attributes	attributi legenda	
+legend exit alignment	direzione uscita legenda	
+legend line length	lunghezza linee legenda	
+legend lines spacing	distanza linee legenda	
+legend position	posizione della legenda	
+length	lunghezza	
+less	minore	
+less than	più piccolo di	
+letter	lettera	paper format 
+level	livello	
+libraries	librerie	
+library	libreria	
+LibreOffice	LibreOffice	
+LibreOffice Impress Toolbars	Barre degli strumenti LibreOffice Impress	Voce UI
+license agreement	contratto di licenza	
+life	vita utile	
+light	chiaro	
+light blue	blu chiaro	
+light cyan	ciano chiaro	
+light gray	grigio chiaro	
+light green	verde chiaro	
+light italic	corsivo light	
+light magenta	magenta chiaro	
+light red	rosso chiaro	
+light source	sorgente luminosa	
+limes	limite	
+LinCAT (Linux Compatibility Assurance Toolkit)	LinCAT, un toolkit per assicurare la compatibilità  con Linux	
+line	linea	
+line above	linea superiore	
+line arrow	linea freccia	
+line attributes	attributi linea	
+line break	interruzione riga	
+line centered	centrato verticalmente alla riga	
+line change	cambio riga	
+line color	colore della linea	
+line connector	connettore lineare	
+line count	numero delle righe	
+line distance	distanza linee	
+line ends	estremità linea	
+line head	inizio linea	
+line head width	spessore inizio linea	
+line increment	incremento linea	
+line length	lunghezza linea	
+line numbering	numerazione righe	
+line segment	segmento di retta	
+line skew	spostamento linea	
+line spacing	interlinea	
+line style	stile linea	
+line transparency	trasparenza linee	
+line type	tipo di linea	
+line width	spessore del tratto	spessore linea 
+line with arrow/circle	linea con cerchio/freccia terminale	
+line with arrow/square	linea con freccia/quadrato terminale	
+line with arrows	linea con frecce terminale	
+line with circle/arrow	linea con cerchio/freccia terminale	
+line with square/arrow	linea con quadrato/freccia terminale	
+linear	lineare	
+linear ascending	lineare crescente	
+linear blue/white	lineare blu/bianco	
+linear descending	lineare decrescente	
+linear magenta/green	lineare magenta/verde	
+linear regression	regressione lineare	
+linear yellow/brown	lineare giallo/marrone	
+Lineo Embedix operating system	sistema operativo Lineo Embedix	
+lines and arrows	linee e frecce	
+lines changed	righe modificate	
+lines only	solo linee	
+lines per page	righe per pagina	
+lines with symbols	linee con simboli	
+link	collegamento	link (on a Web page) 
+link	collegare	
+linked areas	aree collegate	
+linked bitmap	bitmap collegato	
+linked graphic	immagine collegata	
+linked group object	gruppo di oggetti collegato	
+linked Mac graphic	grafici Mac collegati	
+linked metafile	metafile collegato	
+linked text frames	cornici di testo collegate	
+Linus Torvald's kernel	kernel di Linus Torvald	
+Linux International	Linux International	
+Linux Internationalization Initiative	Linux Internationalization Initiative	
+Linux operating system	sistema operativo Linux	
+Linux port	port di Linux	(maschile)
+list	elenco	
+list box	casella di riepilogo	
+list content	contenuto elenco	
+list entries	voci dell'elenco	
+list heading	intestazione elenco	
+list index	indice elenco	
+list names	elencare nomi	
+list separator	separatore elenco	
+list styles	modelli di elenchi	
+lists	elenchi	
+literal mask	maschera caratteri	
+live mode	modo live	
+load	caricare	
+local data sources	sorgente dati locale	
+local drive	drive locale	
+local file system	file system locale	
+local installation	installazione locale	
+local program modules	moduli di programma locale	
+local source	origine locale	
+locale	area geografica	
+locale setting	schema locale	
+location	posizione file	percorso, ubicazione 
+locked	bloccato	
+locking problem	problema di locking	
+log	log	
+log file	file di registro	file di protocollo
+log in	login	
+log out	log out	
+logarithm	logaritmo	
+logarithm regression	regressione logaritmica	
+logarithmic scale	scala logaritmica	
+logical	logico	
+logical height	altezza logica	
+logical value	valore logico	
+logical width	larghezza logica	
+logo	logo	
+logo text	testo del logo	
+logout	log out	
+long dash	tratto lungo	
+long dash (bold)	tratto lungo grassetto	
+Look & feel	stile dell'interfaccia	
+lookup	cercare	
+lower border spacing	distanza inferiore cornice	
+lower edge dimensioning	quotatura bordi inferiori	
+lower indicator	indicatore inferiore	
+lower limit	limite inferiore	
+lower semicircle	semicerchio inferiore	
+lowercase	maiuscoletto	
+lowercase	minuscole	
+lowest	molto bassa	accessibility settings
+lowest common multiple	minimo comune multiplo	
+Mac	Mac	
+Mac graphic	immagine Mac	
+Mac graphics	immagini Mac	
+Mac text	testo Mac	
+Mac Write 4.x/5.0	Mac Write 4.x/5.0	
+Mac Write II	Mac Write II	
+Mac Write import	importazione Mac Write	
+Mac Write pro	Mac Write pro	
+Mac-pict import/export	importazione/esportazione Mac-pict	
+Mac-pict import/export filters	importazione/esportazione Mac-pict	
+Mac-picture	immagine Mac	
+Macintosh	Macintosh	
+macro	macro	
+macro bar	barra delle macro	
+macro dialog	dialogo macro	
+macro file	file di macro	
+macro name	nome macro	
+macro organizer	gestione macro	
+macro toolbar on/off	barra delle macro on/off	
+macromedia flash (swf)	macromedia flash (swf)	
+Macword 3.0	Macword 3.0	
+magenta	magenta	
+mail	posta	
+Mail & News	Mail & News	
+mail format	formato mail	
+mail merge	stampa in serie	
+mail server	Server di posta elettronica 	
+main entry	voce principale	
+main grid	griglia principale	
+main index entry	voce principale per indice analitico	
+main menu	menu principale	
+main menu bar	barra principale dei menu	
+main menu bar	barra dei menu principale	Voce UI
+main title	titolo principale	
+main toolbar	barra degli strumenti	
+main toolbar on/off	barra degli strumenti on/off	
+mainframe rehosting	rehosting del mainframe	
+mainframe-scale computing	sistemi informatici mainframe	A rollout is a staged series of activities that often accumulate meaning as they occur. Computer product makers and marketers use the term to describe a series of related product announcements that are staged over time.
+major axis	asse principale	
+manual	manuale	
+manual break	interruzione di pagina manuale	
+manual feed	alimentazione carta manuale	
+manual kerning	kerning manuale	
+manual line break	interruzione di riga fissa	
+manual page breaks	interruzioni pagina manuali	
+manual setting	preimpostazione manuale	
+maps	cartine	
+marathi	marathi	
+marble	marmo	
+march	marzo	
+margin	margine	
+marginalia	nota in margine	
+margins	margini	
+mark	contrassegnare	
+mark	contrassegno	
+mark additional objects	selezionare oggetti aggiuntivi	
+mark additional points	selezionare punti aggiuntivi	
+mark glue points	contrassegnare punti di incollaggio	
+mark invalid data	evidenziare i dati non validi	
+mark message	contrassegnare il messaggio	
+mark objects	contrassegnare oggetti	
+mark points	contrassegnare punti	
+marked	contrassegnato	
+marked documents	messaggi contrassegnati	
+marker	separatore	contrassegno 
+master	principale	
+master document	documento master	
+Master Pages	Pagine master	Voce UI
+master password	password principale	
+master view	vista sfondo	
+match	confrontare	
+match case	ricerca esatta	
+match character width	considera la larghezza dei caratteri	
+material	materiale	
+Math	Math	
+mathematical	matematica	
+mathematical operators	operatori matematici	
+matrix	matrici	
+matrix stack	disposizione matrice	
+max	max	
+maximal frame height	altezza massima cornice	
+maximal frame width	larghezza massima cornice	
+maximize	ingrandire	
+maximum	massimo	
+maximum footnote height	altezza massima nota a piè pagina	
+mean	media	
+mean value	valore medio	
+meaning	significato	
+measure below object	linea di quotatura sotto l'oggetto	
+measure unit	unità di misura	
+measure unit display	visualizzazione unità di misura	
+measurement unit	unità di misura	
+median	mediana	
+medium	medio	
+medium	mezzo	
+memo	memo	
+memory	memoria principale	
+memory per object	memoria per oggetto	
+menu	menu	
+Menu Content	Contenuto menu	Voce UI
+menu entries	voci del menu	
+Menu name	Nome del menu	Voce UI
+menu on/off	menu on/off	mostra/nascondi
+mercury	mercurio	
+merge	unire	
+merge cells	unire celle	
+merge delimiters	raggruppa i separatori di campo	
+merge documents	unire documento	
+merge table	collega tabella	unire tabella 
+merge tables	collega tabelle	unire tabelle 
+message	messaggio	
+met options	opzioni met	
+metafile	metafile	
+metal	metallo	
+meter	metro	
+method	metodo	
+metrics	metrici	
+middle	al centro	
+middle dots	punto al centro	
+middle mouse button	tasto medio del mouse	
+midi	midi	
+miles	miglio	
+minimize	ridurre	
+minimum	minimo	
+minimum change	scarto consentito	
+minimum installation	installazione minima	
+minor grid	griglia ausiliaria	
+minute	minuto	
+minutes	protocollo	
+mirrored	rispecchiato	
+miscellaneous	varie	
+miscellaneous options	ulteriori opzioni	
+mixed-speed CPU	processori a più velocità	
+mobile	cellulare	
+mobile phone	telefono cellulare	cellulare
+mobile phone	telefono cellulare	
+Mobile Wireless Internet Forum (MWIF)	Mobile Wireless Internet Forum (MWIF)	
+mode	metodo	
+model	modello	
+modern	moderno	
+modification date	data di modifica	
+modified	modificare	
+modify	cambiare	
+module	modulo	
+module/dialog	modulo/dialogo	
+modules	moduli	
+mom-and-pop shop	impresa operante su piccola scala	
+monitor resolution	risoluzione monitor	
+month	mese	
+morphing	morphing	
+mosaic	mosaico	
+mouse	mouse	
+mouse button pressed	tasto del mouse premuto	
+mouse button released	tasto del mouse rilasciato	
+mouse inside	mouse dentro	
+mouse leaves object	mouse fuori dall'oggetto	
+mouse over object	mouse sopra oggetto	
+mouse pointer	puntatore mouse	
+mouse pointer visible	puntatore mouse visibile	
+move	spostare	
+movement	movimento	
+mozilla / netscape	Mozilla / Netscape	
+mozilla address book	rubrica Mozilla	
+MSNBC	MSNBC	
+MSRP	MSRP (prezzo di vendita al dettaglio consigliato dal produttore)	
+mu	mi	
+multihead capability	funzionalità multihead	
+multiline input	digitazione a più righe	
+multimate import filters	filtri d'importazione multimate	
+multinomial	multinominale	
+multiple	multiplo	
+multiple operations	operazione multipla	
+multiple pages	più pagine	
+multiplication	moltiplicazione	
+multiply	moltiplicare	
+multirange	multirange	
+multisampling	multicampionamento	
+multiscripting	multiscript	
+multiselection	selezione multipla	
+multithreading library	libreria multithread	Instead of buying a one-time software license, customers buy the right to install any new release of products covered in the agreement during the specified time period. 
+munit	munit	
+my documents	cartella di lavoro	
+name	nome	
+naming conflict	conflitto di nomi	
+natural logarithm	logaritmo naturale	
+natural numbers set	insieme dei numeri naturali	
+natural spline	curva spline naturale	
+natural splines	curve spline naturali	
+navigate	navigare	
+navigation	navigazione	
+navigation bar	barra di navigazione	
+navigation pane	area di navigazione	
+navigator	navigatore	
+negative deviation	deviazione negativa	
+negative numbers red	valori negativi in rosso	
+net	rete	
+net access	accesso rete	
+netscape bookmark	segnalibro Netscape	
+netting	rete	
+network connection	collegamento alla rete	
+network identity	identità network	
+network infrastructure application	applicazione per l'infrastruttura di rete	
+network throughput	throughput della rete	
+New Menu	Nuovo menu	Voce UI - finestra dialogo
+New Style from Selection icon	icona Nuovo stile dalla selezione	Voce UI
+news	news	
+newsgroup	gruppo di discussione	
+next	successivo	
+next bookmark	segnalibro successivo	
+next control	campo di controllo successivo	
+next drawing	oggetto di disegno successivo	
+next error	errore successivo	
+next footnote	nota a piè pagina successiva	
+next graphic	immagine successiva	
+next heading	intestazione successiva	
+next index entry	voce d'indice successiva	
+next link	successivo	
+next-generation computing	sistemi informatici di nuova generazione	
+nickname	nickname	
+Nilable	può essere NIL -- Sun	
+no duplication	univoco	
+nominal	nominale	
+non convertable character	carattere non convertibile	
+non-breaking spaces	spazio non divisibile	
+non-proportional fonts	caratteri non proporzionali	
+none	nessuno	
+none available	non disponibili	
+none selected	nessuna selezione	
+normal	normale	
+normal with lines	normale con linee	
+not applied	non applicato	
+not available	non disponibile	
+not equal	diverso	non uguale 
+note	nota	
+Note icon	Simbolo di nota	
+note indicator	indicazione note	
+notes	annotazioni	
+Notes	Note	Voce UI
+Notes Master	Master per annotazioni	Voce UI
+Notes Presentation style	Stile di presentazione Note	Voce UI
+nu	ni	
+NUM LOCK	(Bloc num)	Keyboard 
+number	numero	
+number	potenza	valore 
+number range options	opzioni sequenza	
+number recognition	riconoscimento del numero	
+numbering	numerazione	
+numbering alignment	allineamento della numerazione	
+numbering indents	rientri nella numerazione	
+numbering level	livello di numerazione	
+numbering object bar	barra degli oggetti per la numerazione	
+numbering type	tipo di numerazione	
+numbering/bullets	elenchi puntati e numerati	
+numeric field	numerico	
+object	oggetto	
+object bar	barra degli oggetti	
+object boundaries	contorno oggetto	
+object oriented programming language	linguaggio di programmazione orientato agli oggetti	
+Objects always movable	Oggetti sempre spostabili	Voce UI
+objects on background	oggetti sullo sfondo	
+objects/graphics	oggetti/immagini	
+oblique	obliquo	
+occasion	occasione	
+occurrence	occorrenze	
+office	ufficio	
+office bar	barra office	
+offline	offline	
+offset	correzione	spostamento
+offset in days	correzione in giorni	
+offset in minutes	correzione in minuti	
+OLAP	OLAP	
+old password	password precedente	vecchia password 
+old symbol	simbolo precedente	
+old value	valore precedente	
+older version	versione precedente	
+ole	ole	
+ole object	oggetto OLE	
+on request	su richiesta	
+on-chip memory controller	controller di memoria on-chip	
+one-time	una sola volta	
+online	online	
+online layout	layout online	
+online registration	registrazione online	
+Online Update	Aggiornamento in linea	
+Only text area selectable	Solo area di testo selezionata	Voce UI
+opaque	opaco	
+open	aprire	
+open architecture	architettura aperta	
+open circle	cerchio aperto	
+open circle vertical	cerchio aperto verticale	
+open existing presentation	apertura di una presentazione esistente	
+open source operating system	sistema operativo open source	
+openly published programming interface	interfaccia di programmazione aperta	A flexible combination of on-site and off-site integration andmanagement services that address abroad range of IT infrastructure design,implementation and management needs 
+openoffice	OpenOffice	
+OpenRAN	OpenRAN	
+operating power	caratteristiche di alimentazione	
+operator	operatore	
+operator brackets	parentesi operatore	
+optical character recognition	riconoscimento ottico dei caratteri	
+optimal	ottimale	dinamico 
+optimize	ottimizzare	
+optimized	ottimizzato	
+option	opzione	
+option bar	barra delle opzioni	
+option button	pulsante di scelta	
+option fields	campi di opzione	
+optional components	componenti opzionali	
+optional text filters	filtro di testo opzionale	
+options	opzioni varie, selezione, strumenti, extra -- Sun	
+options	Opzioni	
+oracle	Oracle	
+orange	arancione	
+order	disporre	
+order	sequenza	
+organization	organizzazione	
+organizer	gestione	
+orientation	allineamento	direzione di scorrimento, orientamento
+orientation	orientamento	Voce UI
+origin	origine	sorgente 
+original	originale	
+orphan control	controllo vedove	
+orphans	orfane	
+os	os	
+os/2	os/2	
+outbox	posta in uscita	
+outer	esterno	
+outline	contorno	struttura
+Outline	Struttura	Voce UI
+outline	struttura	
+outline bar	barra degli strumenti per struttura	
+outline level	livelli di struttura	
+outline numbering	numerazione capitolo	
+outline symbols	punti	
+outline to clipboard	struttura negli appunti	
+outline view	vista struttura	modo struttura
+output	destinazione	
+outside	fuori	
+outside only	solo esterno	
+overlap	sovrapporre	
+overview	panoramica	
+overwrite	sovrascrivere	
+pack	comprimere	
+page	pagina	
+page down	(PagGiù)	when it refers to a key 
+page down	pagina verso il basso	
+page preview	anteprima di stampa	
+Page Setup	Impostazione pagina	Voce UI
+Page Setup dialog	finestra di dialogo Impostazione pagina	Voce UI
+page up	(PagSu)	when it refers to a key 
+pager	cercapersone	teledrin
+paint bucket	barattolo di vernice	
+pair kerning	kerning automatico	crenatura a coppia 
+pale green	verde chiaro	
+pale yellow	giallo chiaro	
+palettes	tavolozze	
+palm	palm	
+palmpilot installation	installazione palmpilot	
+paper	carta	
+paper format	formato foglio	
+paper jam	inceppamento	
+paper orientation	orientamento carta	
+paper problem	errore carta	
+paper size	formato carta	
+paper tray	cassetto	
+paragraph	paragrafo	
+paragraph spacing	distanza paragrafi	
+paragraph style	modello di paragrafo	
+parallel	parallelo	
+parallelogram	parallelogramma	
+parameter input	specifica parametro	
+parity bit protection	protezione del bit di parità	
+partial	parziale	
+partnership	partnership	
+pass count	passaggi	in the cross-fading function [StarOffice Draw] it indicates the number of steps to transform an object into another.
+password	confermare password	
+password	password	
+password required	password necessaria	
+paste	incollare	
+paste clipboard	incollare Appunti	
+path	percorso	
+pattern	modello	
+pattern editor	editor modello	
+pattern field	campo a maschera	
+Pattern Vertical Alignment viewing angle technology	tecnologia dell'angolatura di visione basata sull'allineamento verticale delle immagini	
+PAUSE	(Pausa)	
+pause	pausa	
+paused	pausa	
+PCS	PCS	
+pearson	pearson	
+pending deletion	in attesa di eliminare	
+percent	percentuale	
+percent with symbols	percentuale con simboli	
+percentage	percentuale	
+percentile	percentile	
+percentrank	percent.rango	
+period	periodi	
+periodic spline	curva spline periodica	
+periodic splines	curve spline periodiche	
+personal data	dati dell'utente	
+personal letter	lettera privata	
+perspective shadow	ombra in prospettiva	
+phi	fi	
+phone (home)	telefono	
+phone book	elenco telefonico	
+phone dialer	connessione telefonica	
+phonetic	fonetico	
+phonetic reading	lettura fonetica	
+picture placeholders	ingombro immagini	
+pictures	fotografie	
+pies	torta	
+pivot point	punto di rotazione	
+pixel mode	modo pixel	
+pixels	pixel	
+placeholder	segnaposto	
+placement	spostamento	
+places	cifre	
+plain	semplice	
+plastic	plastica	
+play	eseguire	
+plug-in	plugin	
+plug-in bar	barra degli oggetti per i plugin	
+pocket pc	pc tascabile	
+point	punto	
+point reduction	riduzione punti	
+point(s)	punti	
+pointer	pennarello	
+points	punti	
+poisson	poisson	
+polygon	poligono	
+polygon, filled	poligono, pieno	
+polyline	polilinea	
+pool	pool	
+pop art	popart	
+pop-up menu	menu a comparsa 	
+pop-up menu	menu contestuale	
+port	porta	
+portrait	verticale	
+position	disporre	
+position	posizione	
+position and size	posizione e dimensione	
+position and spacing	posizione e distanza	
+positive deviation	deviazione positiva	
+post document	inviare un documento	
+post office	ufficio postale	
+poster colors	colori posterizzati	
+posterize	posterizza	
+power	elevare a potenza	
+power	potenza	
+power regression	regressione potenziale	
+power save mode	modo risparmio energetico	
+prefix	prefisso	
+preformatted text	testo preformattato	
+presentation	presentazione	
+Presentation Wizard	Presentazione guidata	Voce UI
+presiding	responsabile	
+press optimized	prestampa ottimizzata	
+preview	anteprima	
+previous	precedente	
+price	prezzo	
+primary data center	centro dati principale	
+primary key	chiave primaria	
+principal	capitale	
+print	stampa	
+print layout	layout di stampa	
+print range	area di stampa	
+print screen	(Stamp)	
+print to file	stampa nel file	
+printable	stampabile	
+printed	stampato	
+printer	stampante	
+printer administration	gestione stampante	
+printing	stampa	
+prior to reset	prima di ripristinare	
+priority	priorità	
+private data	dati privati	
+private use area	area uso privato	
+probability	probabilità	
+procedure step	passo di procedura	
+processing	modifica	
+product	prodotto	
+productivity software	software di produttività	
+program	programma	
+progress	progresso	
+progress bar	barra di completamento	
+progress value	valore di progressione	
+project	progetto	
+project protocol	protocollo di progetto	
+Promote	Un livello più alto	Voce UI
+promote chapter	capitolo superiore	
+promote level	livello superiore	
+promote outline	graduare struttura	
+Promote/Demote	Un livello più alto/Un livello più basso	Voce UI
+property	proprietà	
+proportional	proporzionale	
+proprietary infrastructure	infrastruttura proprietaria	
+protect	proteggere	
+protected	protetto	
+protection	protezione	
+protocol selection	selezione protocollo	
+proxy	proxy	
+proxy server	server proxy	
+PSU	Alimentatore	
+public holidays	festività generali	
+publication type	tipo di edizione	
+publisher	casa editrice	
+punctuation characters	segni di punteggiatura	
+push button	pulsante	
+pyramid	piramide	
+quadratic	quadrato	
+quality	qualità	
+quartile	quartile	
+query	ricerca	interrogazione (To be used whenever the query refers to a command not to a "search") 
+query design	struttura ricerca	
+query name	nome della ricerca	
+query title	titolo ricerca	
+queue	coda	
+quickstarter	QuickStart	
+quotation	citazione	
+quotient	quoziente	
+quotient set	insieme quoziente	
+radial	radiale	
+radial red/yellow	radiale rosso/giallo	
+radians	radianti	
+radical	radicale	
+radio access network (RAN)	rete di accesso radio (RAN)	
+RADIUS	RADIUS	
+radius	raggio	
+radix	radice	
+ram	ram	
+ram disk	disco ram	
+rand	casuale	
+range	diapositive	intervallo, area 
+Range and copies	Intervallo e copie	Voce UI
+rank	rango	
+rapid file	rapid file	
+rate	tasso interesse	
+read	letto	
+read-error	errore di lettura	
+read-only	di sola lettura	
+reading subfolders	lettura sottocartelle in corso	
+ready	pronto	
+real num	parte reale	
+rearchitecting	ricorso a nuove architetture	
+rebuild	ricostruire	
+recalculate	ripetere il calcolo	
+recalculate hard	ricalcolo incondizionato	
+receiver	destinatario	
+record	record di dati	
+record	registrare	
+rectangle	rettangolo	
+rectangular parallelepiped	parallelepipedo	
+recycle bin	cestino	
+red	rosso	
+redemption	rimborso	
+redo	ripristinare	
+redraw	ridisegnare	
+reduce	ridurre	
+reference	riferimento	
+refresh	aggiornare	
+register	registrare	
+register-true	conformità registro	
+registration	registrazione	
+regression curve	curva di regressione	
+regular	standard	
+regular expression	espressione regolare	
+rehearse timings	presentazione cronometrata	
+reject	rifiutare	
+rejectable modification	modifica ricusabile	
+relative	relativo	
+relative/absolute references	riferimenti relativi/assoluti	
+relief	rilievo	
+reload	ricarica	
+remaining time	tempo restante	
+remarks	nota	
+reminder	contrassegno	
+reminders	contrassegni	
+remove	disinstallazione	
+remove	eliminare	rimuovere
+rename	rinominare	
+Rename Slide	Rinomina diapositiva	Voce UI
+repair	riparazione	
+repair installation	ripara installazione	
+repeat	ripetere	
+replace	sostituzione	
+reply	rispondere	
+report	rapporto	
+request	richiesta	
+reseller channel partner	canali di rivendita	
+reset	ripristinare	
+resize	ridimensionare	
+resolution	risoluzione	
+resource exhausted	risorse esaurite	
+response file	file di risposta	
+response file autopilot	response file pilota automatico	
+responsible	responsabile	
+restart	riavvio	
+restore	ripristinare	
+result	risultato	
+retry	ripetere	
+return	indietro	
+reverse	scambiare	
+reverse circumflex	accento circonflesso rovesciato	
+reverse engineering	retroingegnerizzare	
+reversed	invertito	
+review	verifica	
+rgb	rgb	
+rhaeto-romance	retoromanzo	
+rho	ro	
+rhombus	rombo	
+right	destra	
+right arc	arco destro	
+right area	area destra	
+right arrow	(Freccia Destra)	
+right arrow	freccia a destra	
+right center	in centro a destra	
+right click	fare clic con il pulsante secondario del mouse	fare clic con il pulsante secondario del mouse
+right outside	a destra all'esterno	
+right page	pagina destra	
+right-click	clic con il pulsante destro del mouse	
+right-click	fate clic con il pulsante secondario del mouse	
+right-to-left	da destra a sinistra	
+rings	anelli	
+rle coding	codifica rle	
+roaming	roaming	
+roll	scorrimento	
+root	root	
+root spacing	distanza radice	
+rotate	ruotare	
+rotate horizontally	ruota in orizzontale	
+rotation	rotazione	
+rotation angle	angolo di rotazione	
+rotation object	oggetto di rotazione	
+round	arrotondare	
+round brackets	parentesi tonde	
+round brackets (scalable)	parentesi tonde (in scala)	
+rounded edges	bordi arrotondati	
+rounded large arrow	freccia lunga arrotondata	
+row	riga	
+rubies	testo ruby	
+ruby	testo ruby	
+ruler	righello	
+rulers	righelli	limiti
+Rulers visible	Righelli visibili	Voce UI
+run	eseguire	
+runic	runico	
+salutation	formula di saluto	inizio lettera 
+salvage	valore residuo	
+samples	esempi	
+sandbox	sandbox	
+saturation	saturazione	
+save	salvare	
+Save Keyboard Configuration	Salva configurazione della tastiera	Voce UI
+save password	memorizzare password	
+Save scheme dialog	Finestra di dialogo Salva lo schema	Intestazione finestra di dialogo
+scale	scala	
+scaling	scala	
+scan	scansione	
+scanner	scanner	
+scenario	scenario	
+schema	schema	
+scheme	schema	
+school & university	scuola & università	
+scientific	scientifico	
+screen	schermo	
+script	script	
+scripting	scripting	
+scroll bar	barra di scorrimento	
+SCROLL LOCK	(Bloc scorr)	
+scroll value	valore scorrimento	
+search	cercare	
+search	ricerca	
+secondary axis	asse secondario	
+secondary data center	centro dati secondario	
+seconds	secondi	
+section	area	sezione (of a text) 
+secure connection	connessione sicura	
+security	sicurezza	
+security breach	violazione di protezione	
+security procedure	procedura di protezione	
+segments	segmenti	
+select	scelta	selezione 
+select	selezionare	verb 
+Select	Selezionate	
+selection	selezione	scelta 
+selection mode	modo selezione	
+selection of drivers	selezione driver	
+semi bold	semigrassetto	
+semi light	semileggero	
+semiautomatic	semiautomatico	
+semibold	semigrassetto	
+semicolon	punto e virgola	
+semicondensed	semi compatto	
+semiexpanded	semiespanso	
+semilight	semichiaro	
+send	inviare	
+Send	Invia	Voce UI
+sender	mittente	
+sent	inviati	
+separator	separatore	
+september	settembre	
+sequence checking	controllo sequenza	
+serial number	Numero di serie	
+series	serie	
+serif	serif	
+server	server	
+server not available	server non raggiungibile	
+server user installation	impostazioni utente server	
+server virtualization	virtualizzazione del server	
+server-side image map	image map dalla parte del server	
+service	servizio	
+Service Location Protocol (SLP)	Protocollo SLP (Service Location Protocol)	
+services platform	piattaforma di servizi	
+set	impostare	
+setting	impostazioni	
+setup	[programma di] installazione	
+seventh outline level	settimo livello struttura	
+shadow		ombra
+shadowing	ombra	
+sharpen	aumentare la nitidezza	
+shear angle	angolo di apertura	
+sheet	tabella	foglio elettronico 
+shell	shell	
+shift	(Maiusc)	Keyboard 
+shift	spostare	
+short fly in	sovrapporre da un punto interno	
+short name	abbreviazione	
+shortcut	scelta rapida	sigla 
+shortcut keys	tasti di scelta rapida	combinazione tasti 
+shortcuts	tasti di scelta rapida	
+show	mostrare	
+show report	mostrare la notifica	
+sign	segno	
+signature	firma	
+significance	peso	
+similarity search	ricerca per simili	
+sine	seno	
+single	singolo	semplice 
+single bit error	errore su un bit singolo	
+single- and multiprocessing system	sistemi a processore unico e multiprocessore	
+site certificates	certificati di sito	
+size	dimensioni	
+skew	asimmetria	
+slant	inclinare	
+slide	diapositiva	
+slide bar	barra degli strumenti per diapositive	
+slide design	modello di diapositiva	modello di pagina 
+slide effects	effetto diapositiva	
+slide master	master di diapositiva	
+slide mode	modo diapositiva	
+slide object bar	barra degli oggetti delle diapositive	
+slide parameter	parametro diapositiva	
+slide show	presentazione	
+slide show settings	impostazioni presentazione	
+Slide Sorter	Ordine diapositive	
+slide transition	diapositiva	
+slide view	vista diapositiva	
+slider	cursore	
+slides	diapositive	
+Slides pane	Riquadro Diapositive	Voce UI
+Slides pane	Riquadro diapositive	
+slope	pendenza	
+slow	lento	
+small	piccolo	
+small arrow	freccia piccola	
+small capitals	maiuscoletto	
+small caps	maiuscoletto	
+small form variants	piccole varianti di forma	
+small gap	spazio intermedio piccolo	
+smallest	il più piccolo	
+smart	smart	
+smooth	regolare	
+smooth	smorza	
+smooth scroll	scorrimento dolce	
+smooth transition	smorzamento lieve	
+snap	cattura	
+snap lines	linee di cattura	
+snap lines visible	linee di cattura visibili	
+snap object	oggetto di cattura	
+snap position	aggancio	
+snap range	area di cattura	
+Snap to Object Points	Cattura ai punti oggetto	Voce UI
+Snap to Page Margins	Cattura ai bordi pagina	Voce UI
+Snap to Snap Lines	Cattura alle linee	Voce UI
+snapshot build	versione Snapshot	
+socks proxy	socks proxy	
+software license agreement	contratto di licenza software	
+Solaris Container	Solaris Container	
+Solaris Feature Comparison Chart	Solaris Feature Comparison Chart	Several structures existing together without one constant ruling form. 
+Solaris Flash	Solaris Flash	
+Solaris Secure Shell	Solaris Secure Shell	
+Solaris Volume Manager	Solaris Volume Manager	
+solaris-sparc	solaris-sparc	
+solarization	solarizzazione	
+solid	pieno	
+sort	ordinare	
+sorting	ordine	
+sound	suono	
+sound files	file audio	
+source	sorgente	
+source code	codice-sorgente	
+source color	colore origine	
+source data range	area dati di sorgente	
+source directory	cartella sorgente	
+source document:	documento sorgente	
+space	spazio	
+space bar	(Barra spaziatrice)	
+space bar	spazio	
+spacing	distanza	spaziatura (tipography) 
+speaker	voce	
+SPECfp	SPECfp	
+special	speciale	
+special character	carattere speciale	
+specify	indicare	
+SPECint	SPECint	
+specular	riflesso	
+speech recognize	riconoscimento voce	
+speed	velocità	
+speed of ticker	velocità scritta scorrevole	
+spellcheck	controllo ortografico	
+spelling	controllo ortografico	
+spelling options	opzioni controllo ortografico	
+sphere	sfera	
+spin box	casella di selezione	OLH 
+spin button	pulsante di selezione	
+spiral	spirale	
+split	dividere	separare 
+spreadsheet	foglio di lavoro	foglio elettronico, tabella
+sql	sql	
+sql [native]	sql [native]	
+square	quadrato	
+square brackets	parentesi quadre	
+square root	radice quadrata	
+SS7 (Signaling System 7)	SS7 (Signaling System 7)	
+stacked		sovrapposto
+standard	standard	
+standards-based platform	piattaforma basata su standard	
+start	inizio	limite inferiore
+start over	riavviare	
+Start presentation	Presentazione	Voce UI
+Start with Wizard	Inizia con la procedura guidata	Voce UI
+state	stato	
+state (US)	regione	
+statistics	statistica	
+stats	parametri	
+status	stato	
+status bar	barra di stato	
+stealth mode perimeter	security	sicurezza del perimetro in modalità stealth
+step into 	passa all'interno	
+step out	passa all'esterno	
+step over	oltrepassa	
+stereo graphics	grafica stereoscopica	
+Stereoscopic environment	ambiente stereoscopico	
+stock chart	diagramma quotazioni	
+stop	interrompere	arrestare 
+stoppage	stoppage (blocco del sistema)	
+Storage array driver	Driver per storage array	
+straight connector	connettore diretto	
+straight line	linea diritta	
+straight line segment	segmento di retta	
+Stream Control Transmission Protocol (SCTP)	Protocollo SCTP (Stream Control Transmission Protocol)	
+street	via	
+stretch	proiettare	
+stretch and rotate	proiettare e ruotare	
+stretch from bottom	proiettare dal basso	
+stretch from left	proiettare da sinistra	
+stretch from right	proiettare da destra	
+stretch from top	proiettare dall'alto	
+stretch horizontally	proiettare in orizzontale	
+stretch vertically	proiettare in verticale	
+stretched	esteso	
+strict format	controllo formato	
+strikethrough	barrato	
+string	stringa	
+strings	stringhe	
+stroke	stroke	
+strong emphasis	enfasi forte	
+structure	struttura	
+structure and formatting	struttura e formattazione	
+stuck	stallo	
+style	stile	modello di formato (when it refers to an entry of the Sylist e.g. Intestazione 1
+Style and Formatting window	finestra Stile e formattazione	Voce UI
+style catalog	catalogo modelli	
+style name	nome modello	
+style sheet	foglio stile	
+stylist	Stilista	
+stylist on/off	mostra/nascondi Stilista	
+subdirectories	sottocartelle	
+subdivision	suddivisione	
+subdocument	documento secondario	
+subdocuments	documenti secondari	
+subitems	sottoelementi	
+subject	oggetto	
+subject line	riga oggetto	
+submenu	sottomenu	OLH 
+submission encoding	codifica all'invio	
+subpoints	sottoparagrafi	
+subpoints per level	paragrafi per capitolo	
+subscribed	sottoscritto	
+subscribed folders	gruppi sottoscritti	
+subscript	pedice	
+subset	area	insieme parziale, set caratteri 
+substitute	sostituire	
+subtitle	sottotitolo	
+subtotal	subtotale	
+subtract	sottrarre	
+subtraction	sottrazione	
+suffix	suffisso	
+suggestions	proposte	
+sum	somma	
+sum range	intervallo somma	
+summary	riepilogo	
+summary slide	pagina sommario	
+summary table	tabella riepilogativa	
+summation	sommatoria	OLH
+sun	sun	
+Sun 1394 visual collaboration kit	kit di sussidio visivo Sun 1394	
+Sun Blade 2000	Sun Blade 2000	
+Sun Blade 2000 20-Year Anniversary Celebration Edition	Sun Blade 2000, un'edizione speciale per il ventesimo anniversario di Sun	
+Sun Blade 2000 Personal Visualization Systems	sistemi di visualizzazione Sun Blade 2000	
+Sun Blade 2000 workstations	workstation Sun Blade 2000	
+Sun Creator3D	Sun Creator3D	
+Sun Expert3D	Sun Expert3D	
+Sun Expert3D-lite	Sun Expert3D-lite	
+Sun Java Center	Java Center Sun	
+sun logo	logo sun	
+Sun Net Event	Sun Net Event	
+Sun ONE Application Server	server applicativo Sun ONE	
+Sun ONE Application Server 7, Platform Edition	Sun ONE Application Server 7, Platform Edition	
+Sun ONE Developer platform	Sun ONE Developer Platform	
+Sun ONE Directory Server	Sun ONE Directory Server	server di directory Sun ONE
+Sun ONE Message Queue	Sun ONE Message Queue	
+Sun ONE Message Queue	Sun ONE Message Queue	
+Sun ONE Portal Server	server del portale Sun ONE	
+Sun ONE Portal Server 6.0	Sun ONE Portal Server 6.0	
+Sun ONE Web Server	Sun ONE Web Server	
+Sun PGX64	Sun PGX64	
+sun XVR-1000 graphics accelarator	acceleratore grafico Sun XVR-1000	
+SUNPCi IIpro coprocessor card	scheda del coprocessore SUNPCi Iipro	Unix File System 
+SunScreen Firewall	SunScreen Firewall	
+superordinate level	livello superiore	
+superscript	apice	OLH
+superset	insieme superiore	
+Support Entitlement	Diritto al supporto tecnico	
+supported functions	funzioni supportate	
+surface angle	inclinazione carta	
+surfaces	superfici	
+SWIM benchmark	benchmark SWIM	
+symbol	simbolo	
+symmetric	simmetrico	
+symmetric arrow	freccia simmetrica	
+symmetric transition	transito simmetrico	
+synchronization	sincronizzazione	
+synchronize	sincronizzare	
+Synchronize axes	Sincronizza assi	Voce UI
+synonym	sinonimo	
+syntax error	errore di sintassi	
+system	sistema	
+System Controller Failover	System Controller Failover	
+system directories	cartelle di sistema	
+system drive (%)	drive di sistema (%)	
+system file	file system	
+system folder	cartella specifica di sistema	
+system integration	integrazione di sistema	
+system object	oggetto di sistema	
+system options	opzioni di sistema	
+system properties	proprietà di sistema	
+system requirements	requisiti di sistema	richieste di sistema
+system sound	suono di sistema	
+System Tools	Sistema	
+tab	tabulazione	scheda
+Tab stops	Tabulazioni	Voce UI
+table	tabella	
+tabulator	tabulazione	
+tangent	tangente	
+target	destinazione	
+target directory	cartella di destinazione	
+Task Pane	Pannello delle attività	Voce UI
+TDMA (Time Division Multiple Access)	TDMA (Time Division Multiple Access)	
+tear-off	separare	staccare
+tear-off toolbars	barre strumenti separabili	
+template	modello di documento	
+test page	pagina di prova	
+test text	testo di prova	
+text	testo	
+text delimiter	separatore di testo	
+text editing mode 	modalità di modifica testo	
+Text Formatting toolbar	barra strumenti Formattazione del testo	Voce UI
+Text Formatting toolbar	barra degli strumenti Formattazione del testo	Voce UI
+text object	oggetto di testo	
+Text objects	Oggetti di testo	
+text-to-text	testo a testo	
+texture	motivo	
+texture memory	memoria per le texture	
+the Java Virtual Machine	la Macchina virtuale di Java (Macchina virtuale)	
+The magic keyword	parola magica	
+thesaurus	sinonimi	
+thesis	tesi di laurea	
+thin	sottile	fine 
+thousands separator	separatore migliaia	
+thread	struttura	
+Thread group	gruppo dei thread	
+Thread-local data	dati locali ai thread	
+threshold value	soglia	
+thumbnails	miniature	
+ticker	scritta scorrevole	
+tilde	tilde	
+tile	affianca	
+time	orario	
+timeout	timeout	
+timing and scoring system	sistema di cronometraggio e calcolo dei punteggi	
+tip	suggerimento	
+title	titolo	
+To object frame	Alla cornice dell'oggetto	Voce UI
+To snap lines	Alle linee di cattura	Voce UI
+To the page margins	Ai bordi pagina	Voce UI
+today	oggi	
+toggle	commutare	
+tolerance	tolleranza	
+tomcat	tomcat	
+toner low	livello del toner basso	
+toolbar	barra strumenti	
+toolbars	barre degli strumenti	
+tools	strumenti	
+torus	toro	
+total	totale	somma
+total columns	risultato complessivo colonne	
+total rows	risultato complessivo righe	
+transition speed	velocità diapositive	
+transparencies	lucidi	
+transparency	trasparenza	
+transparent	trasparente	
+Transponder	transponder	
+transpose	trasporre	
+trend	tendenza	
+trials	prove	tentativi
+triangular icon	indicatore di espansione (triangolo)	
+trigger hyperlink	esegui hyperlink	
+trim	ritagliare	
+triple curve integral	integrale curvilineo triplo	
+triple dot	punto triplo	
+triple integral	integrale triplo	
+tristate	stato triplo	
+Trojan horse	cavallo di Troia	
+true colors	colori reali	
+trunc	troncare	
+turquoise	turchese	ciano
+tutorial	esercitazione	OLH 
+TV Linux Alliance	TV Linux Alliance	
+type	tipo	
+UFS	UFS	
+ultra bold	grassetto doppio	
+ultra thin	ultrasottile	
+ultrabold	extra grassetto	
+ultracondensed	extra compatto	
+ultraexpanded	extra espanso	
+ultrafine dashed	a tratti finissimi	
+ultrafine dotted (variable)	a punti finissimi (var)	
+ultralight	extra chiaro	
+ultraSparc III Cu processor	processore ultraSparc III Cu	Stands for "Manufacturer's Suggested Retail Price" 
+unary operator expected	atteso operatore unario	
+unary/binary operators	operatori unari/binari	
+uncover	scoprire	
+uncover downwards	scoprire in basso	
+uncover to left	scoprire a sinistra	
+uncover to right	scoprire a destra	
+uncover upwards	scoprire in alto	
+undeclared	non dichiarato	
+underline	sottolineato	
+underscore	sottolineato	
+undo	annullare	
+undock	disancorare	
+ungroup	sciogli gruppo	elimina gruppo
+ungroup	separare	rimuovere 
+unicode	unicode	
+Unicode Consortium	Unicode Consortium	
+Unicode environment	ambiente Unicode	
+unique	univoco	
+unit of measurement	unità di misura	
+university	università	
+unix text	testo unix	
+UNIX-based platform	piattaforma basata su UNIX	
+unknown	sconosciuto	
+unlink	rimuovere i collegamenti	
+unlink text frames	staccare il collegamento della cornice di testo	
+unlinked graphic	immagine non collegata	
+unnamed	senza nome	
+unprotect	disattivare la protezione	
+unpublished	non pubblicato	
+unread documents	documenti non letti	
+unrestricted	illimitato	
+unsent messages	messaggi non inviati	
+unspecific name	nome non univoco	
+untitled	senza nome	
+unused	non utilizzato	
+unzip	decomprimere	
+up arrow	(Freccia Giu)	
+UPA slot	slot UPA	
+update	aggiornare	
+Update Now	Aggiorna	
+upper arc	arco superiore	
+upper border spacing	distanza superiore cornice	
+upper indicator	indicatore superiore	
+upper limit	limite superiore	
+uppercase	maiuscolo	
+url	URL	
+use	usare	applicare (“activate” a function or a formatting) 
+Use background cache	Utilizza la cache per lo sfondo	Voce UI
+user	utente	
+User Data	Dati utente	
+user index heading	intestazione indice personalizzato	
+user interface elements	elementi dell'interfaccia utente	
+user-defined	personalizzato	
+validate	confermare	
+validity	validità	
+value	valore	
+varepsilon	varepsilon	
+variable	variabile	
+variance	varianza	
+variation	variazione	
+varpi	varpi	
+varrho	varro	
+varsigma	varsigma	
+vartheta	vartheta	
+vba properties	proprietà vba	
+vcalendar-file	file vcalendar	
+vcard file	file vcard	
+vector arrow	freccia vettoriale	
+vector element	elemento vettoriale	
+verified	verificato	
+version	versione	
+version comment	commento versioni	
+version incompatibility	conflitto di versione	
+version visible	versione visibile	
+vertical	verticale	
+vertical alignment	allineamento verticale	
+vertical alignment default	allineamento verticale standard	
+vertical border line	bordo verticale	
+vertical callout	legenda verticale	
+vertical callouts	legenda verticale	
+vertical checkerboard	scacchiera verticale	
+vertical glyph substitution	sostituzione del glifo verticale	
+vertical line	linea verticale	
+vertical pitch	distanza verticale	
+vertical ruler	righello verticale	
+vertical scroll bar	barra di scorrimento verticale	
+vertical shadow outline	spostamento verticale ombra	
+vertical stack	disposizione verticale	
+vertical text alignment	allineamento del testo verticale	
+vertical text anchor	ancoraggio verticale testo	
+view	visualizzare	
+view	visualizzazione	
+View	Visualizza	Menu
+visibility	visibilità	
+visible	visibile	
+visible buttons	pulsanti visibili	
+visible grid	griglia visibile	
+visible size	dimensioni visibili	
+visible toolbars	barre dei simboli visibili	
+visited internet link	link internet visitato	
+visited link	link visitato	
+visited links	collegamenti attivati	per il sito visitato
+visual	visivo	
+visual aids	supporti visivi	
+volkswriter deluxe	volkswriter deluxe	
+volkswriter import	importazione volkswriter	
+volkswriter import filters	filtri d'importazione volkswriter	
+volume	volume	
+vrml file	file vrml	
+waiting	attesa	in attesa
+wall	muro	
+warming up	in avvio	
+warning	avvertimento	attenzione
+watch	controllo	
+watermark	filigrana	
+WCDMA	WCDMA	
+web page	pagina Web	
+web server	Web server	
+Web-based training	formazione basata sul Web	
+webcast	webcast	
+weibull	weibull	
+weight	spessore	
+western	occidentale	
+Western Europe	Europa dell'ovest	
+western text font	tipo di carattere occidentale	
+western text:	testo occidentale:	
+When creating or moving objects	Nella creazione e nel movimento	Voce UI
+when initiating	durante l'esecuzione	
+when loading	durante il caricamento	
+when losing focus	perdita del punto focale	
+when receiving focus	raggiungimento del punto focale	
+when reloading	durante il ricaricamento	
+when rotating	nella rotazione	
+When rotating	Nella rotazione	Voce UI
+when unloading	durante lo scaricamento	
+whole numbers	numero intero	
+whole word	parola intera	
+widow control	controllo orfane	
+widows	vedove	
+width	larghezza	
+wildcard	carattere jolly 	
+wildcard expression	espressione wildcard	
+window	finestra	
+wireless provider	fornitore di servizi wireless	
+with 4:3 ratio	con rapporto d'aspetto pari a 4:3	
+word processing	elaborazione di testi	
+word templates	modelli di word	
+words	parole	
+work item	elemento di lavoro	
+workaround	workaround	(il) 
+workflow	flusso di lavoro	
+workplace	posto di lavoro	area di lavoro
+Workspace pane	riquadro Area di lavoro	
+workstation installation	installazione workstation	
+workweek	settimana lavorativa	
+wrap	scorrimento	
+write protection	protetto	
+writer	writer	
+writing aids	linguistica	
+X axis	asse X	
+X.org	X.org	
+xi	csi	
+XML message	messaggio XML	
+XSL	XSL	eXtensible Style Language
+XSLT	XSLT	eXtensible Style Language Transformation 
+Y axis	asse Y	
+year	anno	
+Z axis	asse Z	
+zero line	linea dello zero	
+zero values	valori zero	
+zeta	zeta	
+zhuyin	zhuyin	
+zip code	cap	
+zip file	file zip	
+zoom	zoom	

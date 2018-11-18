@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>First page</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181118T171614Z" creationid="luke" creationdate="20181118T171614Z">
+        <seg>Prima pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prerequisites</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181118T171621Z" creationid="luke" creationdate="20181118T171621Z">
+        <seg>Prerequisites</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using Impress Remote for Android with LibreOffice 4.1 or later</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181118T171620Z" creationid="luke" creationdate="20181118T171620Z">
+        <seg>aaaaaaaaaaaaUsing Impress Remote for Android with LibreOffice 4.1 or later</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
