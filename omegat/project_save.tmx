@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable Bluetooth on both devices.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T111940Z" creationid="luke" creationdate="20181119T111920Z">
+        <seg>Attivate il Bluetooth su entrambi i dispositivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>First page</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181118T171614Z" creationid="luke" creationdate="20181118T171614Z">
@@ -94,10 +102,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the computer:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T112001Z" creationid="luke" creationdate="20181119T111922Z">
+        <seg>Sul computer:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pairing the Phone with the Computer</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T110453Z" creationid="luke" creationdate="20181119T110453Z">
-        <seg>Pairing the Phone with the Computer</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T111816Z" creationid="luke" creationdate="20181119T110453Z">
+        <seg>Accoppiamento dello smartphone con il computer</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,10 +134,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Refer to the computer or operating system manual for instruction.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T112331Z" creationid="luke" creationdate="20181119T112242Z">
+        <seg>aaaaRefer to the computer or operating system manual for instruction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The instructions on how to enable Bluetooth on the computer will vary by operating system and possibly even by make and model of the computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T112241Z" creationid="luke" creationdate="20181119T112241Z">
+        <seg>Le istruzioni su come abilitare il Bluetooth sul computer variano in base al sistema operativo ed eventualmente anche in base alla marca e al modello del computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There should be an entry reading Android Version.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T110043Z" creationid="luke" creationdate="20181119T105723Z">
         <seg>Dovrebbe essere presente la voce Versione di Android.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To be able to later see the computer from the phone, make sure to make the computer visible in the Bluetooth settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T112331Z" creationid="luke" creationdate="20181119T112331Z">
+        <seg>To be able to later see the computer from the phone, make sure to make the computer visible in the Bluetooth settings.</seg>
       </tuv>
     </tu>
     <tu>
