@@ -64,16 +64,16 @@
       <tuv lang="EN">
         <seg>If the Enable Bluetooth switch is set to Off (or 0), enable it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T112526Z" creationid="luke" creationdate="20181119T112526Z">
-        <seg>If the Enable Bluetooth switch is set to Off (or 0), enable it.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T114619Z" creationid="luke" creationdate="20181119T112526Z">
+        <seg>Se il pulsante Abilita Bluetooth è impostato a Spento (o 0), abilitatelo.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If you left the Bluetooth panel, open it again.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T112526Z" creationid="luke" creationdate="20181119T112526Z">
-        <seg>If you left the Bluetooth panel, open it again.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T114623Z" creationid="luke" creationdate="20181119T112526Z">
+        <seg>aaaaaaaaaaaIf you left the Bluetooth panel, open it again.</seg>
       </tuv>
     </tu>
     <tu>
@@ -136,8 +136,8 @@
       <tuv lang="EN">
         <seg>Open the Settings application.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T112527Z" creationid="luke" creationdate="20181119T112527Z">
-        <seg>Open the Settings application.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T114235Z" creationid="luke" creationdate="20181119T112527Z">
+        <seg>Aprite l'applicazione Impostazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,8 +184,8 @@
       <tuv lang="EN">
         <seg>Tap Bluetooth.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T112527Z" creationid="luke" creationdate="20181119T112527Z">
-        <seg>Tap Bluetooth.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T114342Z" creationid="luke" creationdate="20181119T112527Z">
+        <seg>Toccate Bluetooth.</seg>
       </tuv>
     </tu>
     <tu>
@@ -194,6 +194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T112241Z" creationid="luke" creationdate="20181119T112241Z">
         <seg>Le istruzioni su come abilitare il Bluetooth sul computer variano in base al sistema operativo ed eventualmente anche in base alla marca e al modello del computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There should be a list of devices at the end of the panel.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T114624Z" creationid="luke" creationdate="20181119T114624Z">
+        <seg>There should be a list of devices at the end of the panel.</seg>
       </tuv>
     </tu>
     <tu>
