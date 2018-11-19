@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Can be installed from the Google Play Store, or from F-Droid.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T110453Z" creationid="luke" creationdate="20181119T110453Z">
+        <seg>aaaaCan be installed from the Google Play Store, or from F-Droid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Computer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T094212Z" creationid="luke" creationdate="20181119T094212Z">
@@ -48,8 +56,8 @@
       <tuv lang="EN">
         <seg>Impress Remote for Android</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T105723Z" creationid="luke" creationdate="20181119T105723Z">
-        <seg>Impress Remote for Android</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T110450Z" creationid="luke" creationdate="20181119T105723Z">
+        <seg>Impress Remote per Android</seg>
       </tuv>
     </tu>
     <tu>
@@ -72,8 +80,8 @@
       <tuv lang="EN">
         <seg>Note: To find out which version of Android you are using, open the Settings application from the main menu, then open About Phone.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T110306Z" creationid="luke" creationdate="20181119T100811Z">
-        <seg>aaaaNota: per trovare la versione di Android in uso, aprite l'applicazione Impostazioni dal menu principale, poi scegliete la voce Info sul telefono.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T110416Z" creationid="luke" creationdate="20181119T100811Z">
+        <seg>Nota: per trovare la versione di Android in uso, aprite l'applicazione Impostazioni dal menu principale, poi scegliete la voce Info sul telefono.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +90,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T110154Z" creationid="luke" creationdate="20181119T094454Z">
         <seg>Nota: per trovare la versione di LibreOffice in uso, vedete le informazioni visualizzate nel menu Aiuto ▸ Informazioni su LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pairing the Phone with the Computer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T110453Z" creationid="luke" creationdate="20181119T110453Z">
+        <seg>Pairing the Phone with the Computer</seg>
       </tuv>
     </tu>
     <tu>
