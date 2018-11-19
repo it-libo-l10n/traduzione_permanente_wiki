@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>A computer with GNU/Linux, macOS, or Windows and Bluetooth connectivity</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T094322Z" creationid="luke" creationdate="20181119T094322Z">
+        <seg>Un computer con GNU/Linux, macOS, o Windows e connettività Bluetooth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Can be downloaded from the LibreOffice download page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T094454Z" creationid="luke" creationdate="20181119T094454Z">
+        <seg>aaaaCan be downloaded from the LibreOffice download page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Computer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T094212Z" creationid="luke" creationdate="20181119T094212Z">
+        <seg>Computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>First page</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181118T171614Z" creationid="luke" creationdate="20181118T171614Z">
@@ -14,18 +38,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice 4.1 (or higher)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T094449Z" creationid="luke" creationdate="20181119T094449Z">
+        <seg>LibreOffice 4.1 (o successivo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: Impress Remote works best with GNU/Linux computers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T094411Z" creationid="luke" creationdate="20181119T094411Z">
+        <seg>Nota: Impress Remote funziona al meglio su computer GNU/Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: To find out which version of LibreOffice you are using, see the information displayed in Help ▸ About LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T094454Z" creationid="luke" creationdate="20181119T094454Z">
+        <seg>Note: To find out which version of LibreOffice you are using, see the information displayed in Help ▸ About LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Prerequisites</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181118T171621Z" creationid="luke" creationdate="20181118T171621Z">
-        <seg>Prerequisites</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T094209Z" creationid="luke" creationdate="20181118T171621Z">
+        <seg>Prerequisiti</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Using Impress Remote for Android with LibreOffice 4.1 or later</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181118T171620Z" creationid="luke" creationdate="20181118T171620Z">
-        <seg>aaaaaaaaaaaaUsing Impress Remote for Android with LibreOffice 4.1 or later</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T094203Z" creationid="luke" creationdate="20181118T171620Z">
+        <seg>Utilizzo di Impress Remote per Android con LibreOffice 4.1 o successivo</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
