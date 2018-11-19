@@ -14,10 +14,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An Android 2.3 (or higher) device with Bluetooth connectivity</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T100810Z" creationid="luke" creationdate="20181119T100810Z">
+        <seg>aaaaAn Android 2.3 (or higher) device with Bluetooth connectivity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Can be downloaded from the LibreOffice download page.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T094454Z" creationid="luke" creationdate="20181119T094454Z">
-        <seg>aaaaCan be downloaded from the LibreOffice download page.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T100453Z" creationid="luke" creationdate="20181119T094454Z">
+        <seg>Può essere scaricato dalla pagina di download di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,10 +62,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: To find out which version of Android you are using, open the Settings application from the main menu, then open About Phone.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T100811Z" creationid="luke" creationdate="20181119T100811Z">
+        <seg>Note: To find out which version of Android you are using, open the Settings application from the main menu, then open About Phone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: To find out which version of LibreOffice you are using, see the information displayed in Help ▸ About LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T094454Z" creationid="luke" creationdate="20181119T094454Z">
-        <seg>Note: To find out which version of LibreOffice you are using, see the information displayed in Help ▸ About LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T100752Z" creationid="luke" creationdate="20181119T094454Z">
+        <seg>Nota: per trovare il numero di versione di LibreOffice in uso, vedete le informazioni visualizzate in Aiuto ▸ Informazioni su LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Phone</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T100807Z" creationid="luke" creationdate="20181119T100807Z">
+        <seg>Telefono</seg>
       </tuv>
     </tu>
     <tu>
