@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close all open LibreOffice windows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T145604Z" creationid="luke" creationdate="20181119T145604Z">
+        <seg>Close all open LibreOffice windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Computer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T094212Z" creationid="luke" creationdate="20181119T094212Z">
@@ -66,6 +74,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T143347Z" creationid="luke" creationdate="20181119T143007Z">
         <seg>Abilitare il controllo remoto in LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable ☑ Enable remote control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T145600Z" creationid="luke" creationdate="20181119T145600Z">
+        <seg>Abilitate la voce ☑ Abilita il controllo remoto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -176,8 +192,8 @@
       <tuv lang="EN">
         <seg>Open Tools ▸ Options, go to the panel LibreOffice Impress ▸ General.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T143530Z" creationid="luke" creationdate="20181119T143530Z">
-        <seg>aaaaOpen Tools ▸ Options, go to the panel LibreOffice Impress ▸ General.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T145242Z" creationid="luke" creationdate="20181119T143530Z">
+        <seg>Aprite il menu Strumenti ▸ Opzioni, quindi scegliete il pannello LibreOffice Impress ▸ Generale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -192,8 +208,8 @@
       <tuv lang="EN">
         <seg>Options window</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T143531Z" creationid="luke" creationdate="20181119T143531Z">
-        <seg>Options window</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T145429Z" creationid="luke" creationdate="20181119T143531Z">
+        <seg>Finestra Opzioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,6 +290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T114031Z" creationid="luke" creationdate="20181119T112331Z">
         <seg>Per poter vedere in seguito il computer dallo smartphone, assicuratevi di rendere visibile il computer nelle impostazioni Bluetooth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To close the dialog, click OK.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T145603Z" creationid="luke" creationdate="20181119T145603Z">
+        <seg>aaaaTo close the dialog, click OK.</seg>
       </tuv>
     </tu>
     <tu>
