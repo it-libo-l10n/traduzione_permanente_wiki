@@ -64,8 +64,8 @@
       <tuv lang="EN">
         <seg>Enable the Remote Control in LibreOffice</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T143007Z" creationid="luke" creationdate="20181119T143007Z">
-        <seg>Enable the Remote Control in LibreOffice</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T143347Z" creationid="luke" creationdate="20181119T143007Z">
+        <seg>Abilitare il controllo remoto in LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,10 +166,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On your computer, open LibreOffice Impress.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T143520Z" creationid="luke" creationdate="20181119T143520Z">
+        <seg>Sul computer, aprite LibreOffice Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Tools ▸ Options, go to the panel LibreOffice Impress ▸ General.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T143530Z" creationid="luke" creationdate="20181119T143530Z">
+        <seg>aaaaOpen Tools ▸ Options, go to the panel LibreOffice Impress ▸ General.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Settings application.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T114235Z" creationid="luke" creationdate="20181119T112527Z">
         <seg>Aprite l'applicazione Impostazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T143531Z" creationid="luke" creationdate="20181119T143531Z">
+        <seg>Options window</seg>
       </tuv>
     </tu>
     <tu>
@@ -280,8 +304,8 @@
       <tuv lang="EN">
         <seg>Your devices should now be paired successfully.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T143006Z" creationid="luke" creationdate="20181119T143006Z">
-        <seg>aaaaYour devices should now be paired successfully.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T143321Z" creationid="luke" creationdate="20181119T143006Z">
+        <seg>I dispositivi ora dovrebbero essere accoppiati.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
