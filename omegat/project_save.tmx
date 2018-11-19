@@ -16,8 +16,8 @@
       <tuv lang="EN">
         <seg>An Android 2.3 (or higher) device with Bluetooth connectivity</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T100810Z" creationid="luke" creationdate="20181119T100810Z">
-        <seg>aaaaAn Android 2.3 (or higher) device with Bluetooth connectivity</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T105142Z" creationid="luke" creationdate="20181119T100810Z">
+        <seg>Un dispositivo con Android 2.3 (o successivo) con connettività Bluetooth</seg>
       </tuv>
     </tu>
     <tu>
@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Impress Remote for Android</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T105723Z" creationid="luke" creationdate="20181119T105723Z">
+        <seg>Impress Remote for Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice 4.1 (or higher)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T094449Z" creationid="luke" creationdate="20181119T094449Z">
@@ -64,24 +72,24 @@
       <tuv lang="EN">
         <seg>Note: To find out which version of Android you are using, open the Settings application from the main menu, then open About Phone.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T100811Z" creationid="luke" creationdate="20181119T100811Z">
-        <seg>Note: To find out which version of Android you are using, open the Settings application from the main menu, then open About Phone.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T110306Z" creationid="luke" creationdate="20181119T100811Z">
+        <seg>aaaaNota: per trovare la versione di Android in uso, aprite l'applicazione Impostazioni dal menu principale, poi scegliete la voce Info sul telefono.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Note: To find out which version of LibreOffice you are using, see the information displayed in Help ▸ About LibreOffice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T100752Z" creationid="luke" creationdate="20181119T094454Z">
-        <seg>Nota: per trovare il numero di versione di LibreOffice in uso, vedete le informazioni visualizzate in Aiuto ▸ Informazioni su LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T110154Z" creationid="luke" creationdate="20181119T094454Z">
+        <seg>Nota: per trovare la versione di LibreOffice in uso, vedete le informazioni visualizzate nel menu Aiuto ▸ Informazioni su LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Phone</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T100807Z" creationid="luke" creationdate="20181119T100807Z">
-        <seg>Telefono</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T105010Z" creationid="luke" creationdate="20181119T100807Z">
+        <seg>SmartPhone</seg>
       </tuv>
     </tu>
     <tu>
@@ -90,6 +98,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T094209Z" creationid="luke" creationdate="20181118T171621Z">
         <seg>Prerequisiti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There should be an entry reading Android Version.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T110043Z" creationid="luke" creationdate="20181119T105723Z">
+        <seg>Dovrebbe essere presente la voce Versione di Android.</seg>
       </tuv>
     </tu>
     <tu>
