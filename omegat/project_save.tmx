@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check if the number displayed on the computer matches that displayed on the phone.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T132341Z" creationid="luke" creationdate="20181119T132341Z">
+        <seg>aaaaCheck if the number displayed on the computer matches that displayed on the phone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Computer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T094212Z" creationid="luke" creationdate="20181119T094212Z">
@@ -62,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it does, affirm on both devices.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T132341Z" creationid="luke" creationdate="20181119T132341Z">
+        <seg>If it does, affirm on both devices.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the Enable Bluetooth switch is set to Off (or 0), enable it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T114619Z" creationid="luke" creationdate="20181119T112526Z">
@@ -72,8 +88,8 @@
       <tuv lang="EN">
         <seg>If you have not changed the Bluetooth name of your computer, the name is often the name of the computer brand or the operating system.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T130234Z" creationid="luke" creationdate="20181119T130234Z">
-        <seg>aaaaIf you have not changed the Bluetooth name of your computer, the name is often the name of the computer brand or the operating system.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T132257Z" creationid="luke" creationdate="20181119T130234Z">
+        <seg>Se non avete cambiato il nome Bluetooth del vostro computer, il nome corrisponde spesso al nome della marca del computer o a quello assegnato dal sistema operativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,8 +264,8 @@
       <tuv lang="EN">
         <seg>You will now be asked to confirm a number on both devices.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T130235Z" creationid="luke" creationdate="20181119T130235Z">
-        <seg>You will now be asked to confirm a number on both devices.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T132339Z" creationid="luke" creationdate="20181119T130235Z">
+        <seg>Vi verrà chiesto di confermare un numero su entrambi i dispositivi.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
