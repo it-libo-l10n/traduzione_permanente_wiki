@@ -70,10 +70,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have not changed the Bluetooth name of your computer, the name is often the name of the computer brand or the operating system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T130234Z" creationid="luke" creationdate="20181119T130234Z">
+        <seg>aaaaIf you have not changed the Bluetooth name of your computer, the name is often the name of the computer brand or the operating system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you left the Bluetooth panel, open it again.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T114623Z" creationid="luke" creationdate="20181119T112526Z">
-        <seg>aaaaaaaaaaaIf you left the Bluetooth panel, open it again.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T125949Z" creationid="luke" creationdate="20181119T112526Z">
+        <seg>Se avete lasciato il pannello Bluetooth, apritelo di nuovo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -200,8 +208,8 @@
       <tuv lang="EN">
         <seg>There should be a list of devices at the end of the panel.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T114624Z" creationid="luke" creationdate="20181119T114624Z">
-        <seg>There should be a list of devices at the end of the panel.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T130041Z" creationid="luke" creationdate="20181119T114624Z">
+        <seg>Dovrebbe esserci un elenco di dispositivi alla fine del pannello.</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,10 +230,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To pair with the computer, tap the entry with the name of your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T130232Z" creationid="luke" creationdate="20181119T130232Z">
+        <seg>Per accoppiare il computer, toccate la voce con il nome del vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using Impress Remote for Android with LibreOffice 4.1 or later</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T094203Z" creationid="luke" creationdate="20181118T171620Z">
         <seg>Utilizzo di Impress Remote per Android con LibreOffice 4.1 o successivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will now be asked to confirm a number on both devices.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T130235Z" creationid="luke" creationdate="20181119T130235Z">
+        <seg>You will now be asked to confirm a number on both devices.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
