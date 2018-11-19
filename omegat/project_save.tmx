@@ -48,8 +48,8 @@
       <tuv lang="EN">
         <seg>Enable Bluetooth on both devices.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T111940Z" creationid="luke" creationdate="20181119T111920Z">
-        <seg>Attivate il Bluetooth su entrambi i dispositivi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T112427Z" creationid="luke" creationdate="20181119T111920Z">
+        <seg>Attivare il Bluetooth su entrambi i dispositivi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58,6 +58,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181118T171614Z" creationid="luke" creationdate="20181118T171614Z">
         <seg>Prima pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Enable Bluetooth switch is set to Off (or 0), enable it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T112526Z" creationid="luke" creationdate="20181119T112526Z">
+        <seg>If the Enable Bluetooth switch is set to Off (or 0), enable it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you left the Bluetooth panel, open it again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T112526Z" creationid="luke" creationdate="20181119T112526Z">
+        <seg>If you left the Bluetooth panel, open it again.</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,6 +126,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the phone:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T112527Z" creationid="luke" creationdate="20181119T112527Z">
+        <seg>On the phone:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Settings application.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T112527Z" creationid="luke" creationdate="20181119T112527Z">
+        <seg>Open the Settings application.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pair the devices.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T112525Z" creationid="luke" creationdate="20181119T112525Z">
+        <seg>Accoppiare i dispositivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pairing the Phone with the Computer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T111816Z" creationid="luke" creationdate="20181119T110453Z">
@@ -138,6 +178,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T112331Z" creationid="luke" creationdate="20181119T112242Z">
         <seg>aaaaRefer to the computer or operating system manual for instruction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tap Bluetooth.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T112527Z" creationid="luke" creationdate="20181119T112527Z">
+        <seg>Tap Bluetooth.</seg>
       </tuv>
     </tu>
     <tu>
