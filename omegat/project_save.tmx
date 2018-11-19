@@ -48,8 +48,8 @@
       <tuv lang="EN">
         <seg>Close all open LibreOffice windows.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T145604Z" creationid="luke" creationdate="20181119T145604Z">
-        <seg>Close all open LibreOffice windows.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T145744Z" creationid="luke" creationdate="20181119T145604Z">
+        <seg>aaaaClose all open LibreOffice windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start LibreOffice again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T145745Z" creationid="luke" creationdate="20181119T145745Z">
+        <seg>Start LibreOffice again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tap Bluetooth.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T114342Z" creationid="luke" creationdate="20181119T112527Z">
@@ -296,8 +304,8 @@
       <tuv lang="EN">
         <seg>To close the dialog, click OK.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181119T145603Z" creationid="luke" creationdate="20181119T145603Z">
-        <seg>aaaaTo close the dialog, click OK.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181119T145742Z" creationid="luke" creationdate="20181119T145603Z">
+        <seg>Per chiudere la finestra di dialogo, fate clic su OK.</seg>
       </tuv>
     </tu>
     <tu>
