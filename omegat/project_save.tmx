@@ -232,8 +232,8 @@
       <tuv lang="EN">
         <seg>Open Impress Remote from the main menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T080516Z" creationid="luke" creationdate="20181120T080516Z">
-        <seg>aaaaOpen Impress Remote from the main menu.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T081334Z" creationid="luke" creationdate="20181120T080516Z">
+        <seg>Aprite Impress Remote dal menu principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The presentation opened on the computer begins automatically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T081620Z" creationid="luke" creationdate="20181120T081620Z">
+        <seg>La presentazione aperta sul computer inizierà automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There should be a list of devices at the end of the panel.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T130041Z" creationid="luke" creationdate="20181119T114624Z">
@@ -338,6 +346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T110043Z" creationid="luke" creationdate="20181119T105723Z">
         <seg>Dovrebbe essere presente la voce Versione di Android.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To advance the presentation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T081623Z" creationid="luke" creationdate="20181120T081623Z">
+        <seg>To advance the presentation</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To control the presentation:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T081622Z" creationid="luke" creationdate="20181120T081622Z">
+        <seg>aaaaTo control the presentation:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To pair with the computer, tap the entry with the name of your computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T130232Z" creationid="luke" creationdate="20181119T130232Z">
@@ -368,8 +392,8 @@
       <tuv lang="EN">
         <seg>To select your computer, tap the name of it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T080516Z" creationid="luke" creationdate="20181120T080516Z">
-        <seg>To select your computer, tap the name of it.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T081536Z" creationid="luke" creationdate="20181120T080516Z">
+        <seg>Per selezionare il vostro computer, toccatene il nome.</seg>
       </tuv>
     </tu>
     <tu>
