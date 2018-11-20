@@ -8,8 +8,8 @@
       <tuv lang="EN">
         <seg>(If you do not see the green splash screen with the loading bar, LibreOffice was not closed completely.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T075308Z" creationid="luke" creationdate="20181120T075308Z">
-        <seg>aaaa(If you do not see the green splash screen with the loading bar, LibreOffice was not closed completely.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T075929Z" creationid="luke" creationdate="20181120T075308Z">
+        <seg>Se non vedete la schermata iniziale verde con la barra di caricamento, LibreOffice non è stato chiuso completamente;</seg>
       </tuv>
     </tu>
     <tu>
@@ -144,8 +144,8 @@
       <tuv lang="EN">
         <seg>In this case, repeat the previous step.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T075308Z" creationid="luke" creationdate="20181120T075308Z">
-        <seg>In this case, repeat the previous step.)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T075949Z" creationid="luke" creationdate="20181120T075308Z">
+        <seg>in questo caso, ripetete il passaggio precedente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On both devices, make sure Bluetooth is already enabled and configured</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T080352Z" creationid="luke" creationdate="20181120T080352Z">
+        <seg>Assicuratevi che il Bluetooth sia già abilitato e configurato su entrambi i dispositivi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the computer:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T112001Z" creationid="luke" creationdate="20181119T111922Z">
@@ -202,6 +210,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T143520Z" creationid="luke" creationdate="20181119T143520Z">
         <seg>Sul computer, aprite LibreOffice Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On your computer, open the presentation you would like to present.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T080428Z" creationid="luke" creationdate="20181120T080428Z">
+        <seg>Sul computer, aprite la presentazione che desiderate presentare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On your phone:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T080514Z" creationid="luke" creationdate="20181120T080514Z">
+        <seg>Sullo smartphone:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Impress Remote from the main menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T080516Z" creationid="luke" creationdate="20181120T080516Z">
+        <seg>aaaaOpen Impress Remote from the main menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +362,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T130232Z" creationid="luke" creationdate="20181119T130232Z">
         <seg>Per accoppiare il computer, toccate la voce con il nome del vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select your computer, tap the name of it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T080516Z" creationid="luke" creationdate="20181120T080516Z">
+        <seg>To select your computer, tap the name of it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using Impress Remote</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T080239Z" creationid="luke" creationdate="20181120T080239Z">
+        <seg>Utilizzo di Impress Remote</seg>
       </tuv>
     </tu>
     <tu>
