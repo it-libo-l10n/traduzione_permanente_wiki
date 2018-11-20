@@ -40,8 +40,8 @@
       <tuv lang="EN">
         <seg>Bug Report</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T114821Z" creationid="luke" creationdate="20181120T114643Z">
-        <seg>aaaaBug Report</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T133954Z" creationid="luke" creationdate="20181120T114643Z">
+        <seg>Segnalazione bug</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,8 +184,16 @@
       <tuv lang="EN">
         <seg>How to Report Bugs in LibreOffice</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T114822Z" creationid="luke" creationdate="20181120T114822Z">
-        <seg>How to Report Bugs in LibreOffice</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T134122Z" creationid="luke" creationdate="20181120T114822Z">
+        <seg>Come segnalare dei bug in LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to Report Bugs in LibreOffice Extensions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T134132Z" creationid="luke" creationdate="20181120T134132Z">
+        <seg>Come segnalare dei bug per le estensioni di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,6 +494,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The List LibreOffice components in Bugzilla</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T134336Z" creationid="luke" creationdate="20181120T134336Z">
+        <seg>The List LibreOffice components in Bugzilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Templates for searching in Bugzilla</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T134335Z" creationid="luke" creationdate="20181120T134251Z">
+        <seg>aaaaThe Templates for searching in Bugzilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The instructions on how to enable Bluetooth on the computer will vary by operating system and possibly even by make and model of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T112241Z" creationid="luke" creationdate="20181119T112241Z">
@@ -634,6 +658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T102317Z" creationid="luke" creationdate="20181120T095011Z">
         <seg>Per utilizzare una connessione Wi-fi: sul computer, attivate le funzionalità sperimentali di LibreOffice. Scegliete il menu Strumenti ▸ Opzioni ▸ LibreOffice ▸ Avanzate e spuntate l'opzione ☑ Abilita le funzionalità sperimentali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Troubleshoot and Report Printing Problems</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T134247Z" creationid="luke" creationdate="20181120T134247Z">
+        <seg>Risolvere e segnalare problemi di stampa</seg>
       </tuv>
     </tu>
     <tu>
