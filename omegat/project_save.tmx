@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Debian bug tracker</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T162929Z" creationid="luke" creationdate="20181120T162929Z">
+        <seg>Tracciamento bug in Debian</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Easy Hacks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T113019Z" creationid="luke" creationdate="20181120T110641Z">
@@ -170,6 +178,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181118T171614Z" creationid="luke" creationdate="20181118T171614Z">
         <seg>Prima pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gentoo tracker</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T162931Z" creationid="luke" creationdate="20181120T162931Z">
+        <seg>Gentoo tracker</seg>
       </tuv>
     </tu>
     <tu>
@@ -286,10 +302,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice bug tracking in Linux distributions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T162837Z" creationid="luke" creationdate="20181120T162837Z">
+        <seg>Tracciamento dei bug di LibreOffice nelle distribuzioni Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most Annoying Bugs (MAB)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T154844Z" creationid="luke" creationdate="20181120T154844Z">
-        <seg>Most Annoying Bugs (MAB)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T155512Z" creationid="luke" creationdate="20181120T154844Z">
+        <seg>Bug più fastidiosi</seg>
       </tuv>
     </tu>
     <tu>
