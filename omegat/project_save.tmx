@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bug Triage</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T144747Z" creationid="luke" creationdate="20181120T144747Z">
+        <seg>aaaaBug Triage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bugzilla</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T114432Z" creationid="luke" creationdate="20181120T114432Z">
@@ -480,8 +488,8 @@
       <tuv lang="EN">
         <seg>Sorting</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T144709Z" creationid="luke" creationdate="20181120T144709Z">
-        <seg>Sorting</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T144745Z" creationid="luke" creationdate="20181120T144709Z">
+        <seg>Ordinamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -514,6 +522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T114342Z" creationid="luke" creationdate="20181119T112527Z">
         <seg>Toccate Bluetooth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Field of Keywords in Bugzilla</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T144748Z" creationid="luke" creationdate="20181120T144748Z">
+        <seg>The Field of Keywords in Bugzilla</seg>
       </tuv>
     </tu>
     <tu>
