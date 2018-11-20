@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most Annoying Bugs (MAB)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T154844Z" creationid="luke" creationdate="20181120T154844Z">
+        <seg>Most Annoying Bugs (MAB)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: Impress Remote works best with GNU/Linux computers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T094411Z" creationid="luke" creationdate="20181119T094411Z">
@@ -478,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting Bugs to NEEDINFO Status</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T154842Z" creationid="luke" creationdate="20181120T154842Z">
+        <seg>Impostazione dei bug in stato NEEDINFO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Slide switches on the computer can be quicker, as can be loading of slide thumbnails and notes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T101202Z" creationid="luke" creationdate="20181120T095011Z">
@@ -528,16 +544,40 @@
       <tuv lang="EN">
         <seg>The Field of Keywords in Bugzilla</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T145642Z" creationid="luke" creationdate="20181120T144748Z">
-        <seg>aaaaThe Field of Keywords in Bugzilla</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T150605Z" creationid="luke" creationdate="20181120T144748Z">
+        <seg>Campo delle parole chiave in Bugzilla</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The Field of Severity in Bugzilla</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T145643Z" creationid="luke" creationdate="20181120T145643Z">
-        <seg>The Field of Severity in Bugzilla</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T150638Z" creationid="luke" creationdate="20181120T145643Z">
+        <seg>Campo della gravità in Bugzilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Field of Status in Bugzilla</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T154833Z" creationid="luke" creationdate="20181120T154833Z">
+        <seg>Campo dello stato in Bugzilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Field of Version in Bugzilla</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T154657Z" creationid="luke" creationdate="20181120T154657Z">
+        <seg>Campo della versione in Bugzilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Field of Whiteboard in Bugzilla</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T154602Z" creationid="luke" creationdate="20181120T154602Z">
+        <seg>Campo Whiteboard in Bugzilla</seg>
       </tuv>
     </tu>
     <tu>
