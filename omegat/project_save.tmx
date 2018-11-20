@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is experimental support for connecting Impress Remote to Impress over a Wi-fi connection instead of Bluetooth.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T094038Z" creationid="luke" creationdate="20181120T094038Z">
+        <seg>aaaaaaaThere is experimental support for connecting Impress Remote to Impress over a Wi-fi connection instead of Bluetooth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There should be a list of devices at the end of the panel.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T130041Z" creationid="luke" creationdate="20181119T114624Z">
@@ -384,8 +392,8 @@
       <tuv lang="EN">
         <seg>This manifests in the computer quickly and repeatedly switching between slides.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T092607Z" creationid="luke" creationdate="20181120T092047Z">
-        <seg>aaaaThis manifests in the computer quickly and repeatedly switching between slides.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T093840Z" creationid="luke" creationdate="20181120T092047Z">
+        <seg>Questo succede quando si passa velocemente e ripetutamente da una diapositiva all'altra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -440,8 +448,8 @@
       <tuv lang="EN">
         <seg>To fix this problem, switch between slides with the computer keyboard or mouse multiple times.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T092608Z" creationid="luke" creationdate="20181120T092608Z">
-        <seg>To fix this problem, switch between slides with the computer keyboard or mouse multiple times.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T094028Z" creationid="luke" creationdate="20181120T092608Z">
+        <seg>Per risolvere questo problema, passate più volte da una diapositiva all'altra con la tastiera o il mouse del computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -490,6 +498,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T094203Z" creationid="luke" creationdate="20181118T171620Z">
         <seg>Utilizzo di Impress Remote per Android con LibreOffice 4.1 o successivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wi-fi connection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T094036Z" creationid="luke" creationdate="20181120T094036Z">
+        <seg>Connessione wifi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wi-fi is often faster than Bluetooth.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T094039Z" creationid="luke" creationdate="20181120T094039Z">
+        <seg>Wi-fi is often faster than Bluetooth.</seg>
       </tuv>
     </tu>
     <tu>
