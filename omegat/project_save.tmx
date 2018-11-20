@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Slide switches on the computer can be quicker, as can be loading of slide thumbnails and notes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T095011Z" creationid="luke" creationdate="20181120T095011Z">
+        <seg>aaaaSlide switches on the computer can be quicker, as can be loading of slide thumbnails and notes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start LibreOffice again.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T075305Z" creationid="luke" creationdate="20181119T145745Z">
@@ -368,8 +376,8 @@
       <tuv lang="EN">
         <seg>There is experimental support for connecting Impress Remote to Impress over a Wi-fi connection instead of Bluetooth.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T094038Z" creationid="luke" creationdate="20181120T094038Z">
-        <seg>aaaaaaaThere is experimental support for connecting Impress Remote to Impress over a Wi-fi connection instead of Bluetooth.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T094953Z" creationid="luke" creationdate="20181120T094038Z">
+        <seg>Il collegamento di Impress Remote a Impress tramite connessione Wi-fi anziché Bluetooth è supportato soltanto in modo sperimentale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use a Wi-fi connection: On your computer, enable the experimental features of LibreOffice: Go to Tools ▸ Options ▸ LibreOffice ▸ Advanced and check ☑ Enable experimental features.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T095011Z" creationid="luke" creationdate="20181120T095011Z">
+        <seg>To use a Wi-fi connection: On your computer, enable the experimental features of LibreOffice: Go to Tools ▸ Options ▸ LibreOffice ▸ Advanced and check ☑ Enable experimental features.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using Impress Remote</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T080239Z" creationid="luke" creationdate="20181120T080239Z">
@@ -512,8 +528,8 @@
       <tuv lang="EN">
         <seg>Wi-fi is often faster than Bluetooth.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T094039Z" creationid="luke" creationdate="20181120T094039Z">
-        <seg>Wi-fi is often faster than Bluetooth.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T095008Z" creationid="luke" creationdate="20181120T094039Z">
+        <seg>Il Wi-Fi è spesso più veloce del Bluetooth.</seg>
       </tuv>
     </tu>
     <tu>
