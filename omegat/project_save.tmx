@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tips/Issues</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T084958Z" creationid="luke" creationdate="20181120T084958Z">
+        <seg>Tips/Issues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To advance the presentation</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T083810Z" creationid="luke" creationdate="20181120T081623Z">
@@ -382,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To end the presentation, use the back button of the phone, or open the menu and select Stop slide show.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T084957Z" creationid="luke" creationdate="20181120T084957Z">
+        <seg>aaaaTo end the presentation, use the back button of the phone, or open the menu and select Stop slide show.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To go backwards</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T084145Z" creationid="luke" creationdate="20181120T084145Z">
@@ -408,8 +424,8 @@
       <tuv lang="EN">
         <seg>To skip slide animations and transitions</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T084148Z" creationid="luke" creationdate="20181120T084148Z">
-        <seg>To skip slide animations and transitions</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T084844Z" creationid="luke" creationdate="20181120T084148Z">
+        <seg>Per saltare le animazioni e le transizioni della diapositiva</seg>
       </tuv>
     </tu>
     <tu>
@@ -448,8 +464,16 @@
       <tuv lang="EN">
         <seg>double-tap the slide thumbnail or use the phone's physical volume down button</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T084147Z" creationid="luke" creationdate="20181120T084147Z">
-        <seg>aaaadouble-tap the slide thumbnail or use the phone's physical volume down button</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T084818Z" creationid="luke" creationdate="20181120T084147Z">
+        <seg>toccate due volte la miniatura della diapositiva o usate il pulsante fisico del volume giù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>swipe left to go to the next slide, or swipe right to go backwards.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T084955Z" creationid="luke" creationdate="20181120T084955Z">
+        <seg>scorrete verso sinistra per andare alla diapositiva successiva oppure verso destra per andare indietro.</seg>
       </tuv>
     </tu>
     <tu>
