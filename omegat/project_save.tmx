@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connecting multiple phones as remote controls</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T091957Z" creationid="luke" creationdate="20181120T091957Z">
+        <seg>Collegamento di più smartphone come telecomandi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable Bluetooth on both devices.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T112427Z" creationid="luke" creationdate="20181119T111920Z">
@@ -98,6 +106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181118T171614Z" creationid="luke" creationdate="20181118T171614Z">
         <seg>Prima pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, at times, the phones can come into conflict over which slide to display.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T092046Z" creationid="luke" creationdate="20181120T092046Z">
+        <seg>aaaaaaaHowever, at times, the phones can come into conflict over which slide to display.</seg>
       </tuv>
     </tu>
     <tu>
@@ -138,6 +154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T110450Z" creationid="luke" creationdate="20181119T105723Z">
         <seg>Impress Remote per Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In general, this works.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T092044Z" creationid="luke" creationdate="20181120T092044Z">
+        <seg>In generale, questo funziona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are a some issues:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T091827Z" creationid="luke" creationdate="20181120T091827Z">
+        <seg>Esistono alcuni problemi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There should be a list of devices at the end of the panel.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T130041Z" creationid="luke" creationdate="20181119T114624Z">
@@ -350,10 +382,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This manifests in the computer quickly and repeatedly switching between slides.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T092047Z" creationid="luke" creationdate="20181120T092047Z">
+        <seg>This manifests in the computer quickly and repeatedly switching between slides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tips/Issues</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T084958Z" creationid="luke" creationdate="20181120T084958Z">
-        <seg>Tips/Issues</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T091759Z" creationid="luke" creationdate="20181120T084958Z">
+        <seg>Suggerimenti/Problemi</seg>
       </tuv>
     </tu>
     <tu>
@@ -392,8 +432,8 @@
       <tuv lang="EN">
         <seg>To end the presentation, use the back button of the phone, or open the menu and select Stop slide show.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T084957Z" creationid="luke" creationdate="20181120T084957Z">
-        <seg>aaaaTo end the presentation, use the back button of the phone, or open the menu and select Stop slide show.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T091252Z" creationid="luke" creationdate="20181120T084957Z">
+        <seg>Per terminare la presentazione, utilizzate il pulsante Indietro dello smartphone oppure aprite il menu e selezionate Interrompi presentazione.</seg>
       </tuv>
     </tu>
     <tu>
