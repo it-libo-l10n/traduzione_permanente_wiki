@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contacts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T222941Z" creationid="luke" creationdate="20181120T222941Z">
+        <seg>Contatti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Debian bug tracker</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T162929Z" creationid="luke" creationdate="20181120T162929Z">
@@ -138,6 +146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T220638Z" creationid="luke" creationdate="20181120T220638Z">
         <seg>Informazione per il debug</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Debugging Configuration Layers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T222927Z" creationid="luke" creationdate="20181120T222927Z">
+        <seg>Livelli di configurazione del debugging</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Media Support Summary</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T222623Z" creationid="luke" creationdate="20181120T222623Z">
+        <seg>Riepilogo supporto multimediale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Meetings</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T163237Z" creationid="luke" creationdate="20181120T163237Z">
@@ -570,6 +594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T103941Z" creationid="luke" creationdate="20181120T103941Z">
         <seg>QA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>QA IRC Channel</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T222944Z" creationid="luke" creationdate="20181120T222944Z">
+        <seg>aaaaaaaaaaaaaaaaQA IRC Channel</seg>
       </tuv>
     </tu>
     <tu>
