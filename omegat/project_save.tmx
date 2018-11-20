@@ -352,8 +352,8 @@
       <tuv lang="EN">
         <seg>To advance the presentation</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T081623Z" creationid="luke" creationdate="20181120T081623Z">
-        <seg>To advance the presentation</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T083810Z" creationid="luke" creationdate="20181120T081623Z">
+        <seg>Per avanzare nella presentazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,8 +376,16 @@
       <tuv lang="EN">
         <seg>To control the presentation:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T081622Z" creationid="luke" creationdate="20181120T081622Z">
-        <seg>aaaaTo control the presentation:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T083749Z" creationid="luke" creationdate="20181120T081622Z">
+        <seg>Per controllare la presentazione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To go backwards</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T084145Z" creationid="luke" creationdate="20181120T084145Z">
+        <seg>Per tornare indietro</seg>
       </tuv>
     </tu>
     <tu>
@@ -394,6 +402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T081536Z" creationid="luke" creationdate="20181120T080516Z">
         <seg>Per selezionare il vostro computer, toccatene il nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To skip slide animations and transitions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T084148Z" creationid="luke" creationdate="20181120T084148Z">
+        <seg>To skip slide animations and transitions</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +442,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T143321Z" creationid="luke" creationdate="20181119T143006Z">
         <seg>I dispositivi ora dovrebbero essere accoppiati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>double-tap the slide thumbnail or use the phone's physical volume down button</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T084147Z" creationid="luke" creationdate="20181120T084147Z">
+        <seg>aaaadouble-tap the slide thumbnail or use the phone's physical volume down button</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tap the slide thumbnail or use the phone's physical volume up button</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T084117Z" creationid="luke" creationdate="20181120T084117Z">
+        <seg>toccate la miniatura della diapositiva o usate il pulsante fisico del volume su dello smartphone</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
