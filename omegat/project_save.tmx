@@ -30,6 +30,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bug Hunting Sessions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T113039Z" creationid="luke" creationdate="20181120T113039Z">
+        <seg>Sessioni di caccia all'errore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bug Report</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T114821Z" creationid="luke" creationdate="20181120T114643Z">
+        <seg>aaaaBug Report</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bugzilla</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T114432Z" creationid="luke" creationdate="20181120T114432Z">
+        <seg>Bugzilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Can be downloaded from the LibreOffice download page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T100453Z" creationid="luke" creationdate="20181119T094454Z">
@@ -80,8 +104,8 @@
       <tuv lang="EN">
         <seg>Easy Hacks</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T110641Z" creationid="luke" creationdate="20181120T110641Z">
-        <seg>Easy Hacks</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T113019Z" creationid="luke" creationdate="20181120T110641Z">
+        <seg>Compiti più semplici</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,6 +134,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FAQs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T114027Z" creationid="luke" creationdate="20181120T114027Z">
+        <seg>FAQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FAQs about Bugzilla</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T114431Z" creationid="luke" creationdate="20181120T114431Z">
+        <seg>FAQ relative a Bugzilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FAQs about Quality Assurance</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T114427Z" creationid="luke" creationdate="20181120T114427Z">
+        <seg>FAQ relative alla garanzia di qualità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>First page</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181118T171614Z" creationid="luke" creationdate="20181118T171614Z">
@@ -130,6 +178,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T105937Z" creationid="luke" creationdate="20181120T105937Z">
         <seg>Introduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to Report Bugs in LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T114822Z" creationid="luke" creationdate="20181120T114822Z">
+        <seg>How to Report Bugs in LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T125949Z" creationid="luke" creationdate="20181119T112526Z">
         <seg>Se avete lasciato il pannello Bluetooth, apritelo di nuovo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you need help getting started, contact us:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T113242Z" creationid="luke" creationdate="20181120T113242Z">
+        <seg>Se avete bisogno di aiuto per iniziare, contattateci:</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Policies and Procedures for users interacting with Bugzilla</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T114643Z" creationid="luke" creationdate="20181120T114643Z">
+        <seg>Politiche e procedure per gli utenti che utilizzano Bugzilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Prerequisites</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T094209Z" creationid="luke" creationdate="20181118T171621Z">
@@ -362,6 +434,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T113744Z" creationid="luke" creationdate="20181119T112242Z">
         <seg>Fate riferimento al manuale del computer o del sistema operativo per istruzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Release Criteria</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T114445Z" creationid="luke" creationdate="20181120T114445Z">
+        <seg>Criteri per il rilascio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Release Plan</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T114501Z" creationid="luke" creationdate="20181120T114501Z">
+        <seg>Piano di rilascio</seg>
       </tuv>
     </tu>
     <tu>
@@ -618,6 +706,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T084117Z" creationid="luke" creationdate="20181120T084117Z">
         <seg>toccate la miniatura della diapositiva o usate il pulsante fisico del volume su dello smartphone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>via IRC #libreoffice-qa connect via webchat on Freenode</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T113906Z" creationid="luke" creationdate="20181120T113906Z">
+        <seg>via IRC #libreoffice-qa (connessione via webchat) su Freenode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>via email to the mailing list</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T113938Z" creationid="luke" creationdate="20181120T113938Z">
+        <seg>via email alla mailing list</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
