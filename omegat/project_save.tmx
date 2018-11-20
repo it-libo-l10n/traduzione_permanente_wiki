@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Easy Hacks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T110641Z" creationid="luke" creationdate="20181120T110641Z">
+        <seg>Easy Hacks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable Bluetooth on both devices.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T112427Z" creationid="luke" creationdate="20181119T111920Z">
@@ -106,6 +114,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181118T171614Z" creationid="luke" creationdate="20181118T171614Z">
         <seg>Prima pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Get Involved</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T110645Z" creationid="luke" creationdate="20181120T110333Z">
+        <seg>Partecipare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Getting Started</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T105937Z" creationid="luke" creationdate="20181120T105937Z">
+        <seg>Introduzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the phone, go to the start screen of Impress Remote, then tap the WiFi tab to connect to Impress and begin your presentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T102634Z" creationid="luke" creationdate="20181120T102634Z">
+        <seg>Sullo smartphone, andate alla schermata iniziale di Impress Remote, quindi toccate la scheda WiFi per collegarvi a Impress e iniziare la presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the phone:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T114107Z" creationid="luke" creationdate="20181119T112527Z">
@@ -318,10 +350,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>QA</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T103941Z" creationid="luke" creationdate="20181120T103941Z">
+        <seg>QA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Refer to the computer or operating system manual for instruction.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T113744Z" creationid="luke" creationdate="20181119T112242Z">
         <seg>Fate riferimento al manuale del computer o del sistema operativo per istruzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Second page</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T103939Z" creationid="luke" creationdate="20181120T102713Z">
+        <seg>Seconda pagina</seg>
       </tuv>
     </tu>
     <tu>
@@ -496,8 +544,8 @@
       <tuv lang="EN">
         <seg>To use a Wi-fi connection: On your computer, enable the experimental features of LibreOffice: Go to Tools ▸ Options ▸ LibreOffice ▸ Advanced and check ☑ Enable experimental features.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T095011Z" creationid="luke" creationdate="20181120T095011Z">
-        <seg>To use a Wi-fi connection: On your computer, enable the experimental features of LibreOffice: Go to Tools ▸ Options ▸ LibreOffice ▸ Advanced and check ☑ Enable experimental features.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T102317Z" creationid="luke" creationdate="20181120T095011Z">
+        <seg>Per utilizzare una connessione Wi-fi: sul computer, attivate le funzionalità sperimentali di LibreOffice. Scegliete il menu Strumenti ▸ Opzioni ▸ LibreOffice ▸ Avanzate e spuntate l'opzione ☑ Abilita le funzionalità sperimentali.</seg>
       </tuv>
     </tu>
     <tu>
