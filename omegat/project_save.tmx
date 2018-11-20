@@ -112,8 +112,8 @@
       <tuv lang="EN">
         <seg>However, at times, the phones can come into conflict over which slide to display.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T092046Z" creationid="luke" creationdate="20181120T092046Z">
-        <seg>aaaaaaaHowever, at times, the phones can come into conflict over which slide to display.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T092604Z" creationid="luke" creationdate="20181120T092046Z">
+        <seg>Tuttavia, a volte, gli smartphone possono entrare in conflitto sulla diapositiva da visualizzare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -384,8 +384,8 @@
       <tuv lang="EN">
         <seg>This manifests in the computer quickly and repeatedly switching between slides.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T092047Z" creationid="luke" creationdate="20181120T092047Z">
-        <seg>This manifests in the computer quickly and repeatedly switching between slides.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T092607Z" creationid="luke" creationdate="20181120T092047Z">
+        <seg>aaaaThis manifests in the computer quickly and repeatedly switching between slides.</seg>
       </tuv>
     </tu>
     <tu>
@@ -434,6 +434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T091252Z" creationid="luke" creationdate="20181120T084957Z">
         <seg>Per terminare la presentazione, utilizzate il pulsante Indietro dello smartphone oppure aprite il menu e selezionate Interrompi presentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To fix this problem, switch between slides with the computer keyboard or mouse multiple times.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T092608Z" creationid="luke" creationdate="20181120T092608Z">
+        <seg>To fix this problem, switch between slides with the computer keyboard or mouse multiple times.</seg>
       </tuv>
     </tu>
     <tu>
