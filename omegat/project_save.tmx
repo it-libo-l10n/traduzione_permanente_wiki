@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Debug Information</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T220638Z" creationid="luke" creationdate="20181120T220638Z">
+        <seg>Informazione per il debug</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Easy Hacks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T113019Z" creationid="luke" creationdate="20181120T110641Z">
@@ -256,8 +264,8 @@
       <tuv lang="EN">
         <seg>How To Bibisect</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T165646Z" creationid="luke" creationdate="20181120T165646Z">
-        <seg>How To Bibisect</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T220530Z" creationid="luke" creationdate="20181120T165646Z">
+        <seg>Come usare Bibisect</seg>
       </tuv>
     </tu>
     <tu>
