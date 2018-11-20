@@ -478,10 +478,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sorting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T144709Z" creationid="luke" creationdate="20181120T144709Z">
+        <seg>Sorting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start LibreOffice again.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T075305Z" creationid="luke" creationdate="20181119T145745Z">
         <seg>Avviate di nuovo LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table By Component and gravity</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T144706Z" creationid="luke" creationdate="20181120T144706Z">
+        <seg>Tabella per componente e gravità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table By Platform (OS) and gravity</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T144649Z" creationid="luke" creationdate="20181120T144649Z">
+        <seg>Tabella per piattaforma (OS) e gravità</seg>
       </tuv>
     </tu>
     <tu>
@@ -496,8 +520,8 @@
       <tuv lang="EN">
         <seg>The List LibreOffice components in Bugzilla</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T134336Z" creationid="luke" creationdate="20181120T134336Z">
-        <seg>The List LibreOffice components in Bugzilla</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T144553Z" creationid="luke" creationdate="20181120T134336Z">
+        <seg>Elenco dei componenti di LibreOffice in Bugzilla</seg>
       </tuv>
     </tu>
     <tu>
