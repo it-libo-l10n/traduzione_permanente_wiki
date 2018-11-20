@@ -30,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automated Tests</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T165408Z" creationid="luke" creationdate="20181120T165408Z">
+        <seg>Test automatizzati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Automated UI Tests</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T165529Z" creationid="luke" creationdate="20181120T165529Z">
+        <seg>Test automatizzati per la UI (interfaccia utente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bug Hunting Sessions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T113039Z" creationid="luke" creationdate="20181120T113039Z">
@@ -174,6 +190,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Feature Tests</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T165640Z" creationid="luke" creationdate="20181120T165640Z">
+        <seg>Test delle funzionalità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fedora tracker</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T163016Z" creationid="luke" creationdate="20181120T163016Z">
+        <seg>Tracciamento bug in Fedora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>First page</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181118T171614Z" creationid="luke" creationdate="20181118T171614Z">
@@ -182,10 +214,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>GNU Linux</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T165202Z" creationid="luke" creationdate="20181120T165202Z">
+        <seg>GNU Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gentoo tracker</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T162931Z" creationid="luke" creationdate="20181120T162931Z">
-        <seg>Gentoo tracker</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T162954Z" creationid="luke" creationdate="20181120T162931Z">
+        <seg>Tracciamento bug in Gentoo</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +242,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T105937Z" creationid="luke" creationdate="20181120T105937Z">
         <seg>Introduzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Goals</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T163252Z" creationid="luke" creationdate="20181120T163252Z">
+        <seg>Obiettivi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How To Bibisect</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T165646Z" creationid="luke" creationdate="20181120T165646Z">
+        <seg>How To Bibisect</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing several versions of LibreOffice in parallel</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T165200Z" creationid="luke" creationdate="20181120T165200Z">
+        <seg>Installazione di diverse versioni di LibreOffice in parallelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice 4.1 (or higher)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T094449Z" creationid="luke" creationdate="20181119T094449Z">
@@ -306,6 +370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T162837Z" creationid="luke" creationdate="20181120T162837Z">
         <seg>Tracciamento dei bug di LibreOffice nelle distribuzioni Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Meetings</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T163237Z" creationid="luke" creationdate="20181120T163237Z">
+        <seg>Incontri</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Projects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T163304Z" creationid="luke" creationdate="20181120T163304Z">
+        <seg>Progetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>QA</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T103941Z" creationid="luke" creationdate="20181120T103941Z">
@@ -478,10 +558,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>QA Statistics</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T163658Z" creationid="luke" creationdate="20181120T163658Z">
+        <seg>Statistiche della QA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>QA Team</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T163218Z" creationid="luke" creationdate="20181120T163218Z">
+        <seg>QA Team</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>QA-related Bugs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T163346Z" creationid="luke" creationdate="20181120T163346Z">
+        <seg>Bug correlati alla QA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recurring QA Tasks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T163604Z" creationid="luke" creationdate="20181120T163604Z">
+        <seg>Compiti ricorrenti relativi alla QA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Refer to the computer or operating system manual for instruction.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T113744Z" creationid="luke" creationdate="20181119T112242Z">
         <seg>Fate riferimento al manuale del computer o del sistema operativo per istruzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regression Tests</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T165646Z" creationid="luke" creationdate="20181120T165646Z">
+        <seg>aaaaaaaaaaaaaaaaRegression Tests</seg>
       </tuv>
     </tu>
     <tu>
@@ -562,6 +682,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T114342Z" creationid="luke" creationdate="20181119T112527Z">
         <seg>Toccate Bluetooth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T163214Z" creationid="luke" creationdate="20181120T163214Z">
+        <seg>Team</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Testing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T165109Z" creationid="luke" creationdate="20181120T165109Z">
+        <seg>Test</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Testing Daily Builds</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T165344Z" creationid="luke" creationdate="20181120T165344Z">
+        <seg>Test delle daily builds</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ubuntu tracker</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T163126Z" creationid="luke" creationdate="20181120T163126Z">
+        <seg>Tracciamento bug in Ubuntu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using Impress Remote</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T080239Z" creationid="luke" creationdate="20181120T080239Z">
@@ -814,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T165203Z" creationid="luke" creationdate="20181120T165203Z">
+        <seg>Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You will now be asked to confirm a number on both devices.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T132339Z" creationid="luke" creationdate="20181119T130235Z">
@@ -834,6 +994,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T084818Z" creationid="luke" creationdate="20181120T084147Z">
         <seg>toccate due volte la miniatura della diapositiva o usate il pulsante fisico del volume giù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T165205Z" creationid="luke" creationdate="20181120T165205Z">
+        <seg>macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>openSUSE tracker</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T163044Z" creationid="luke" creationdate="20181120T163044Z">
+        <seg>Tracciamento bug in openSUSE</seg>
       </tuv>
     </tu>
     <tu>
