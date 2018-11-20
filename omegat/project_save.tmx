@@ -48,8 +48,8 @@
       <tuv lang="EN">
         <seg>Bug Triage</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T144747Z" creationid="luke" creationdate="20181120T144747Z">
-        <seg>aaaaBug Triage</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T145638Z" creationid="luke" creationdate="20181120T144747Z">
+        <seg>Classificazione dei bug</seg>
       </tuv>
     </tu>
     <tu>
@@ -528,8 +528,16 @@
       <tuv lang="EN">
         <seg>The Field of Keywords in Bugzilla</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T144748Z" creationid="luke" creationdate="20181120T144748Z">
-        <seg>The Field of Keywords in Bugzilla</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T145642Z" creationid="luke" creationdate="20181120T144748Z">
+        <seg>aaaaThe Field of Keywords in Bugzilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Field of Severity in Bugzilla</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181120T145643Z" creationid="luke" creationdate="20181120T145643Z">
+        <seg>The Field of Severity in Bugzilla</seg>
       </tuv>
     </tu>
     <tu>
