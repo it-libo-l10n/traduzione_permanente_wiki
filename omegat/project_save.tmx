@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Builds</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T080216Z" creationid="luke" creationdate="20181121T080216Z">
+        <seg>Build</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Can be downloaded from the LibreOffice download page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T100453Z" creationid="luke" creationdate="20181119T094454Z">
@@ -134,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current stable version</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T080545Z" creationid="luke" creationdate="20181121T080545Z">
+        <seg>Current stable version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Debian bug tracker</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T162929Z" creationid="luke" creationdate="20181120T162929Z">
@@ -154,6 +170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T222927Z" creationid="luke" creationdate="20181120T222927Z">
         <seg>Livelli di configurazione del debugging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Developer Mailing List</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T080119Z" creationid="luke" creationdate="20181121T080119Z">
+        <seg>Mailing List sviluppatori</seg>
       </tuv>
     </tu>
     <tu>
@@ -226,6 +250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T163016Z" creationid="luke" creationdate="20181120T163016Z">
         <seg>Tracciamento bug in Fedora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find the Expert</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T080144Z" creationid="luke" creationdate="20181121T080144Z">
+        <seg>Trovate l'esperto</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nightly</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T080352Z" creationid="luke" creationdate="20181121T080352Z">
+        <seg>Notturna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: Impress Remote works best with GNU/Linux computers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T094411Z" creationid="luke" creationdate="20181119T094411Z">
@@ -450,6 +490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T110154Z" creationid="luke" creationdate="20181119T094454Z">
         <seg>Nota: per trovare la versione di LibreOffice in uso, vedete le informazioni visualizzate nel menu Aiuto ▸ Informazioni su LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Old</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T080356Z" creationid="luke" creationdate="20181121T080356Z">
+        <seg>Vecchia</seg>
       </tuv>
     </tu>
     <tu>
@@ -542,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Overview of published versions of LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T080545Z" creationid="luke" creationdate="20181121T080545Z">
+        <seg>aaaaOverview of published versions of LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pair the devices.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T112525Z" creationid="luke" creationdate="20181119T112525Z">
@@ -574,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pre-Release</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T080316Z" creationid="luke" creationdate="20181121T080316Z">
+        <seg>Pre-rilascio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Prerequisites</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T094209Z" creationid="luke" creationdate="20181118T171621Z">
@@ -600,8 +664,16 @@
       <tuv lang="EN">
         <seg>QA IRC Channel</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181120T222944Z" creationid="luke" creationdate="20181120T222944Z">
-        <seg>aaaaaaaaaaaaaaaaQA IRC Channel</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T080010Z" creationid="luke" creationdate="20181120T222944Z">
+        <seg>Canale IRC della QA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>QA Mailing List</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T080033Z" creationid="luke" creationdate="20181121T075639Z">
+        <seg>Mailing List della QA</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,6 +770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T144745Z" creationid="luke" creationdate="20181120T144709Z">
         <seg>Ordinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stable</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T080253Z" creationid="luke" creationdate="20181121T080253Z">
+        <seg>Stabile</seg>
       </tuv>
     </tu>
     <tu>
@@ -822,6 +902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The final and current versions of LibreOffice can be downloaded from our official LibreOffice-website.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T080546Z" creationid="luke" creationdate="20181121T080546Z">
+        <seg>The final and current versions of LibreOffice can be downloaded from our official LibreOffice-website.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The instructions on how to enable Bluetooth on the computer will vary by operating system and possibly even by make and model of the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T112241Z" creationid="luke" creationdate="20181119T112241Z">
@@ -870,10 +958,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Third page</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T080543Z" creationid="luke" creationdate="20181121T080543Z">
+        <seg>Terza pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This manifests in the computer quickly and repeatedly switching between slides.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T093840Z" creationid="luke" creationdate="20181120T092047Z">
         <seg>Questo succede quando si passa velocemente e ripetutamente da una diapositiva all'altra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tinderbox</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T080529Z" creationid="luke" creationdate="20181121T080529Z">
+        <seg>Tinderbox</seg>
       </tuv>
     </tu>
     <tu>
