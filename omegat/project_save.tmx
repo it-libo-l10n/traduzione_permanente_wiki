@@ -14,6 +14,958 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093445Z" creationid="luke" creationdate="20181121T093445Z">
+        <seg>3.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.3.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093446Z" creationid="luke" creationdate="20181121T093446Z">
+        <seg>3.3.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.3.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093446Z" creationid="luke" creationdate="20181121T093446Z">
+        <seg>3.3.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.3.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093445Z" creationid="luke" creationdate="20181121T093445Z">
+        <seg>3.3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.3.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093445Z" creationid="luke" creationdate="20181121T093445Z">
+        <seg>3.3.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.3.4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093445Z" creationid="luke" creationdate="20181121T093445Z">
+        <seg>3.3.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093443Z" creationid="luke" creationdate="20181121T093443Z">
+        <seg>3.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.4.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093445Z" creationid="luke" creationdate="20181121T093445Z">
+        <seg>3.4.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.4.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093444Z" creationid="luke" creationdate="20181121T093444Z">
+        <seg>3.4.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.4.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093444Z" creationid="luke" creationdate="20181121T093444Z">
+        <seg>3.4.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.4.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093444Z" creationid="luke" creationdate="20181121T093444Z">
+        <seg>3.4.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.4.4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093444Z" creationid="luke" creationdate="20181121T093444Z">
+        <seg>3.4.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.4.5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093443Z" creationid="luke" creationdate="20181121T093443Z">
+        <seg>3.4.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.4.6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093443Z" creationid="luke" creationdate="20181121T093443Z">
+        <seg>3.4.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093439Z" creationid="luke" creationdate="20181121T093439Z">
+        <seg>3.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.5.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093443Z" creationid="luke" creationdate="20181121T093443Z">
+        <seg>3.5.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.5.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093442Z" creationid="luke" creationdate="20181121T093442Z">
+        <seg>3.5.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.5.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093442Z" creationid="luke" creationdate="20181121T093442Z">
+        <seg>3.5.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.5.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093442Z" creationid="luke" creationdate="20181121T093442Z">
+        <seg>3.5.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.5.4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093442Z" creationid="luke" creationdate="20181121T093442Z">
+        <seg>3.5.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.5.5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093441Z" creationid="luke" creationdate="20181121T093441Z">
+        <seg>3.5.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.5.6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093441Z" creationid="luke" creationdate="20181121T093441Z">
+        <seg>3.5.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.5.7</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093440Z" creationid="luke" creationdate="20181121T093440Z">
+        <seg>3.5.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093437Z" creationid="luke" creationdate="20181121T093437Z">
+        <seg>3.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.6.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093439Z" creationid="luke" creationdate="20181121T093439Z">
+        <seg>3.6.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.6.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093438Z" creationid="luke" creationdate="20181121T093438Z">
+        <seg>3.6.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.6.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093438Z" creationid="luke" creationdate="20181121T093438Z">
+        <seg>3.6.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.6.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093438Z" creationid="luke" creationdate="20181121T093438Z">
+        <seg>3.6.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.6.4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093438Z" creationid="luke" creationdate="20181121T093438Z">
+        <seg>3.6.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.6.5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093438Z" creationid="luke" creationdate="20181121T093438Z">
+        <seg>3.6.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.6.6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093437Z" creationid="luke" creationdate="20181121T093437Z">
+        <seg>3.6.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.6.7</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093437Z" creationid="luke" creationdate="20181121T093437Z">
+        <seg>3.6.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093435Z" creationid="luke" creationdate="20181121T093435Z">
+        <seg>4.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.0.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093437Z" creationid="luke" creationdate="20181121T093437Z">
+        <seg>4.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.0.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093437Z" creationid="luke" creationdate="20181121T093437Z">
+        <seg>4.0.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.0.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093436Z" creationid="luke" creationdate="20181121T093436Z">
+        <seg>4.0.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.0.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093436Z" creationid="luke" creationdate="20181121T093436Z">
+        <seg>4.0.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.0.4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093436Z" creationid="luke" creationdate="20181121T093436Z">
+        <seg>4.0.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.0.5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093436Z" creationid="luke" creationdate="20181121T093436Z">
+        <seg>4.0.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.0.6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093436Z" creationid="luke" creationdate="20181121T093436Z">
+        <seg>4.0.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093434Z" creationid="luke" creationdate="20181121T093434Z">
+        <seg>4.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.1.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093435Z" creationid="luke" creationdate="20181121T093435Z">
+        <seg>4.1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.1.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093435Z" creationid="luke" creationdate="20181121T093435Z">
+        <seg>4.1.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.1.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093435Z" creationid="luke" creationdate="20181121T093435Z">
+        <seg>4.1.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.1.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093435Z" creationid="luke" creationdate="20181121T093435Z">
+        <seg>4.1.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.1.4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093434Z" creationid="luke" creationdate="20181121T093434Z">
+        <seg>4.1.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.1.5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093434Z" creationid="luke" creationdate="20181121T093434Z">
+        <seg>4.1.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.1.6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093434Z" creationid="luke" creationdate="20181121T093434Z">
+        <seg>4.1.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093432Z" creationid="luke" creationdate="20181121T093432Z">
+        <seg>4.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.2.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093434Z" creationid="luke" creationdate="20181121T093434Z">
+        <seg>4.2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.2.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093433Z" creationid="luke" creationdate="20181121T093433Z">
+        <seg>4.2.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.2.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093433Z" creationid="luke" creationdate="20181121T093433Z">
+        <seg>4.2.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.2.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093433Z" creationid="luke" creationdate="20181121T093433Z">
+        <seg>4.2.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.2.4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093433Z" creationid="luke" creationdate="20181121T093433Z">
+        <seg>4.2.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.2.5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093433Z" creationid="luke" creationdate="20181121T093433Z">
+        <seg>4.2.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.2.6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093432Z" creationid="luke" creationdate="20181121T093432Z">
+        <seg>4.2.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.2.7</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093432Z" creationid="luke" creationdate="20181121T093432Z">
+        <seg>4.2.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.2.8</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093432Z" creationid="luke" creationdate="20181121T093432Z">
+        <seg>4.2.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093429Z" creationid="luke" creationdate="20181121T093429Z">
+        <seg>4.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.3.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093431Z" creationid="luke" creationdate="20181121T093431Z">
+        <seg>4.3.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.3.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093431Z" creationid="luke" creationdate="20181121T093431Z">
+        <seg>4.3.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.3.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093431Z" creationid="luke" creationdate="20181121T093431Z">
+        <seg>4.3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.3.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093431Z" creationid="luke" creationdate="20181121T093431Z">
+        <seg>4.3.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.3.4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093430Z" creationid="luke" creationdate="20181121T093430Z">
+        <seg>4.3.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.3.5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093430Z" creationid="luke" creationdate="20181121T093430Z">
+        <seg>4.3.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.3.6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093430Z" creationid="luke" creationdate="20181121T093430Z">
+        <seg>4.3.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.3.7</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093430Z" creationid="luke" creationdate="20181121T093430Z">
+        <seg>4.3.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093428Z" creationid="luke" creationdate="20181121T093428Z">
+        <seg>4.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.4.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093429Z" creationid="luke" creationdate="20181121T093429Z">
+        <seg>4.4.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.4.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093429Z" creationid="luke" creationdate="20181121T093429Z">
+        <seg>4.4.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.4.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093429Z" creationid="luke" creationdate="20181121T093429Z">
+        <seg>4.4.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.4.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093429Z" creationid="luke" creationdate="20181121T093429Z">
+        <seg>4.4.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.4.4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093429Z" creationid="luke" creationdate="20181121T093429Z">
+        <seg>4.4.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.4.5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093428Z" creationid="luke" creationdate="20181121T093428Z">
+        <seg>4.4.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.4.6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093428Z" creationid="luke" creationdate="20181121T093428Z">
+        <seg>4.4.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>4.4.7</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093428Z" creationid="luke" creationdate="20181121T093428Z">
+        <seg>4.4.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093426Z" creationid="luke" creationdate="20181121T093426Z">
+        <seg>5.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.0.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093428Z" creationid="luke" creationdate="20181121T093428Z">
+        <seg>5.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.0.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093427Z" creationid="luke" creationdate="20181121T093427Z">
+        <seg>5.0.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.0.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093427Z" creationid="luke" creationdate="20181121T093427Z">
+        <seg>5.0.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.0.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093427Z" creationid="luke" creationdate="20181121T093427Z">
+        <seg>5.0.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.0.4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093427Z" creationid="luke" creationdate="20181121T093427Z">
+        <seg>5.0.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.0.5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093427Z" creationid="luke" creationdate="20181121T093427Z">
+        <seg>5.0.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.0.6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093427Z" creationid="luke" creationdate="20181121T093427Z">
+        <seg>5.0.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093425Z" creationid="luke" creationdate="20181121T093425Z">
+        <seg>5.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.1.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093426Z" creationid="luke" creationdate="20181121T093426Z">
+        <seg>5.1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.1.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093426Z" creationid="luke" creationdate="20181121T093426Z">
+        <seg>5.1.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.1.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093426Z" creationid="luke" creationdate="20181121T093426Z">
+        <seg>5.1.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.1.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093426Z" creationid="luke" creationdate="20181121T093426Z">
+        <seg>5.1.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.1.4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093425Z" creationid="luke" creationdate="20181121T093425Z">
+        <seg>5.1.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.1.5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093425Z" creationid="luke" creationdate="20181121T093425Z">
+        <seg>5.1.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.1.6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093425Z" creationid="luke" creationdate="20181121T093425Z">
+        <seg>5.1.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093422Z" creationid="luke" creationdate="20181121T093422Z">
+        <seg>5.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.2.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093425Z" creationid="luke" creationdate="20181121T093425Z">
+        <seg>5.2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.2.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093424Z" creationid="luke" creationdate="20181121T093424Z">
+        <seg>5.2.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.2.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093423Z" creationid="luke" creationdate="20181121T093423Z">
+        <seg>5.2.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.2.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093423Z" creationid="luke" creationdate="20181121T093423Z">
+        <seg>5.2.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.2.4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093423Z" creationid="luke" creationdate="20181121T093423Z">
+        <seg>5.2.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.2.5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093423Z" creationid="luke" creationdate="20181121T093423Z">
+        <seg>5.2.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.2.6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093423Z" creationid="luke" creationdate="20181121T093423Z">
+        <seg>5.2.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.2.7</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093422Z" creationid="luke" creationdate="20181121T093422Z">
+        <seg>5.2.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093420Z" creationid="luke" creationdate="20181121T093420Z">
+        <seg>5.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.3.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093422Z" creationid="luke" creationdate="20181121T093422Z">
+        <seg>5.3.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.3.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093422Z" creationid="luke" creationdate="20181121T093422Z">
+        <seg>5.3.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.3.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093422Z" creationid="luke" creationdate="20181121T093422Z">
+        <seg>5.3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.3.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093421Z" creationid="luke" creationdate="20181121T093421Z">
+        <seg>5.3.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.3.4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093421Z" creationid="luke" creationdate="20181121T093421Z">
+        <seg>5.3.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.3.5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093421Z" creationid="luke" creationdate="20181121T093421Z">
+        <seg>5.3.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.3.6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093421Z" creationid="luke" creationdate="20181121T093421Z">
+        <seg>5.3.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.3.7</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093421Z" creationid="luke" creationdate="20181121T093421Z">
+        <seg>5.3.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093418Z" creationid="luke" creationdate="20181121T093418Z">
+        <seg>5.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.4.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093420Z" creationid="luke" creationdate="20181121T093420Z">
+        <seg>5.4.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.4.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093420Z" creationid="luke" creationdate="20181121T093420Z">
+        <seg>5.4.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.4.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093420Z" creationid="luke" creationdate="20181121T093420Z">
+        <seg>5.4.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.4.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093419Z" creationid="luke" creationdate="20181121T093419Z">
+        <seg>5.4.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.4.4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093419Z" creationid="luke" creationdate="20181121T093419Z">
+        <seg>5.4.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.4.5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093419Z" creationid="luke" creationdate="20181121T093419Z">
+        <seg>5.4.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.4.6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093419Z" creationid="luke" creationdate="20181121T093419Z">
+        <seg>5.4.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5.4.7</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093419Z" creationid="luke" creationdate="20181121T093419Z">
+        <seg>5.4.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>6.0</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181121T083321Z" creationid="luke" creationdate="20181121T083321Z">
@@ -130,6 +1082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T094322Z" creationid="luke" creationdate="20181119T094322Z">
         <seg>Un computer con GNU/Linux, macOS, o Windows e connettività Bluetooth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All available versions can be downloaded here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093609Z" creationid="luke" creationdate="20181121T093609Z">
+        <seg>Tutte le versioni disponibili possono essere scaricate da qui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,6 +1598,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Links to final versions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093418Z" creationid="luke" creationdate="20181121T093418Z">
+        <seg>Collegamenti alle versioni finali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Main page: ReleasePlan</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093737Z" creationid="luke" creationdate="20181121T093737Z">
+        <seg>Pagina principale: Piano di rilascio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Media Support Summary</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T222623Z" creationid="luke" creationdate="20181120T222623Z">
@@ -993,6 +1969,14 @@
         <seg>Release Plan</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T114501Z" creationid="luke" creationdate="20181120T114501Z">
+        <seg>Piano di rilascio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Release plan</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093629Z" creationid="luke" creationdate="20181121T093629Z">
         <seg>Piano di rilascio</seg>
       </tuv>
     </tu>
