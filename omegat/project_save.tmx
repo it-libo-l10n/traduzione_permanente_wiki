@@ -144,16 +144,24 @@
       <tuv lang="EN">
         <seg>Current preview versions</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181121T081454Z" creationid="luke" creationdate="20181121T081454Z">
-        <seg>aaaaCurrent preview versions</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T082005Z" creationid="luke" creationdate="20181121T081454Z">
+        <seg>Versioni in anteprima correnti</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Current stable version</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181121T081355Z" creationid="luke" creationdate="20181121T080545Z">
-        <seg>Versione stabile attuale</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T082015Z" creationid="luke" creationdate="20181121T080545Z">
+        <seg>Versione stabile corrente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current versions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T082827Z" creationid="luke" creationdate="20181121T082827Z">
+        <seg>aaaaCurrent versions</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181121T080119Z" creationid="luke" creationdate="20181121T080119Z">
         <seg>Mailing List sviluppatori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downloading actual pre-release (Beta/RCs).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T082519Z" creationid="luke" creationdate="20181121T082519Z">
+        <seg>Download del pre-rilascio attuale (Beta/RCs).</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Informations about bugs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T082713Z" creationid="luke" creationdate="20181121T082713Z">
+        <seg>Informazioni riguardo ai bug.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing several versions of LibreOffice in parallel</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T165200Z" creationid="luke" creationdate="20181120T165200Z">
@@ -474,6 +498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181121T080352Z" creationid="luke" creationdate="20181121T080352Z">
         <seg>Notturna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T082725Z" creationid="luke" creationdate="20181121T082725Z">
+        <seg>Nota</seg>
       </tuv>
     </tu>
     <tu>
@@ -642,6 +674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181121T080316Z" creationid="luke" creationdate="20181121T080316Z">
         <seg>Pre-rilascio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pre-release versions are not recommended for production use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T082823Z" creationid="luke" creationdate="20181121T082823Z">
+        <seg>Le versioni di pre-rilascio non sono raccomandate per l'uso in produzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -912,8 +952,8 @@
       <tuv lang="EN">
         <seg>The final and current versions of LibreOffice can be downloaded from our official LibreOffice-website.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181121T081449Z" creationid="luke" creationdate="20181121T080546Z">
-        <seg>Le versioni finale e attuale di LibreOffice possono essere scaricate dal sito web ufficiale di LibreOffice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T082029Z" creationid="luke" creationdate="20181121T080546Z">
+        <seg>Le versioni finale e corrente di LibreOffice possono essere scaricate dal sito web ufficiale di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -936,8 +976,8 @@
       <tuv lang="EN">
         <seg>The preview versions (pre-releases) of LibreOffice can be installed over an existing LibreOffice or can be installed in parallel for testing.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181121T081455Z" creationid="luke" creationdate="20181121T081455Z">
-        <seg>The preview versions (pre-releases) of LibreOffice can be installed over an existing LibreOffice or can be installed in parallel for testing.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T082326Z" creationid="luke" creationdate="20181121T081455Z">
+        <seg>Le versioni di anteprima (pre-rilasci) di LibreOffice possono essere installate su un LibreOffice esistente oppure essere installate in parallelo a scopo di test.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1126,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T082828Z" creationid="luke" creationdate="20181121T082828Z">
+        <seg>Version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wi-fi connection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T094036Z" creationid="luke" creationdate="20181120T094036Z">
@@ -1162,6 +1210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T143321Z" creationid="luke" creationdate="20181119T143006Z">
         <seg>I dispositivi ora dovrebbero essere accoppiati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>daily versions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T082654Z" creationid="luke" creationdate="20181121T082654Z">
+        <seg>Versioni giornaliere</seg>
       </tuv>
     </tu>
     <tu>
