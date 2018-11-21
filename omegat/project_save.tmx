@@ -142,10 +142,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current preview versions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T081454Z" creationid="luke" creationdate="20181121T081454Z">
+        <seg>aaaaCurrent preview versions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Current stable version</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181121T080545Z" creationid="luke" creationdate="20181121T080545Z">
-        <seg>Current stable version</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T081355Z" creationid="luke" creationdate="20181121T080545Z">
+        <seg>Versione stabile attuale</seg>
       </tuv>
     </tu>
     <tu>
@@ -592,8 +600,8 @@
       <tuv lang="EN">
         <seg>Overview of published versions of LibreOffice</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181121T080545Z" creationid="luke" creationdate="20181121T080545Z">
-        <seg>aaaaOverview of published versions of LibreOffice</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T080840Z" creationid="luke" creationdate="20181121T080545Z">
+        <seg>Panoramica delle versioni pubblicate di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -904,8 +912,8 @@
       <tuv lang="EN">
         <seg>The final and current versions of LibreOffice can be downloaded from our official LibreOffice-website.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181121T080546Z" creationid="luke" creationdate="20181121T080546Z">
-        <seg>The final and current versions of LibreOffice can be downloaded from our official LibreOffice-website.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T081449Z" creationid="luke" creationdate="20181121T080546Z">
+        <seg>Le versioni finale e attuale di LibreOffice possono essere scaricate dal sito web ufficiale di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -922,6 +930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T081620Z" creationid="luke" creationdate="20181120T081620Z">
         <seg>La presentazione aperta sul computer inizierà automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The preview versions (pre-releases) of LibreOffice can be installed over an existing LibreOffice or can be installed in parallel for testing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T081455Z" creationid="luke" creationdate="20181121T081455Z">
+        <seg>The preview versions (pre-releases) of LibreOffice can be installed over an existing LibreOffice or can be installed in parallel for testing.</seg>
       </tuv>
     </tu>
     <tu>
