@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Beta</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093301Z" creationid="luke" creationdate="20181121T093301Z">
+        <seg>Beta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Beta 1</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181121T083320Z" creationid="luke" creationdate="20181121T083320Z">
@@ -702,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Older Versions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093334Z" creationid="luke" creationdate="20181121T093334Z">
+        <seg>Versioni più vecchie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On both devices, make sure Bluetooth is already enabled and configured</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T080352Z" creationid="luke" creationdate="20181120T080352Z">
@@ -842,6 +858,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181121T082823Z" creationid="luke" creationdate="20181121T082823Z">
         <seg>Le versioni di pre-rilascio non sono raccomandate per l'uso in produzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pre-releases</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093300Z" creationid="luke" creationdate="20181121T093300Z">
+        <seg>Pre-rilasci</seg>
       </tuv>
     </tu>
     <tu>
@@ -1414,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>future versions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093318Z" creationid="luke" creationdate="20181121T093318Z">
+        <seg>Prossime versioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>macOS</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T165205Z" creationid="luke" creationdate="20181120T165205Z">
@@ -1432,16 +1464,16 @@
       <tuv lang="EN">
         <seg>recommended version</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083405Z" creationid="luke" creationdate="20181121T083405Z">
-        <seg>aaaarecommended version</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093234Z" creationid="luke" creationdate="20181121T083405Z">
+        <seg>Versione raccomandata</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>stable version</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083406Z" creationid="luke" creationdate="20181121T083406Z">
-        <seg>stable version</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T093249Z" creationid="luke" creationdate="20181121T083406Z">
+        <seg>Versione stabile</seg>
       </tuv>
     </tu>
     <tu>
