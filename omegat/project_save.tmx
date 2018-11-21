@@ -14,6 +14,118 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>6.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083321Z" creationid="luke" creationdate="20181121T083321Z">
+        <seg>6.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.0.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083334Z" creationid="luke" creationdate="20181121T083334Z">
+        <seg>6.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.0.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083333Z" creationid="luke" creationdate="20181121T083333Z">
+        <seg>6.0.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.0.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083331Z" creationid="luke" creationdate="20181121T083331Z">
+        <seg>6.0.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.0.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083329Z" creationid="luke" creationdate="20181121T083329Z">
+        <seg>6.0.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.0.4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083327Z" creationid="luke" creationdate="20181121T083327Z">
+        <seg>6.0.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.0.5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083325Z" creationid="luke" creationdate="20181121T083325Z">
+        <seg>6.0.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.0.6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083323Z" creationid="luke" creationdate="20181121T083323Z">
+        <seg>6.0.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.0.7</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083321Z" creationid="luke" creationdate="20181121T083321Z">
+        <seg>6.0.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083044Z" creationid="luke" creationdate="20181121T083044Z">
+        <seg>6.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.1.0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083317Z" creationid="luke" creationdate="20181121T083317Z">
+        <seg>6.1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.1.1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083314Z" creationid="luke" creationdate="20181121T083314Z">
+        <seg>6.1.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.1.2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083046Z" creationid="luke" creationdate="20181121T083046Z">
+        <seg>6.1.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>6.1.3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083045Z" creationid="luke" creationdate="20181121T083045Z">
+        <seg>6.1.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A computer with GNU/Linux, macOS, or Windows and Bluetooth connectivity</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T094322Z" creationid="luke" creationdate="20181119T094322Z">
@@ -42,6 +154,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T165529Z" creationid="luke" creationdate="20181120T165529Z">
         <seg>Test automatizzati per la UI (interfaccia utente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beta 1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083320Z" creationid="luke" creationdate="20181121T083320Z">
+        <seg>Beta 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beta 2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083320Z" creationid="luke" creationdate="20181121T083320Z">
+        <seg>Beta 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +288,8 @@
       <tuv lang="EN">
         <seg>Current versions</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181121T082827Z" creationid="luke" creationdate="20181121T082827Z">
-        <seg>aaaaCurrent versions</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T082917Z" creationid="luke" creationdate="20181121T082827Z">
+        <seg>Versioni correnti</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181121T082519Z" creationid="luke" creationdate="20181121T082519Z">
         <seg>Download del pre-rilascio attuale (Beta/RCs).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downloadlink</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083035Z" creationid="luke" creationdate="20181121T083035Z">
+        <seg>Collegamento per il download</seg>
       </tuv>
     </tu>
     <tu>
@@ -274,6 +410,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T163016Z" creationid="luke" creationdate="20181120T163016Z">
         <seg>Tracciamento bug in Fedora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Final</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083051Z" creationid="luke" creationdate="20181121T083051Z">
+        <seg>Finale</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Legend:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083403Z" creationid="luke" creationdate="20181121T083403Z">
+        <seg>Legenda:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice 4.1 (or higher)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181119T094449Z" creationid="luke" creationdate="20181119T094449Z">
@@ -466,6 +618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T162837Z" creationid="luke" creationdate="20181120T162837Z">
         <seg>Tracciamento dei bug di LibreOffice nelle distribuzioni Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Links to Pre-releases / Notes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083043Z" creationid="luke" creationdate="20181121T083043Z">
+        <seg>Collegamento ai pre-rilasci / Note</seg>
       </tuv>
     </tu>
     <tu>
@@ -746,6 +906,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T163346Z" creationid="luke" creationdate="20181120T163346Z">
         <seg>Bug correlati alla QA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RC 1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083045Z" creationid="luke" creationdate="20181121T083045Z">
+        <seg>RC 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RC 2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083316Z" creationid="luke" creationdate="20181121T083316Z">
+        <seg>RC 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RC 3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083319Z" creationid="luke" creationdate="20181121T083319Z">
+        <seg>RC 3</seg>
       </tuv>
     </tu>
     <tu>
@@ -1168,8 +1352,8 @@
       <tuv lang="EN">
         <seg>Version</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181121T082828Z" creationid="luke" creationdate="20181121T082828Z">
-        <seg>Version</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T082921Z" creationid="luke" creationdate="20181121T082828Z">
+        <seg>Versione</seg>
       </tuv>
     </tu>
     <tu>
@@ -1242,6 +1426,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181120T163044Z" creationid="luke" creationdate="20181120T163044Z">
         <seg>Tracciamento bug in openSUSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>recommended version</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083405Z" creationid="luke" creationdate="20181121T083405Z">
+        <seg>aaaarecommended version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>stable version</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181121T083406Z" creationid="luke" creationdate="20181121T083406Z">
+        <seg>stable version</seg>
       </tuv>
     </tu>
     <tu>
