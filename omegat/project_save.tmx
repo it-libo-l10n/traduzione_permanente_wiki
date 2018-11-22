@@ -4,6 +4,38 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>First page:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181122T113217Z" creationid="luke" creationdate="20181122T113217Z">
+        <seg>Prima pagina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please be aware the italian page ( &lt;a0&gt;https://wiki.documentfoundation.org/Design/it&lt;/a0&gt; ) does exist; just not updated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181122T113231Z" creationid="luke" creationdate="20181122T113228Z">
+        <seg>aaaaaaaaPlease be aware the italian page ( &lt;a0&gt;https://wiki.documentfoundation.org/Design/it&lt;/a0&gt; ) does exist; just not updated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So you can use it to translate parts of the page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181122T113229Z" creationid="luke" creationdate="20181122T113229Z">
+        <seg>So you can use it to translate parts of the page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://wiki.documentfoundation.org/Design</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181122T113218Z" creationid="luke" creationdate="20181122T113218Z">
+        <seg>https://wiki.documentfoundation.org/Design</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
