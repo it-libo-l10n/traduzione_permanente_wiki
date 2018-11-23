@@ -6,10 +6,218 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>A number of tasks are not listed in the bugtracker for some reason.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140217Z" creationid="luke" creationdate="20181123T140217Z">
+        <seg>A number of tasks are not listed in the bugtracker for some reason.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All tasks are listed on our Whiteboard and Blueprints pages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140323Z" creationid="luke" creationdate="20181123T140323Z">
+        <seg>All tasks are listed on our Whiteboard and Blueprints pages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An archive of meeting minutes is kept.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140413Z" creationid="luke" creationdate="20181123T140413Z">
+        <seg>An archive of meeting minutes is kept.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And finished proposals can be found at the Whiteboard archive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140329Z" creationid="luke" creationdate="20181123T140329Z">
+        <seg>And finished proposals can be found at the Whiteboard archive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As stated in our manifesto we focus on</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T135932Z" creationid="luke" creationdate="20181123T135932Z">
+        <seg>As stated in our manifesto we focus on</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chat with the designers on IRC at the #libreoffice-design connect via webchat channel of Freenode</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140401Z" creationid="luke" creationdate="20181123T140401Z">
+        <seg>Chat with the designers on IRC at the #libreoffice-design connect via webchat channel of Freenode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Consistency over Efficiency</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T135947Z" creationid="luke" creationdate="20181123T135947Z">
+        <seg>Consistency over Efficiency</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create new templates</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140244Z" creationid="luke" creationdate="20181123T140244Z">
+        <seg>Create new templates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Design new artwork such as banners, icons, etc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140257Z" creationid="luke" creationdate="20181123T140257Z">
+        <seg>Design new artwork such as banners, icons, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Draft a guideline</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140315Z" creationid="luke" creationdate="20181123T140315Z">
+        <seg>Draft a guideline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Feel free to add yourself to the list of team members.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140340Z" creationid="luke" creationdate="20181123T140340Z">
+        <seg>Feel free to add yourself to the list of team members.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>First page:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181122T113217Z" creationid="luke" creationdate="20181122T113217Z">
         <seg>Prima pagina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Follow us on our design blog, Twitter, Telegram and Google+</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140344Z" creationid="luke" creationdate="20181123T140344Z">
+        <seg>Follow us on our design blog, Twitter, Telegram and Google+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, create a new page at the wiki, draft a guideline, or create a mockup are better managed outside bugzilla.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140218Z" creationid="luke" creationdate="20181123T140218Z">
+        <seg>For instance, create a new page at the wiki, draft a guideline, or create a mockup are better managed outside bugzilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this purpose we use this wiki.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140227Z" creationid="luke" creationdate="20181123T140227Z">
+        <seg>For this purpose we use this wiki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Get in contact</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140342Z" creationid="luke" creationdate="20181123T140342Z">
+        <seg>Get in contact</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How we work</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140233Z" creationid="luke" creationdate="20181123T140233Z">
+        <seg>How we work</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you think it breaks a UX principle or guideline, it's a UX bug.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140211Z" creationid="luke" creationdate="20181123T140211Z">
+        <seg>If you think it breaks a UX principle or guideline, it's a UX bug.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It encompasses traditional human-computer interaction design, and extends it by addressing all aspects including branding and design.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T135927Z" creationid="luke" creationdate="20181123T135927Z">
+        <seg>It encompasses traditional human-computer interaction design, and extends it by addressing all aspects including branding and design.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Join the weekly Jitsi meeting every Wednesday, 6pm UTC (20:00 CEST).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140403Z" creationid="luke" creationdate="20181123T140403Z">
+        <seg>Join the weekly Jitsi meeting every Wednesday, 6pm UTC (20:00 CEST).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Learn more in the blog post about Tickets on Behalf of UX, or in general from Fabiana Simoes's GUADEC presentation about How to not report your UX bug.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140212Z" creationid="luke" creationdate="20181123T140212Z">
+        <seg>Learn more in the blog post about Tickets on Behalf of UX, or in general from Fabiana Simoes's GUADEC presentation about How to not report your UX bug.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice calls simple tasks easyhack, and together with the keyword “skilldesign” you may search the bugtracker.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140214Z" creationid="luke" creationdate="20181123T140214Z">
+        <seg>LibreOffice calls simple tasks easyhack, and together with the keyword “skilldesign” you may search the bugtracker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many tasks can be done by everyone, some require creativity, and other need more usability knowledge.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140229Z" creationid="luke" creationdate="20181123T140229Z">
+        <seg>Many tasks can be done by everyone, some require creativity, and other need more usability knowledge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More advanced topic would be:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140307Z" creationid="luke" creationdate="20181123T140307Z">
+        <seg>More advanced topic would be:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-coding tasks are for instance:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140243Z" creationid="luke" creationdate="20181123T140243Z">
+        <seg>Non-coding tasks are for instance:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Of course we follow all UX principles too.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140205Z" creationid="luke" creationdate="20181123T140205Z">
+        <seg>Of course we follow all UX principles too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open tasks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140241Z" creationid="luke" creationdate="20181123T140241Z">
+        <seg>Open tasks</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,10 +230,226 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Register to the design mailing list and write emails to all people on this list</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140402Z" creationid="luke" creationdate="20181123T140402Z">
+        <seg>Register to the design mailing list and write emails to all people on this list</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scribble redesign mockups of dialogs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140309Z" creationid="luke" creationdate="20181123T140309Z">
+        <seg>Scribble redesign mockups of dialogs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Second page:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140417Z" creationid="luke" creationdate="20181123T140417Z">
+        <seg>Second page:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simplicity by default with Full Functionality on demand</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T135933Z" creationid="luke" creationdate="20181123T135933Z">
+        <seg>Simplicity by default with Full Functionality on demand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So you can use it to translate parts of the page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181122T113229Z" creationid="luke" creationdate="20181122T113229Z">
         <seg>So you can use it to translate parts of the page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The agenda is tracked in the minutes, and shared on the mailing list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140409Z" creationid="luke" creationdate="20181123T140409Z">
+        <seg>The agenda is tracked in the minutes, and shared on the mailing list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The intended features are listed formally as functional requirements and non-functional constraints to the design.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140236Z" creationid="luke" creationdate="20181123T140236Z">
+        <seg>The intended features are listed formally as functional requirements and non-functional constraints to the design.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The simplest way to contribute to LibreOffice is to submit bugs and enhancement requests to our bugtracker.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140210Z" creationid="luke" creationdate="20181123T140210Z">
+        <seg>The simplest way to contribute to LibreOffice is to submit bugs and enhancement requests to our bugtracker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These calls are open to everyone.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140404Z" creationid="luke" creationdate="20181123T140404Z">
+        <seg>These calls are open to everyone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usability engineering is based on structured methods for achieving efficiency and elegance in interface design.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T135928Z" creationid="luke" creationdate="20181123T135928Z">
+        <seg>Usability engineering is based on structured methods for achieving efficiency and elegance in interface design.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usability is about users, so we basically observe, talk, interview, watch videos, and read comments to get an impression of what our users need.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140234Z" creationid="luke" creationdate="20181123T140234Z">
+        <seg>Usability is about users, so we basically observe, talk, interview, watch videos, and read comments to get an impression of what our users need.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usability over Graphical Design</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T135955Z" creationid="luke" creationdate="20181123T135955Z">
+        <seg>Usability over Graphical Design</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User experience design (UX) is the process of enhancing user satisfaction by improving the usability, accessibility, and pleasure with LibreOffice products.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T135924Z" creationid="luke" creationdate="20181123T135924Z">
+        <seg>User experience design (UX) is the process of enhancing user satisfaction by improving the usability, accessibility, and pleasure with LibreOffice products.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We also take care about accessibility, branding to the visual design including icons, and support the QA, marketing and development teams.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140206Z" creationid="luke" creationdate="20181123T140206Z">
+        <seg>We also take care about accessibility, branding to the visual design including icons, and support the QA, marketing and development teams.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We always have open tasks for creative people with no doing expertise, as well as more advanced topics for experienced usability engineers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140242Z" creationid="luke" creationdate="20181123T140242Z">
+        <seg>We always have open tasks for creative people with no doing expertise, as well as more advanced topics for experienced usability engineers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We are people from all over the world with a wide variety of knowledge and different backgrounds.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140332Z" creationid="luke" creationdate="20181123T140332Z">
+        <seg>We are people from all over the world with a wide variety of knowledge and different backgrounds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We have task for everyone who is interested to join.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T135917Z" creationid="luke" creationdate="20181123T135917Z">
+        <seg>We have task for everyone who is interested to join.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We have tasks for everyone from the very beginner to advanced developers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140213Z" creationid="luke" creationdate="20181123T140213Z">
+        <seg>We have tasks for everyone from the very beginner to advanced developers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We provide information on these pages about what we do, how we work, and how you may contribute.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T135916Z" creationid="luke" creationdate="20181123T135916Z">
+        <seg>We provide information on these pages about what we do, how we work, and how you may contribute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We run surveys and quick polls to get insights on how users work with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T135929Z" creationid="luke" creationdate="20181123T135929Z">
+        <seg>We run surveys and quick polls to get insights on how users work with LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We start new topics with the reference to the bug tracker, followed by the description of current state and how competitors solve the problem, in order to get a common understanding.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140235Z" creationid="luke" creationdate="20181123T140235Z">
+        <seg>We start new topics with the reference to the bug tracker, followed by the description of current state and how competitors solve the problem, in order to get a common understanding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Welcome to the Design and User Experience team.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T135911Z" creationid="luke" creationdate="20181123T135911Z">
+        <seg>Welcome to the Design and User Experience team.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What we do for LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T135923Z" creationid="luke" creationdate="20181123T135923Z">
+        <seg>What we do for LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What you can do</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140209Z" creationid="luke" creationdate="20181123T140209Z">
+        <seg>What you can do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Who we are</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140331Z" creationid="luke" creationdate="20181123T140331Z">
+        <seg>Who we are</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With this input we scribble mockups using Balsamiq Mockups, or other tools like LibreOffice Draw or Pencil, and eventually after a couple of iterations and discussions, the proposal is published on our design blog to get input from the community.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T140236Z" creationid="luke" creationdate="20181123T140236Z">
+        <seg>With this input we scribble mockups using Balsamiq Mockups, or other tools like LibreOffice Draw or Pencil, and eventually after a couple of iterations and discussions, the proposal is published on our design blog to get input from the community.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With this knowledge we start with generic human interaction guidelines.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T135930Z" creationid="luke" creationdate="20181123T135930Z">
+        <seg>With this knowledge we start with generic human interaction guidelines.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Workflows are designed with two personas in mind, Benjamin to target beginners and Eve for the advanced user.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T135931Z" creationid="luke" creationdate="20181123T135931Z">
+        <seg>Workflows are designed with two personas in mind, Benjamin to target beginners and Eve for the advanced user.</seg>
       </tuv>
     </tu>
     <tu>
