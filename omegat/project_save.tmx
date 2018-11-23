@@ -224,8 +224,8 @@
       <tuv lang="EN">
         <seg>Please be aware the italian page ( &lt;a0&gt;https://wiki.documentfoundation.org/Design/it&lt;/a0&gt; ) does exist; just not updated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181123T142529Z" creationid="luke" creationdate="20181122T113228Z">
-        <seg>aaaaPlease be aware the italian page ( &lt;a0&gt;https://wiki.documentfoundation.org/Design/it&lt;/a0&gt; ) does exist; just not updated.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T144543Z" creationid="luke" creationdate="20181122T113228Z">
+        <seg>Fate attenzione: la pagina italiana ( &lt;a0&gt;https://wiki.documentfoundation.org/Design/it&lt;/a0&gt; ) esiste già; solo che non è aggiornata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -264,8 +264,8 @@
       <tuv lang="EN">
         <seg>So you can use it to translate parts of the page.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181122T113229Z" creationid="luke" creationdate="20181122T113229Z">
-        <seg>So you can use it to translate parts of the page.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T144608Z" creationid="luke" creationdate="20181122T113229Z">
+        <seg>Quindi potete sfruttarla per tradurre parti della pagina stessa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,8 +408,8 @@
       <tuv lang="EN">
         <seg>Welcome to the Design and User Experience team.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181123T135911Z" creationid="luke" creationdate="20181123T135911Z">
-        <seg>Welcome to the Design and User Experience team.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T144616Z" creationid="luke" creationdate="20181123T135911Z">
+        <seg>aaaaaaaaaaWelcome to the Design and User Experience team.</seg>
       </tuv>
     </tu>
     <tu>
