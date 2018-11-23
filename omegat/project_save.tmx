@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unofficial pages, forums, services, social media and other pages can be found here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T142751Z" creationid="luke" creationdate="20181123T142751Z">
+        <seg>Unofficial pages, forums, services, social media and other pages can be found here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usability engineering is based on structured methods for achieving efficiency and elegance in interface design.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181123T135928Z" creationid="luke" creationdate="20181123T135928Z">
